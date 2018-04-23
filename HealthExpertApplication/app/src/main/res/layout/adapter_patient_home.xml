@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/categoryAdapterContainer"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="?attr/selectableItemBackground">
+
+    <ImageView
+        android:id="@+id/categoryBackground"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center"
+        android:adjustViewBounds="true"
+        android:maxHeight="175dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/prepare_button" />
+
+    <ImageView
+        android:src="@drawable/doctor"
+        android:id="@+id/ivIconChar"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_gravity="center"
+        android:layout_margin="30dp" />
+
+    <com.healthexpert.ui.widgets.BaseTextView
+        android:id="@+id/tvCatName"
+        style="@style/PrimaryText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center|bottom"
+        android:padding="16dp"
+        android:textSize="18sp"
+        android:text="Doctor"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+         />
+
+</FrameLayout>

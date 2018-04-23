@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/mBookmarkAdd"
+        android:icon="@drawable/star_outline"
+        android:title="ADD"
+        app:showAsAction="always"
+        android:visible="false"/>
+    <item
+        android:visible="false"
+        android:id="@+id/mBookmarkRemove"
+        android:icon="@drawable/star_fill"
+        android:title="Remove"
+        app:showAsAction="always" />
+</menu>

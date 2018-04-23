@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "362717276821",
+    "firebase_url": "https://newfirebaseapplication-7755a.firebaseio.com",
+    "project_id": "newfirebaseapplication-7755a",
+    "storage_bucket": "newfirebaseapplication-7755a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362717276821:android:859eb902c966f33a",
+        "android_client_info": {
+          "package_name": "com.archish.newfirebaseapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362717276821-d9focji65klkos755tlo0ubqte99dvqb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.archish.newfirebaseapplication",
+            "certificate_hash": "ff0c3af25ce9111c511ec69cb19aefc6c7dfd1a1"
+          }
+        },
+        {
+          "client_id": "362717276821-eprqni9h6lfm0ikjaj1k0sfm1skdu3cq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhpYat3nHuyu71fw4v9S6xe4Z9EIN7Ar4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362717276821-eprqni9h6lfm0ikjaj1k0sfm1skdu3cq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362717276821:android:4a9cab1a7399add3",
+        "android_client_info": {
+          "package_name": "com.archish.pushnotificationsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362717276821-jm68aunaomjm38bf5ib39fljq06o415o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.archish.pushnotificationsample",
+            "certificate_hash": "ff0c3af25ce9111c511ec69cb19aefc6c7dfd1a1"
+          }
+        },
+        {
+          "client_id": "362717276821-eprqni9h6lfm0ikjaj1k0sfm1skdu3cq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhpYat3nHuyu71fw4v9S6xe4Z9EIN7Ar4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362717276821-eprqni9h6lfm0ikjaj1k0sfm1skdu3cq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362717276821:android:fc69dc17467d54a8",
+        "android_client_info": {
+          "package_name": "com.hyperdroidclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362717276821-ia0irepimvl5t2jig3jgvgphm25nqnhq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hyperdroidclient",
+            "certificate_hash": "ff0c3af25ce9111c511ec69cb19aefc6c7dfd1a1"
+          }
+        },
+        {
+          "client_id": "362717276821-eprqni9h6lfm0ikjaj1k0sfm1skdu3cq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhpYat3nHuyu71fw4v9S6xe4Z9EIN7Ar4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362717276821-eprqni9h6lfm0ikjaj1k0sfm1skdu3cq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362717276821:android:8a1c5bb1675f9349",
+        "android_client_info": {
+          "package_name": "com.healthexpert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362717276821-6io5r3gp01k25lcrnn9m6itqtd99vegr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.healthexpert",
+            "certificate_hash": "ff0c3af25ce9111c511ec69cb19aefc6c7dfd1a1"
+          }
+        },
+        {
+          "client_id": "362717276821-eprqni9h6lfm0ikjaj1k0sfm1skdu3cq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhpYat3nHuyu71fw4v9S6xe4Z9EIN7Ar4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362717276821-eprqni9h6lfm0ikjaj1k0sfm1skdu3cq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

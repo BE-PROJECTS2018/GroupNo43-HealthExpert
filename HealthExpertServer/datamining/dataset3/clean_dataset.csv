@@ -1,0 +1,2866 @@
+disease,symptom,Number of diseases,values
+Acquired immune deficiency syndrome (AIDS) (disorder),Hepatomegaly associated with AIDS,2.0,1
+Acquired immune deficiency syndrome (AIDS) (disorder),Malaise associated with AIDS,2.0,1
+Acquired immune deficiency syndrome (AIDS) (disorder),Fatigue associated with AIDS,2.0,1
+Acute disease,Sudden visual loss,1.0,1
+Acute disease,Acute vomiting,1.0,1
+Acute disease,Benign paroxysmal positional vertigo nystagmus,3.0,1
+Acute pharyngitis,Pain in throat,4.0,1
+Acute pharyngitis,Sore throat symptom,4.0,1
+Acute pharyngitis,Has a sore throat,1.0,1
+Stokes-Adams attack,Syncope symptom,12.0,1
+Stokes-Adams-Morgagni syndrome,Syncope symptom,12.0,1
+Stokes-Adams syndrome,Syncope symptom,12.0,1
+Stokes-Adams attack,Syncope and collapse,12.0,1
+Stokes-Adams-Morgagni syndrome,Syncope and collapse,12.0,1
+Stokes-Adams syndrome,Syncope and collapse,12.0,1
+Amblyopia (disorder),(Visual disturbances NOS) or (amblyopia) or (blurred vision),2.0,1
+Amenorrhea (finding),Menstruation absent,1.0,1
+Prinzmetal angina,Angina,23.0,1
+Prinzmetal angina,Ischemic chest pain,23.0,1
+Prinzmetal angina,Pain (finding),136.0,1
+Anorexic,Anorexia symptom (finding),2.0,1
+Anuria (finding),Oliguria and anuria,1.0,1
+Eye strain,Visual discomfort,3.0,1
+Accommodative asthenopia,Visual discomfort,3.0,1
+Eye strain,Eyes tire easily,1.0,1
+Accommodative asthenopia,Eyes tire easily,1.0,1
+Eye strain,Visual symptoms,1.0,1
+Accommodative asthenopia,Visual symptoms,1.0,1
+Azoospermia (disorder),Complete spermatogenic arrest,2.0,1
+Azoospermia (finding),Complete spermatogenic arrest,2.0,1
+Azoospermia (disorder),Incomplete spermatogenic arrest,2.0,1
+Azoospermia (finding),Incomplete spermatogenic arrest,2.0,1
+Nonproliferative diabetic retinopathy (disorder),O/E - right eye preproliferative diabetic retinopathy,3.0,1
+Background retinopathy,O/E - retinopathy,2.0,1
+Unspecified background retinopathy,O/E - retinopathy,2.0,1
+Background retinopathy,O/E - referable retinopathy,1.0,1
+Unspecified background retinopathy,O/E - referable retinopathy,1.0,1
+Background retinopathy,O/E - non-referable retinopathy,1.0,1
+Unspecified background retinopathy,O/E - non-referable retinopathy,1.0,1
+Disorder of basal ganglia,Hemiballism (disorder),2.0,1
+Binocular vision disorder,Visual alteration,9.0,1
+Unicameral bone cyst,Mass of musculoskeletal structure,10.0,1
+Solitary bone cyst,Mass of musculoskeletal structure,10.0,1
+Bone cyst,Mass of musculoskeletal structure,10.0,1
+Disorder of brain,Menopausal headache,3.0,1
+Disorder of breast,"Breast subinvolution, postpartum",2.0,1
+Disorder of breast,Postpartum subinvolution of breast,2.0,1
+Disorder of breast,Peau d'orange surface of breast,2.0,1
+Disorder of bronchus,Smokers' cough,3.0,1
+Burning mouth syndrome,Skin sensation disturbance,6.0,1
+Burning mouth syndrome,Glossodynia (disorder),4.0,1
+Burning mouth syndrome,Glossopyrosis (disorder),3.0,1
+Disorder of cardiovascular system,Syncope symptom,12.0,1
+Disorder of cardiovascular system,Syncope and collapse,12.0,1
+Disorder of cardiovascular system,Near syncope,1.0,1
+"Complex regional pain syndrome, type II",Pain (finding),136.0,1
+Disorder of the central nervous system,Hemiplegia (disorder),11.0,1
+Disorder of the central nervous system,Thunderclap headache,2.0,1
+Disorder of the central nervous system,Bruns nystagmus,3.0,1
+Cerebellar disorder,Cerebellar ataxia,11.0,1
+Cerebellar deficiency syndrome,Cerebellar ataxia,11.0,1
+Progressive cerebellar tremor,Cerebellar ataxia,11.0,1
+Early onset cerebellar ataxia with myoclonus,Cerebellar ataxia,11.0,1
+Dyssynergia cerebellaris myoclonica,Cerebellar ataxia,11.0,1
+Progressive cerebellar tremor,Myoclonic disorder,29.0,1
+Early onset cerebellar ataxia with myoclonus,Myoclonic disorder,29.0,1
+Dyssynergia cerebellaris myoclonica,Myoclonic disorder,29.0,1
+Cervicobrachial neuralgia,Pain (finding),136.0,1
+Cervico-occipital neuralgia,Pain of head and neck region,3.0,1
+Chagas' disease without mention of organ involvement (disorder),Trypanosomal chancre,4.0,1
+Chorea (finding),Involuntary movement,5.0,1
+Chorea (finding),Involuntary movement symptom,5.0,1
+Chorea (finding),Oral choreiform movement,1.0,1
+Chronic disease (disorder),Chronic vomiting,1.0,1
+Chronic rhinitis,Purulent nasal discharge,8.0,1
+Chronic rhinitis,Purulent rhinitis,8.0,1
+Chronic rhinitis,(Chronic rhinitis) or (catarrh unspecified),1.0,1
+Ciliary neuralgia,Headache (finding),59.0,1
+Chronic cluster headache,Headache (finding),59.0,1
+Cluster headache,Headache (finding),59.0,1
+Ciliary neuralgia,Neuropathic pain,16.0,1
+Chronic cluster headache,Neuropathic pain,16.0,1
+Cluster headache,Neuropathic pain,16.0,1
+Ciliary neuralgia,Pain (finding),136.0,1
+Chronic cluster headache,Pain (finding),136.0,1
+Cluster headache,Pain (finding),136.0,1
+Disorder of colon,Constipation (disorder),12.0,1
+Coma (disorder),[D]Coma &/or [D]stupor,1.0,1
+Coma (disorder),[D]Coma and stupor NOS,1.0,1
+Coma (disorder),[D]Coma and stupor,1.0,1
+Common cold,Sinus catarrh,1.0,1
+Genital warts,Perineal lump (finding),6.0,1
+Condyloma acuminatum,Perineal lump (finding),6.0,1
+Genital warts,Penile warts,4.0,1
+Condyloma acuminatum,Penile warts,4.0,1
+Genital warts,Mass of urogenital structure,1.0,1
+Condyloma acuminatum,Mass of urogenital structure,1.0,1
+Febrile convulsion,Seizure,169.0,1
+Disorder of cornea,Corneal pigmentations and deposits,4.0,1
+Coronary artery spasm,[X]Other forms of angina pectoris,14.0,1
+Bathing cramp,Cramp (finding),1.0,1
+Bathing cramp,(Bathing cramps - immersion) or (immersion),1.0,1
+Cranial neuralgia,Neuropathic pain,16.0,1
+Cranial neuralgia,Pain (finding),136.0,1
+5p partial monosomy syndrome,Cri du chat,1.0,1
+Cutaneous endometriosis,Pain (finding),136.0,1
+Difficulty swallowing,Swallowing painful,1.0,1
+Difficulty swallowing,Swallowing problem,1.0,1
+Difficulty swallowing,Swallowing symptoms,1.0,1
+Difficulty swallowing,(Swallowing symptoms) or (dysphagia),1.0,1
+Accretion on teeth,Extrinsic staining of teeth associated with inadequate oral hygiene,2.0,1
+Accretion on teeth,Extrinsic staining of teeth associated with oral habits,2.0,1
+Sensitive dentin,Tooth sensitivity to cold,2.0,1
+Sensitive dentin,Tooth sensitivity to heat,2.0,1
+Dermatitis (disorder),Skin irritation,3.0,1
+Generalized erythroderma,Erythema of skin,89.0,1
+Erythrodermic eczema,Erythema of skin,89.0,1
+Pityriasis rubra (Hebra),Erythema of skin,89.0,1
+Generalized exfoliative dermatitis,Erythema of skin,89.0,1
+Generalized erythroderma,Erythematous condition,89.0,1
+Erythrodermic eczema,Erythematous condition,89.0,1
+Pityriasis rubra (Hebra),Erythematous condition,89.0,1
+Generalized exfoliative dermatitis,Erythematous condition,89.0,1
+Developmental coordination disorder,Slowness and poor responsiveness,1.0,1
+Diabetes mellitus,O/E - right eye background diabetic retinopathy,2.0,1
+Diabetes mellitus,O/E - left eye background diabetic retinopathy,2.0,1
+Diabetes mellitus,O/E - right eye preproliferative diabetic retinopathy,3.0,1
+Diabetes mellitus,O/E - left eye preproliferative diabetic retinopathy,2.0,1
+Diabetes mellitus,O/E - right eye proliferative diabetic retinopathy,2.0,1
+Diabetes mellitus,O/E - left eye proliferative diabetic retinopathy,2.0,1
+Diabetes mellitus,O/E - right eye diabetic maculopathy,2.0,1
+Diabetes mellitus,O/E - left eye diabetic maculopathy,2.0,1
+Diabetic retinopathy,O/E - right eye background diabetic retinopathy,2.0,1
+Diabetic retinopathy,O/E - left eye background diabetic retinopathy,2.0,1
+Diplopia (disorder),Refractive diplopia,2.0,1
+Diplopia (disorder),Monocular diplopia,2.0,1
+Diplopia (disorder),Visual alteration,9.0,1
+Disease (disorder),Clinical finding,1.0,1
+Disease (disorder),Finding of vomiting,16.0,1
+Disease (disorder),Vomiting symptom,16.0,1
+Complete trisomy 21 syndrome,Cry of Down's syndrome,1.0,1
+Tear film insufficiency,Dry eyes,1.0,1
+Tear film insufficiency,Dry eye,1.0,1
+Infectious diarrheal disease,Diarrhea symptom,39.0,1
+Infective diarrhea,Diarrhea symptom,39.0,1
+Infectious diarrheal disease,Loose stool,39.0,1
+Infective diarrhea,Loose stool,39.0,1
+Dyskinesia,Motor dysfunction,4.0,1
+Dyskinesia,Adiadochokinesia,1.0,1
+Dyskinesia,Dysdiadochokinesis,1.0,1
+Dyskinesia,Neonatal dyskinesia,1.0,1
+Dyskinesia,Coordination problem,12.0,1
+Pain in female genitalia on intercourse,Pain in female genitalia,2.0,1
+Pain in female genitalia on intercourse,Pain on penetration,1.0,1
+Paroxysmal dyspnea,Difficulty breathing,2.0,1
+Paroxysmal dyspnea,Paroxysmal nocturnal dyspnea (finding),1.0,1
+Primary torsion dystonia,Diurnal dystonia,2.0,1
+Torsion dystonia,Diurnal dystonia,2.0,1
+Disorder of ear,Loudness recruitment,2.0,1
+Disorder of ear,Paracusis (disorder),1.0,1
+Disorder of ear,Bleeding from ear,4.0,1
+Disorder of ear,Deafness symptom,1.0,1
+Eclampsia (disorder),Seizure,169.0,1
+Nutrition deficiency due to insufficient food,Starvation (disorder),5.0,1
+Subacute bacterial endocarditis,Osler's node,3.0,1
+Disorder of endocrine system,Mass of endocrine structure,1.0,1
+Disorder of endocrine system,Pain of endocrine structure,1.0,1
+Endometriosis (clinical),Pain (finding),136.0,1
+Endometriosis of fallopian tube,Pain (finding),136.0,1
+"Lyell's toxic epidermal necrolysis, subepidermal type",Erythema of skin,89.0,1
+"Lyell's toxic epidermal necrolysis, subepidermal type",Erythematous condition,89.0,1
+Epileptic seizure,Seizure,169.0,1
+Seizure disorder,Seizure,169.0,1
+Epileptic seizure,Epileptic aura,1.0,1
+Seizure disorder,Epileptic aura,1.0,1
+Epileptic seizure,Partial seizure,22.0,1
+Seizure disorder,Partial seizure,22.0,1
+Localization-related epilepsy,Seizure,169.0,1
+Localization-related epilepsy,Partial seizure,22.0,1
+Generalized epilepsy,Seizure,169.0,1
+Tonic-clonic epilepsy,Seizure,169.0,1
+Epileptic seizures - myoclonic,Myoclonic disorder,29.0,1
+Myoclonic seizure,Myoclonic disorder,29.0,1
+Epileptic seizures - myoclonic,Seizure,169.0,1
+Myoclonic seizure,Seizure,169.0,1
+Childhood absence epilepsy,Seizure,169.0,1
+Absence seizure,Seizure,169.0,1
+Juvenile absence epilepsy,Seizure,169.0,1
+Temporal lobe epilepsy,Seizure,169.0,1
+Candidal intertrigo,Erythema of skin,89.0,1
+Candidal intertrigo,Erythematous condition,89.0,1
+Erythema chronica migrans,Erythema of skin,89.0,1
+Erythema chronica migrans,Erythematous condition,89.0,1
+Erythema multiforme,Erythema of skin,89.0,1
+Erythema multiforme,Erythematous condition,89.0,1
+Erythematosquamous dermatosis,Erythema of skin,89.0,1
+Erythematosquamous dermatosis,Erythematous condition,89.0,1
+Erythromelalgia (disorder),Pain (finding),136.0,1
+Erythromelalgia (disorder),Erythema of skin,89.0,1
+Erythromelalgia (disorder),Erythematous condition,89.0,1
+Primary erythromelalgia,Pain (finding),136.0,1
+Primary erythromelalgia,Erythema of skin,89.0,1
+Primary erythromelalgia,Erythematous condition,89.0,1
+Stricture of esophagus,Bolus impaction,1.0,1
+Cutaneous eruption,Erythema of skin,89.0,1
+Eruption,Erythema of skin,89.0,1
+Cutaneous eruption,Erythematous condition,89.0,1
+Eruption,Erythematous condition,89.0,1
+Cutaneous eruption,Macular eruption,4.0,1
+Eruption,Macular eruption,4.0,1
+Cutaneous eruption,Weal,6.0,1
+Eruption,Weal,6.0,1
+Cutaneous eruption,Meningococcal rash,3.0,1
+Eruption,Meningococcal rash,3.0,1
+Cutaneous eruption,Spots on skin (disorder),2.0,1
+Eruption,Spots on skin (disorder),2.0,1
+Exophthalmos (disorder),Exophthalmos due to orbital edema or congestion,1.0,1
+Extrapyramidal disease,Athetoid movement,8.0,1
+Extrapyramidal disease,Hemiballism (disorder),2.0,1
+Disorder of eye proper (disorder),Internal ophthalmoplegia,3.0,1
+Disorder of eye proper (disorder),Discharge of eye,3.0,1
+Disorder of eye proper (disorder),Contact lens related disorder,3.0,1
+Disorder of eyelid,Blepharospasm (disorder),7.0,1
+Failure to thrive in infant,Failure to gain weight (finding),1.0,1
+Failure to thrive,Failure to gain weight (finding),1.0,1
+Failure to thrive in infant,Physiological development failure,1.0,1
+Failure to thrive,Physiological development failure,1.0,1
+Failure to thrive in infant,"[D]Weight, failure to gain, infant",1.0,1
+Failure to thrive,"[D]Weight, failure to gain, infant",1.0,1
+Failure to thrive in infant,"Weight,fail to gain,infant [D]",1.0,1
+Failure to thrive,"Weight,fail to gain,infant [D]",1.0,1
+Farmers' lung,Diffuse inflammation,11.0,1
+Incontinence of feces,Spillage of feces,1.0,1
+Incontinence of feces,Spurious diarrhea - overflow,1.0,1
+Incontinence of feces,Double incontinence (finding),2.0,1
+Incontinence of feces,Bowels: occasional accident,1.0,1
+Incontinence of feces,Neuromyopathic fecal incontinence,1.0,1
+Incontinence of feces,Congenital fecal incontinence,1.0,1
+Incontinence of feces,Fecal fluid leakage,1.0,1
+Nonreassuring fetal status,Fetal distress - prelabor,1.0,1
+Nonreassuring fetal status,Fetal distress - in labor,1.0,1
+Fibromyositis,Pain (finding),136.0,1
+Muscular rheumatism,Pain (finding),136.0,1
+Focal motor seizure,Seizure,169.0,1
+Simple partial seizure with motor dysfunction,Seizure,169.0,1
+Focal motor seizure,Partial seizure,22.0,1
+Simple partial seizure with motor dysfunction,Partial seizure,22.0,1
+Eruption cyst,Mass of digestive structure,22.0,1
+Freemartin,Virilization (finding),5.0,1
+Functional disorder of intestine,Constipation (disorder),12.0,1
+Functional disorder of intestine,Hyperactive rectosigmoid junction,1.0,1
+Functional disorder of intestine,Abnormal large bowel motility,1.0,1
+Functional disorder of intestine,Bowel spasm,4.0,1
+Generalized non-convulsive epilepsy,Seizure,169.0,1
+Disorder of female genital system,Leukoplakia of female genital organs,1.0,1
+Disorder of female genital organs,Leukoplakia of female genital organs,1.0,1
+Disorder of female genital system,Mass of female genital structure,7.0,1
+Disorder of female genital organs,Mass of female genital structure,7.0,1
+Disorder of male genital organ,Pain in testicle (finding),1.0,1
+Disorder of male genital organ,Edema of male genital organs,1.0,1
+Disorder of male genital organ,Pain in scrotum (finding),1.0,1
+Disorder of male genital organ,Burning scrotum,4.0,1
+Disorder of male genital organ,Pruritus of male genital organs,1.0,1
+Disorder of male genital organ,Leukoplakia of male genital organs,2.0,1
+Disorder of male genital organ,Persistent testicular pain,1.0,1
+Disorder of male genital organ,Tenderness of male genitalia,1.0,1
+Laryngeal granuloma,Mass of respiratory structure,11.0,1
+Central hearing loss,Bilateral central hearing loss,2.0,1
+Day blindness,Subjective visual disturbance,7.0,1
+Hematotympanum,Bleeding from ear,4.0,1
+Mild hyperemesis gravidarum,Hyperemesis gravidarum,6.0,1
+Mild hyperemesis gravidarum,Finding of vomiting,16.0,1
+Mild hyperemesis gravidarum,Vomiting symptom,16.0,1
+Hyperesthesia dolorosa,Skin sensation disturbance,6.0,1
+Hyperesthesia dolorosa,Hyperesthesia (finding),1.0,1
+Hypertensive disorder,Paroxysmal hypertension,3.0,1
+Excessive hair growth,Excessive growth of facial hair,1.0,1
+Excessive hair growth,Excessive growth of body hair,1.0,1
+Excessive hair growth,Excessive growth of leg hair,1.0,1
+Congenital ichthyosis of skin,Harlequin change,3.0,1
+Neonatal disorder (disorder),Edema of newborn,2.0,1
+Disorders of initiating and maintaining sleep,Insomnia (disorder),7.0,1
+Intertrigo (disorder),Erythema of skin,89.0,1
+Intertrigo (disorder),Erythematous condition,89.0,1
+Disorder of intestine,Gastrointestinal symptom,2.0,1
+Disorder of intestine,Mass of digestive structure,22.0,1
+Neonatal jaundice,Newborn physiological jaundice (disorder),8.0,1
+Obstructive hyperbilirubinemia,[D]Jaundice (not of newborn),5.0,1
+Cholestatic jaundice syndrome,[D]Jaundice (not of newborn),5.0,1
+Obstructive hyperbilirubinemia,[D]Jaundice (not of newborn) NOS,5.0,1
+Cholestatic jaundice syndrome,[D]Jaundice (not of newborn) NOS,5.0,1
+Disorder of jaw,Abnormal jaw movement,1.0,1
+Arthropathy (disorder),Rubella arthralgia,2.0,1
+Ophthalmoplegia plus syndrome,Ophthalmoplegia (disorder),11.0,1
+Oculocraniosomatic syndrome,Ophthalmoplegia (disorder),11.0,1
+Leukoplakia of penis,Leukoplakia of male genital organs,2.0,1
+Labyrinthine disorder (disorder),Syncopal vertigo,1.0,1
+Disorder of lacrimal system,Dacryops,1.0,1
+Speech and language disorder,Loss of voice,5.0,1
+Laryngeal spasm,Spasm (finding),10.0,1
+Laryngismus stridulus,Spasm (finding),10.0,1
+Laryngeal spasm,Stridor (finding),1.0,1
+Laryngismus stridulus,Stridor (finding),1.0,1
+Leukorrhea (finding),Leukorrhoea unspecified,1.0,1
+Leukorrhea (finding),Leukorrhea unspecified,1.0,1
+Leukorrhea (finding),(Leukorrhea unspecified) or (vaginal discharge NOS),1.0,1
+Leukorrhea (finding),(Leukorrhoea unspecified) or (vaginal discharge NOS),1.0,1
+Disorder of lip,Cheilodynia (disorder),2.0,1
+Disorder of lip,Chapping of lips,2.0,1
+Disorder of lip,Cracked lips,2.0,1
+Disease of liver,Large liver,2.0,1
+Disease of liver,Hepatocellular jaundice,4.0,1
+"Unspecified lymphadenitis, excluding mesenteric lymphaden",Tender lymph node,1.0,1
+"Unspecified lymphadenitis, excluding mesenteric lymphaden",Tenderness of lymphoreticular structure,1.0,1
+Lymphocyst,Mass of lymphoreticular structure,5.0,1
+Lymph cyst,Mass of lymphoreticular structure,5.0,1
+Malarial fever,Intermittent fever,1.0,1
+Disease due to Plasmodiidae,Intermittent fever,1.0,1
+Malarial fever,Malarial pigment deposition,5.0,1
+Disease due to Plasmodiidae,Malarial pigment deposition,5.0,1
+Melanosis (morphologic abnormality),Melasma gravidarum,2.0,1
+Melanosis (disorder),Melasma gravidarum,2.0,1
+Chloasma (disorder),Melasma gravidarum,2.0,1
+Ménière's disease,Secondary endolymphatic hydrops,2.0,1
+Meningococcal infectious disease,Meningococcal rash,3.0,1
+Metabolic disease,Hypoproteinemia (disorder),3.0,1
+Generalized metabolic disorder,Hypoproteinemia (disorder),3.0,1
+Metabolic disease,Polyuric state,3.0,1
+Generalized metabolic disorder,Polyuric state,3.0,1
+Motion sickness,Nausea (finding),1.0,1
+Dental fluorosis,Teeth staining due to drugs,2.0,1
+Disease of mouth,Oral paresthesia,1.0,1
+Disease of mouth,Oral hypoesthesia,1.0,1
+Disease of mouth,Edema of oral vestibule,4.0,1
+Movement disorder,Myoclonic disorder,29.0,1
+Movement disorder,Grimaces,2.0,1
+Movement disorder,Painful legs and moving toes,4.0,1
+Disorder of muscle,Gastric spasm,2.0,1
+Disorder of muscle,Flaccidity of muscle of upper limb,1.0,1
+Myalgia and myositis unspecified,Muscle pain,2.0,1
+Myalgia and myositis unspecified,Muscle tension pain,1.0,1
+Myalgia and myositis unspecified,Skeletal muscle tender (finding),1.0,1
+Myxedema (disorder),Hard edema,5.0,1
+Disorder of nail,Subungual hyperkeratosis,3.0,1
+Disorder of nail,Clubbing of nail (disorder),4.0,1
+Disorder of nail,Onychomadesis,2.0,1
+Narcolepsy (disorder),Hypersomnia (disorder),7.0,1
+Nasociliary neuralgia,Pain (finding),136.0,1
+Disorder of nasopharynx,Palatal myoclonus,5.0,1
+Disorder of nervous system,Reaction to spinal or lumbar puncture (disorder),3.0,1
+Disorder of the nose,Snuffles,3.0,1
+Disorder of the nose,Nasal discharge,3.0,1
+Disorder of the nose,Nasal discharge present,3.0,1
+Nystagmus (disorder),Voluntary nystagmus,2.0,1
+Nystagmus (disorder),Irregular nystagmus,2.0,1
+Nystagmus (disorder),Uniocular nystagmus,1.0,1
+Nystagmus (disorder),Gaze paretic nystagmus,2.0,1
+Nystagmus (disorder),Nystagmus produced by neck rotation,3.0,1
+Nystagmus (disorder),Nystagmus enhanced when fixation removed,3.0,1
+Nystagmus (disorder),Nystagmus unchanged when fixation removed,2.0,1
+Nystagmus (disorder),Nystagmus inhibited when fixation removed,2.0,1
+Nystagmus (disorder),Nystagmus signs,2.0,1
+Nystagmus (disorder),Elliptical nystagmus,3.0,1
+Disorder of eye movements,Ophthalmoplegia (disorder),11.0,1
+Disorder of eye movements,Pseudoophthalmoplegia (disorder),1.0,1
+Omphalitis,Disorder of umbilicus,12.0,1
+Pachydermoperiostosis syndrome,Clubbing (morphologic abnormality),2.0,1
+Pachydermoperiostosis of nail,Clubbing (morphologic abnormality),2.0,1
+Other and unspecified diseases of oral soft tissue,Paralysis of palate,1.0,1
+Other and unspecified diseases of oral soft tissue,Painful mouth,1.0,1
+Other and unspecified diseases of oral soft tissue,Edema of oral soft tissues,4.0,1
+Other and unspecified diseases of oral soft tissue,Discomfort in mouth,2.0,1
+Other and unspecified diseases of oral soft tissue,Mouth symptoms,1.0,1
+Other and unspecified diseases of oral soft tissue,Sore lip (finding),1.0,1
+Other and unspecified diseases of oral soft tissue,Edema of uvula,3.0,1
+Other and unspecified diseases of oral soft tissue,Mass of oral cavity,7.0,1
+Other and unspecified diseases of oral soft tissue,Pain of oral cavity structure,1.0,1
+Other and unspecified diseases of oral soft tissue,Tenderness of oral cavity structure,1.0,1
+Other and unspecified diseases of oral soft tissue,Edema of oral vestibule,4.0,1
+Other and unspecified diseases of oral soft tissue,Sore mouth (finding),1.0,1
+Other non-alcoholic chronic liver disease,Hepatosplenomegaly,1.0,1
+Other non-alcoholic chronic liver disease NOS,Hepatosplenomegaly,1.0,1
+Other nasal cavity and sinus disease,Nasal congestion,2.0,1
+Other nasal cavity and sinus disease,Posterior rhinorrhea (disorder),1.0,1
+Other nasal cavity and sinus disease,Congestion of nasal sinus,4.0,1
+Other nasal cavity and sinus disease,Purulent nasal discharge,8.0,1
+Other nasal cavity and sinus disease,Purulent rhinitis,8.0,1
+Other nasal cavity and sinus disease,Catarrhal nasal discharge,2.0,1
+Other nasal cavity and sinus disease,Sore nostril,1.0,1
+Other nasal cavity and sinus disease,Maxillary sinus pain,1.0,1
+Other nasal cavity and sinus disease,Frontal sinus pain,1.0,1
+Other nasal cavity and sinus disease,Snuffles,3.0,1
+Other nasal cavity and sinus disease,Nasal discharge,3.0,1
+Other nasal cavity and sinus disease,Nasal discharge present,3.0,1
+Other disorders of plasma protein metabolism NOS,Hypoproteinemia (disorder),3.0,1
+Other disorder of plasma protein metabolism,Hypoproteinemia (disorder),3.0,1
+Other forms of nystagmus (disorder),Voluntary nystagmus,2.0,1
+Other forms of nystagmus (disorder),Mixed nystagmus,1.0,1
+Other forms of nystagmus (disorder),Postural nystagmus,2.0,1
+Other forms of nystagmus (disorder),Spontaneous nystagmus,2.0,1
+Other forms of nystagmus (disorder),Body positional nystagmus,2.0,1
+Other forms of nystagmus (disorder),Neck positional nystagmus,1.0,1
+Other forms of nystagmus (disorder),"Positional nystagmus, variable eye direction",1.0,1
+Other forms of nystagmus (disorder),Nystagmus produced by neck rotation,3.0,1
+Other forms of nystagmus (disorder),Nystagmus enhanced when fixation removed,3.0,1
+Other forms of nystagmus (disorder),Nystagmus unchanged when fixation removed,2.0,1
+Other forms of nystagmus (disorder),Nystagmus inhibited when fixation removed,2.0,1
+Other forms of nystagmus (disorder),Bruns nystagmus,3.0,1
+Other forms of nystagmus (disorder),Elliptical nystagmus,3.0,1
+Other specific muscle disorder,Flaccidity - muscle,1.0,1
+[X]Other specified disorders of muscle,Flaccidity - muscle,1.0,1
+Other specific muscle disorder NOS,Flaccidity - muscle,1.0,1
+Other specific muscle disorder,Flaccidity,1.0,1
+[X]Other specified disorders of muscle,Flaccidity,1.0,1
+Other specific muscle disorder NOS,Flaccidity,1.0,1
+Other specific muscle disorder,Drop attack,3.0,1
+[X]Other specified disorders of muscle,Drop attack,3.0,1
+Other specific muscle disorder NOS,Drop attack,3.0,1
+Other specific muscle disorder,Flaccidity of muscle of lower limb,1.0,1
+[X]Other specified disorders of muscle,Flaccidity of muscle of lower limb,1.0,1
+Other specific muscle disorder NOS,Flaccidity of muscle of lower limb,1.0,1
+[X]Other specified diseases of hard tissues of teeth,Tooth sensitivity to cold,2.0,1
+[X]Other specified diseases of hard tissues of teeth,Tooth sensitivity to heat,2.0,1
+[X]Other specified diseases of pancreas,Courvoisier's sign,1.0,1
+[X]Other specified diseases of pancreas,Pancreatic pain,1.0,1
+[X]Other specified disorders of bladder,Bladder distention (finding),1.0,1
+[X]Other specified disorders of bladder,Painful bladder spasm,1.0,1
+[X]Other specified disorders of bladder,Spasm of bladder,1.0,1
+[X]Other specified disorders of kidney and ureter,Ureteric neuromuscular incoordination,2.0,1
+Other male genital organ diseases OS,Spermatoschesis,1.0,1
+Other specified diseases of male genital organ,Spermatoschesis,1.0,1
+[X]Other specified disorders of male genital organs,Spermatoschesis,1.0,1
+Other male genital organ diseases OS,Spermatemphraxis,1.0,1
+Other specified diseases of male genital organ,Spermatemphraxis,1.0,1
+[X]Other specified disorders of male genital organs,Spermatemphraxis,1.0,1
+Other male genital organ diseases OS,Painful sexual act of male,1.0,1
+Other specified diseases of male genital organ,Painful sexual act of male,1.0,1
+[X]Other specified disorders of male genital organs,Painful sexual act of male,1.0,1
+Other male genital organ diseases OS,Pain in male perineum,1.0,1
+Other specified diseases of male genital organ,Pain in male perineum,1.0,1
+[X]Other specified disorders of male genital organs,Pain in male perineum,1.0,1
+Other male genital organ diseases OS,Vas deferens tender,1.0,1
+Other specified diseases of male genital organ,Vas deferens tender,1.0,1
+[X]Other specified disorders of male genital organs,Vas deferens tender,1.0,1
+Other male genital organ diseases OS,Painful ejaculation (finding),1.0,1
+Other specified diseases of male genital organ,Painful ejaculation (finding),1.0,1
+[X]Other specified disorders of male genital organs,Painful ejaculation (finding),1.0,1
+Other male genital organ diseases OS,Testicular neuralgia,3.0,1
+Other specified diseases of male genital organ,Testicular neuralgia,3.0,1
+[X]Other specified disorders of male genital organs,Testicular neuralgia,3.0,1
+Other male genital organ diseases OS,Mass of male genital structure,3.0,1
+Other specified diseases of male genital organ,Mass of male genital structure,3.0,1
+[X]Other specified disorders of male genital organs,Mass of male genital structure,3.0,1
+Other male genital organ diseases OS,Inflammatory testicular mass,2.0,1
+Other specified diseases of male genital organ,Inflammatory testicular mass,2.0,1
+[X]Other specified disorders of male genital organs,Inflammatory testicular mass,2.0,1
+[X]Other specified disorders of penis,Irritation of penis,1.0,1
+Other specified skin disorder NOS,Macular eruption,4.0,1
+Other specified skin disorders,Macular eruption,4.0,1
+Other specified skin disorder NOS,Weal,6.0,1
+Other specified skin disorders,Weal,6.0,1
+Other specified skin disorder NOS,Puffiness of skin,1.0,1
+Other specified skin disorders,Puffiness of skin,1.0,1
+Other specified skin disorder NOS,Auspitz's sign,1.0,1
+Other specified skin disorders,Auspitz's sign,1.0,1
+Other specified skin disorder NOS,Menstrual urticaria,2.0,1
+Other specified skin disorders,Menstrual urticaria,2.0,1
+Other specified skin disorder NOS,Chapping of lips,2.0,1
+Other specified skin disorders,Chapping of lips,2.0,1
+Other specified skin disorder NOS,Cracked lips,2.0,1
+Other specified skin disorders,Cracked lips,2.0,1
+Other specified skin disorder NOS,Macerated skin,1.0,1
+Other specified skin disorders,Macerated skin,1.0,1
+Other specified skin disorder NOS,Bullous weal,1.0,1
+Other specified skin disorders,Bullous weal,1.0,1
+Other specified skin disorder NOS,Malarial pigment deposition,5.0,1
+Other specified skin disorders,Malarial pigment deposition,5.0,1
+[X]Other specified disorders of teeth and supporting structures,Loosening of tooth (disorder),2.0,1
+[X]Other specified erythematous conditions,Erythema of skin,89.0,1
+[X]Other specified erythematous conditions,Erythematous condition,89.0,1
+[X]Other specified erythematous conditions,Erythema scarlatiniforme,1.0,1
+[X]Other specified erythematous conditions,Erythema fugax,1.0,1
+[X]Other specified erythematous conditions,Erythematous ear canal,1.0,1
+[X]Other specified erythematous conditions,Micropapular weal,1.0,1
+[X]Other specified erythematous conditions,Erythematous mucosa,1.0,1
+Other specified atrophic and hypertrophic conditions of skin,Circumoral rhytides,1.0,1
+Other specified atrophic and hypertrophic conditions of skin NOS,Circumoral rhytides,1.0,1
+Other specified atrophic and hypertrophic conditions of skin,Stellate pseudoscar,5.0,1
+Other specified atrophic and hypertrophic conditions of skin NOS,Stellate pseudoscar,5.0,1
+[X]Other specified myoneural disorders,Benign congenital hypotonia (disorder),3.0,1
+[X]Other specified noninflammatory disorders of vagina,Swelling of vagina,1.0,1
+Other specified periodontal disease,Sore gums,2.0,1
+Other specified periodontal disease NOS,Sore gums,2.0,1
+Other specified periodontal disease,Gingival edema,1.0,1
+Other specified periodontal disease NOS,Gingival edema,1.0,1
+Other specified schistosoma NOS,Schistosomal pigment deposition,4.0,1
+Other specified urticaria NOS,Immune complex urticaria,7.0,1
+[X]Other synovitis and tenosynovitis,Subsultus tendinum,1.0,1
+Disorder of pancreas,Pancreatic symptom,1.0,1
+Erythema nodosum migrans,Erythema of skin,89.0,1
+Erythema nodosum migrans,Erythematous condition,89.0,1
+Optic disc swelling,Mass of eye structure,7.0,1
+Optic papillitis,Mass of eye structure,7.0,1
+Optic disc edema,Mass of eye structure,7.0,1
+Optic disc swelling,Swelling of structure of eye,7.0,1
+Optic papillitis,Swelling of structure of eye,7.0,1
+Optic disc edema,Swelling of structure of eye,7.0,1
+Parakeratosis (disorder),Erythema of skin,89.0,1
+Parakeratosis (morphologic abnormality),Erythema of skin,89.0,1
+Parakeratosis (disorder),Erythematous condition,89.0,1
+Parakeratosis (morphologic abnormality),Erythematous condition,89.0,1
+Paramyoclonus multiplex,Myoclonic disorder,29.0,1
+Disorder of nasal sinus,Congestion of nasal sinus,4.0,1
+Paraplegia (disorder),Spinal paraparesis,1.0,1
+Paraplegia (disorder),Flaccid paraplegia,1.0,1
+Parasomnia (disorder),Sleep-related head banging,1.0,1
+Parasomnia (disorder),Reaction to sudden wakening,1.0,1
+Parasomnia (disorder),Sleep automatism,4.0,1
+Parkinson's disease,Parkinsonian tremor,1.0,1
+Disorder of penis,Lesion of penis,1.0,1
+Disorder of penis,Edema of penis,3.0,1
+Disorder of penis,Pruritus of penis,3.0,1
+Disorder of penis,Pain in penis (finding),1.0,1
+Apical granuloma,Mass of oral cavity,7.0,1
+Disorder of the peripheral nervous system,Neuropathic pain,16.0,1
+Peripheral nerve disease,Neuropathic pain,16.0,1
+Disorder of the peripheral nervous system,Intercostal neuralgia,4.0,1
+Peripheral nerve disease,Intercostal neuralgia,4.0,1
+Disorder of the peripheral nervous system,Cruralgia,4.0,1
+Peripheral nerve disease,Cruralgia,4.0,1
+Peripheral neuralgia,Neuropathic pain,16.0,1
+Peripheral neuralgia,Pain (finding),136.0,1
+Peripheral neuralgia,Sciatica (disorder),7.0,1
+Peripheral neuralgia,Femoral neuralgia,3.0,1
+Peripheral neuralgia,Intercostal neuralgia,4.0,1
+Peripheral neuralgia,Lateral femoral cutaneous neuralgia,4.0,1
+Peripheral neuralgia,Obturator neuralgia,4.0,1
+Peripheral neuralgia,Cruralgia,4.0,1
+Peripheral neuralgia,Segmental peripheral neuralgia,3.0,1
+Peripheral neuralgia,Ilioinguinal nerve neuralgia,7.0,1
+Peripheral neuralgia,Genitofemoral nerve neuralgia,6.0,1
+Peripheral neuralgia,Testicular neuralgia,3.0,1
+Disorder of peritoneum,Intra-abdominal collection,3.0,1
+Petechia,Neonatal facial petechiae,3.0,1
+Petechiae of skin,Neonatal facial petechiae,3.0,1
+Pharyngitis (disorder),Pain in throat,4.0,1
+Pharyngitis (disorder),Sore throat symptom,4.0,1
+Polymorphic light eruption,Juvenile spring eruption,1.0,1
+Polymorphous light eruption,Juvenile spring eruption,1.0,1
+Photodermatitis (disorder),Actinic reaction,1.0,1
+Epidemic pleurodynia,Pain (finding),136.0,1
+Pneumatosis cystoides intestinalis,Mass of digestive structure,22.0,1
+Polymyalgia rheumatica,Pain (finding),136.0,1
+Polymyalgia rheumatica,Polymyalgia,3.0,1
+Postherpetic neuralgia (disorder),Neuropathic pain,16.0,1
+Postherpetic neuralgia (disorder),Pain (finding),136.0,1
+Postinfectious neuralgia,Neuropathic pain,16.0,1
+Postinfectious neuralgia,Pain (finding),136.0,1
+Pregnancy complications,Pruritus of pregnancy,2.0,1
+Complication related to pregnancy,Pruritus of pregnancy,2.0,1
+Pregnancy complications,Back pain complicating pregnancy,1.0,1
+Complication related to pregnancy,Back pain complicating pregnancy,1.0,1
+Ectopic atrial beats,Junctional premature beats,1.0,1
+Supraventricular premature beats,Junctional premature beats,1.0,1
+Atrial premature complex,Junctional premature beats,1.0,1
+Premature atrial contraction,Junctional premature beats,1.0,1
+Pretibial myxedema,Edema of lower leg,1.0,1
+Priapism (disorder),Painful penile erection,2.0,1
+Priapism (disorder),(Priapism) or (erection - painful),1.0,1
+Primary insomnia,Insomnia (disorder),7.0,1
+Disorder of prostate,Prostatic pain (finding),1.0,1
+Disorder of prostate,Prostatism (disorder),1.0,1
+Disorder of prostate,Prostatorrhea,2.0,1
+Pruritic rash,Pruritus of skin,26.0,1
+Pruritic rash,Itching of skin,26.0,1
+Pruritic rash,Itch of skin,26.0,1
+Prurigo papule,Pruritus of skin,26.0,1
+Prurigo papule,Itching of skin,26.0,1
+Prurigo papule,Itch of skin,26.0,1
+Tension-type headache,Headache (finding),59.0,1
+Psychogenic headache,Headache (finding),59.0,1
+Tension-type headache,Occipital headache,1.0,1
+Psychogenic headache,Occipital headache,1.0,1
+Purpuric disorder,Cryoglobulinemic purpura,2.0,1
+Quadriplegia (disorder),Flaccid tetraplegia,2.0,1
+Radiculitis (disorder),Neuropathic pain,16.0,1
+"Complex regional pain syndrome, type I",Pain (finding),136.0,1
+Shoulder-hand syndrome,Pain (finding),136.0,1
+Disorder of refraction,Aniseikonia (disorder),1.0,1
+Disorder of refraction,Refractive diplopia,2.0,1
+Disorder of respiratory system,[D]Respiratory abnormalities,1.0,1
+Disorder of respiratory system,[D]Respiratory abnormalities NOS,1.0,1
+Disorder of respiratory system,Restrained respiration,1.0,1
+Retinopathy,Retina finding,1.0,1
+Retinal disorder,Retina finding,1.0,1
+Retinopathy,O/E - retinopathy,2.0,1
+Retinal disorder,O/E - retinopathy,2.0,1
+Rhinitis (disorder),Purulent nasal discharge,8.0,1
+Rhinitis (disorder),Purulent rhinitis,8.0,1
+Rhinitis (disorder),Rhinitis due to alpha-adrenergic blocking agent,2.0,1
+Disorder of salivary gland,Sialectasia,2.0,1
+Infection by Schistosoma,Schistosomal pigment deposition,4.0,1
+Disease due to Schistosomatidae,Schistosomal pigment deposition,4.0,1
+Disorder of sclera,Scleral discoloration,3.0,1
+Scleredema (disorder),Thickening of skin,3.0,1
+Visual field defect,Scintillating scotoma,1.0,1
+Visual field scotoma,Scintillating scotoma,1.0,1
+Visual field defect,Angioscotoma,1.0,1
+Visual field scotoma,Angioscotoma,1.0,1
+Visual field defect,Ring scotoma,1.0,1
+Visual field scotoma,Ring scotoma,1.0,1
+Visual field defect,Quadrantic scotoma,1.0,1
+Visual field scotoma,Quadrantic scotoma,1.0,1
+Silo-fillers' disease,Acute edema,11.0,1
+Disorder of skin,Pruritus of skin,26.0,1
+Disorder of skin,Itching of skin,26.0,1
+Disorder of skin,Itch of skin,26.0,1
+Disorder of skin,Skin irritation,3.0,1
+Disorder of skin,Thickening of skin,3.0,1
+Disorder of skin,Cryoglobulinemic purpura,2.0,1
+Infection of skin,Osler's node,3.0,1
+Parasitic infection of skin,Malarial pigment deposition,5.0,1
+Skin lesion,Tuberculous chancre,3.0,1
+Skin lesion,Clubbing of nail (disorder),4.0,1
+Skin lesion,Spots on skin (disorder),2.0,1
+Sleep apnea,Hypersomnia with sleep apnea,2.0,1
+Sleep walking disorder,Sleep automatism,4.0,1
+West syndrome,Seizure,169.0,1
+Sphenopalatine neuralgia,Pain (finding),136.0,1
+Spinal cord disease,Edema of spinal cord,3.0,1
+Vertebral column syndromes,Other back symptoms (disorder),1.0,1
+Disorder of spine,Other back symptoms (disorder),1.0,1
+Sporotrichosis (disorder),Sporotrichotic chancre,3.0,1
+Status epilepticus,Seizure,169.0,1
+Stevens-Johnson syndrome,Erythema of skin,89.0,1
+Stevens-Johnson syndrome,Erythematous condition,89.0,1
+Disorder of stomach,Projectile vomiting (disorder),1.0,1
+Disorder of stomach,Gastric spasm,2.0,1
+Heterotropia,(Esophoria) or (strabismus NOS) or (ophthalmoplegia NOS),2.0,1
+Progressive supranuclear ophthalmoplegia,Ophthalmoplegia (disorder),11.0,1
+Supraorbital neuralgia,Pain (finding),136.0,1
+Disorder of testis,Inflammatory testicular mass,2.0,1
+Tetany (disorder),Carpopedal spasm,1.0,1
+Disorder of thorax,Intercostal neuralgia,4.0,1
+Disorder of thyroid gland,Pain in thyroid,1.0,1
+Disorder of thyroid gland,Tenderness of thyroid,1.0,1
+Tolosa-Hunt syndrome,Pain (finding),136.0,1
+Disorder of tongue,Glossodynia (disorder),4.0,1
+Disorder of tongue,Glossopyrosis (disorder),3.0,1
+Disorder of tongue,Paresthesia of tongue,1.0,1
+Disorder of tongue,Numbness of tongue,1.0,1
+Disorder of tongue,Hypoesthesia of tongue,2.0,1
+Tooth disorder,Loosening of tooth (disorder),2.0,1
+Trigeminal neuralgia,Pain (finding),136.0,1
+Trismus (finding),Motor dysfunction,4.0,1
+Trypanosomiasis (disorder),Trypanosomal chancre,4.0,1
+Tuberculosis of skin,Tuberculous chancre,3.0,1
+Diffuse disease of connective tissue,"Extensive congenital erosions, vesicles and reticulate scarring",3.0,1
+Upper respiratory infection,Purulent nasal discharge,8.0,1
+Upper respiratory infection,Purulent rhinitis,8.0,1
+Urinary incontinence,Total urinary incontinence (finding),1.0,1
+Urinary incontinence,Urge incontinence of urine,1.0,1
+Urinary incontinence,Primary enuresis,1.0,1
+Urinary incontinence,Double incontinence (finding),2.0,1
+Urinary incontinence,Daytime enuresis,1.0,1
+Genuine stress incontinence,Mixed incontinence,1.0,1
+Female urinary-genital tract fistula,Menouria,1.0,1
+Disorder of the urinary system,Polyuric state,3.0,1
+Disorder of urinary tract,Polyuric state,3.0,1
+Disorder of the urinary system,Genitourinary symptoms,1.0,1
+Disorder of urinary tract,Genitourinary symptoms,1.0,1
+Urticaria (disorder),Weal,6.0,1
+Urticaria (morphologic abnormality),Weal,6.0,1
+Urticaria (disorder),Urticaria geographica,2.0,1
+Urticaria (morphologic abnormality),Urticaria geographica,2.0,1
+Urticaria (disorder),Menstrual urticaria,2.0,1
+Urticaria (morphologic abnormality),Menstrual urticaria,2.0,1
+Urticaria (disorder),Delayed dermographism,2.0,1
+Urticaria (morphologic abnormality),Delayed dermographism,2.0,1
+Urticaria (disorder),Cold reflex urticaria,2.0,1
+Urticaria (morphologic abnormality),Cold reflex urticaria,2.0,1
+Urticaria (disorder),Delayed cold sensitivity,2.0,1
+Urticaria (morphologic abnormality),Delayed cold sensitivity,2.0,1
+Urticaria (disorder),Persisting cholinergic urticaria,2.0,1
+Urticaria (morphologic abnormality),Persisting cholinergic urticaria,2.0,1
+Urticaria (disorder),Cholinergic pruritus,2.0,1
+Urticaria (morphologic abnormality),Cholinergic pruritus,2.0,1
+Urticaria (disorder),Reflex urticaria,2.0,1
+Urticaria (morphologic abnormality),Reflex urticaria,2.0,1
+Urticaria (disorder),Immune complex urticaria,7.0,1
+Urticaria (morphologic abnormality),Immune complex urticaria,7.0,1
+Urticaria (disorder),Urticarial vasculitis (disorder),7.0,1
+Urticaria (morphologic abnormality),Urticarial vasculitis (disorder),7.0,1
+Disorder of vagina,Hematocolpometra,1.0,1
+Disorder of vagina,Pruritus of vagina,2.0,1
+Vaginitis and vulvovaginitis (disorder),Vulval irritation,1.0,1
+Migraine variants,Headache (finding),59.0,1
+Venous varices,Vulval varices in pregnancy,3.0,1
+Phlebectasia,Vulval varices in pregnancy,3.0,1
+Venous varices,Genital varices in the puerperium,2.0,1
+Phlebectasia,Genital varices in the puerperium,2.0,1
+Venous varices,Vaginal varices in the puerperium,1.0,1
+Phlebectasia,Vaginal varices in the puerperium,1.0,1
+Vascular disorder,Harlequin change,3.0,1
+Vascular headache,Headache (finding),59.0,1
+Vascular headache,Thunderclap headache,2.0,1
+Vasovagal attack,Syncope symptom,12.0,1
+Vasovagal attack,Syncope and collapse,12.0,1
+Velopharyngeal incompetence,[D]Other speech disturbance NOS,13.0,1
+Velopharyngeal inadequacy,[D]Other speech disturbance NOS,13.0,1
+Velopharyngeal insufficiency,[D]Other speech disturbance NOS,13.0,1
+Velopharyngeal incompetence,[D]Other speech disturbance,13.0,1
+Velopharyngeal inadequacy,[D]Other speech disturbance,13.0,1
+Velopharyngeal insufficiency,[D]Other speech disturbance,13.0,1
+Vidian neuralgia,Pain (finding),136.0,1
+Viral disease,Postviral excessive daytime sleepiness,1.0,1
+Entoptic phenomenon,Subjective visual disturbance,7.0,1
+Abnormal vision,Spherical aberration of vision,1.0,1
+Dim vision,Spherical aberration of vision,1.0,1
+Abnormal vision,Chromatic aberration of vision,2.0,1
+Dim vision,Chromatic aberration of vision,2.0,1
+Abnormal vision,Visual alteration,9.0,1
+Dim vision,Visual alteration,9.0,1
+Disorder of vulva,Pruritus of vulva,1.0,1
+Disorder of vulva,Dryness of vulva,1.0,1
+Vulvitis (disorder),Inflammation of vulva,1.0,1
+Verruca vulgaris,Penile warts,4.0,1
+Wasting disease,Cachexia (finding),4.0,1
+Xeroderma (disorder),Dry skin (finding),1.0,1
+Hyposecretion of salivary gland,Drug-induced xerostomia,1.0,1
+Aptyalism,Drug-induced xerostomia,1.0,1
+Bradyarrhythmia,Fetal bradycardia,1.0,1
+Post poliomyelitis syndrome,[D] Post polio exhaustion,1.0,1
+Peripheral vascular disease,Paroxysmal vascular dilatation,1.0,1
+Peripheral vascular disease,Pain at rest due to peripheral vascular disease,2.0,1
+Corneal neovascularization,Vascularization of cornea,2.0,1
+Eosinophilia myalgia syndrome,Pain (finding),136.0,1
+Erythema infectiosum,Erythema of skin,89.0,1
+Erythema infectiosum,Erythematous condition,89.0,1
+Complex partial epileptic seizure,Seizure,169.0,1
+Psychomotor epilepsy,Seizure,169.0,1
+Complex partial epileptic seizure,Partial seizure,22.0,1
+Psychomotor epilepsy,Partial seizure,22.0,1
+Frontal lobe epilepsy,Seizure,169.0,1
+Epilepsia partialis continua,Seizure,169.0,1
+Kojevnikov's epilepsy,Seizure,169.0,1
+Epilepsia partialis continua,Partial seizure,22.0,1
+Kojevnikov's epilepsy,Partial seizure,22.0,1
+Essential hypertension,Paroxysmal hypertension,3.0,1
+Monoplegia (disorder),Transient monoplegia,1.0,1
+Monoplegia (disorder),Monoparesis (disorder),1.0,1
+Akinesia,Motor dysfunction,4.0,1
+Livedo reticularis,Pale complexion,8.0,1
+Synovial cyst,Mass of musculoskeletal structure,10.0,1
+Erythema marginatum,Erythema of skin,89.0,1
+Erythema marginatum,Erythematous condition,89.0,1
+Brachial plexus neuralgia,Pain (finding),136.0,1
+Nutritional marasmus,Emaciated,1.0,1
+Preinfarction syndrome,Angina,23.0,1
+Preinfarction syndrome,Ischemic chest pain,23.0,1
+Preinfarction syndrome,Pain (finding),136.0,1
+Spinocerebellar ataxia,Ataxia (finding),3.0,1
+Soft tissue infection,Purulent nasal discharge,8.0,1
+Soft tissue infection,Purulent rhinitis,8.0,1
+Umbilical granuloma,Disorder of umbilicus,12.0,1
+Primary dysmenorrhea,Pain (finding),136.0,1
+Primary dysmenorrhea,Spasmodic dysmenorrhea,3.0,1
+Migraine (disorder),Headache (finding),59.0,1
+Sciatic neuropathy,Sciatica (disorder),7.0,1
+Diabetic ophthalmoplegia,Ophthalmoplegia (disorder),11.0,1
+Chronic pain (finding),Alteration in comfort: chronic pain,1.0,1
+Chronic pain (finding),Chronic abdominal pain,1.0,1
+Chronic pain (finding),Chronic pelvic pain of female,1.0,1
+Chronic pain (finding),Chronic intractable pain,1.0,1
+Chronic pain (finding),[X]Other chronic pain,1.0,1
+Chronic pain (finding),Generalized chronic body pains,1.0,1
+Chronic pain (finding),Chronic vaginal pain,2.0,1
+Hypersensitivity angiitis,Urticarial vasculitis (disorder),7.0,1
+Atrophoderma,Stellate pseudoscar,5.0,1
+Disorder of brain stem,Palatal myoclonus,5.0,1
+Disorder of brain stem,Oculopalatal myoclonus,2.0,1
+Hemorrhagic diarrhea,Diarrhea symptom,39.0,1
+Hemorrhagic diarrhea,Loose stool,39.0,1
+Myocardial ischemia,Angina,23.0,1
+Ischemic heart disease,Angina,23.0,1
+Myocardial ischemia,Ischemic chest pain,23.0,1
+Ischemic heart disease,Ischemic chest pain,23.0,1
+Biliary colic,Abdominal pain,4.0,1
+Gallbladder pain,Abdominal pain,4.0,1
+Biliary colic,Colicky pain,2.0,1
+Gallbladder pain,Colicky pain,2.0,1
+Biliary colic,Pain of digestive structure,1.0,1
+Gallbladder pain,Pain of digestive structure,1.0,1
+Disorder of pregnancy (disorder),Symptomatic disorders in pregnancy,3.0,1
+Osteochondropathy,Bone pain (finding),2.0,1
+Osteochondropathy,Malignant bone pain,1.0,1
+Osteochondropathy,Clavicle pain,1.0,1
+Disorder of diaphragm,Paradoxical diaphragmatic movement,1.0,1
+Disorder of diaphragm,Diaphragmatic tic,1.0,1
+Disorder of diaphragm,Diaphragmatic paresis,1.0,1
+Meralgia paresthetica (disorder),Pain (finding),136.0,1
+Meralgia paresthetica (disorder),Lateral femoral cutaneous neuralgia,4.0,1
+Internuclear ophthalmoplegia,Ophthalmoplegia (disorder),11.0,1
+Exophthalmic ophthalmoplegia,Ophthalmoplegia (disorder),11.0,1
+Pylorospasm,Spasm (finding),10.0,1
+Cyclical vomiting syndrome,Uncontrollable vomiting,3.0,1
+Anal spasm,Bowel spasm,4.0,1
+Angina decubitus (disorder),Angina,23.0,1
+Angina decubitus (disorder),Ischemic chest pain,23.0,1
+Angina decubitus (disorder),Pain (finding),136.0,1
+Total internal ophthalmoplegia,Internal ophthalmoplegia,3.0,1
+Esophoria (disorder),Incomitant esophoria (disorder),2.0,1
+Esophoria (disorder),(Esophoria) or (strabismus NOS) or (ophthalmoplegia NOS),2.0,1
+Lagophthalmos,Lid retraction &/or lag,1.0,1
+Excessive tear production,Watering or tearing eyes (& [C/O]),1.0,1
+Excessive tear production,Has watering eyes,1.0,1
+Excessive tear production,Watery eye,1.0,1
+Cholinergic urticaria,Persisting cholinergic urticaria,2.0,1
+Cholinergic urticaria,Cholinergic pruritus,2.0,1
+Toxic erythema (disorder),Erythema of skin,89.0,1
+Toxic erythema (disorder),Erythematous condition,89.0,1
+Toxic erythema (disorder),Familial annular erythema,3.0,1
+Placental polyp,Mass of female genital structure,7.0,1
+Kayser-Fleischer ring,Chalcosis of cornea,1.0,1
+Diarrhea of presumed infectious origin,Diarrhea symptom,39.0,1
+Diarrhea of presumed infectious origin,Loose stool,39.0,1
+Post-herpetic trigeminal neuralgia,Pain (finding),136.0,1
+"[X]Other late congenital syphilis, symptomatic",Saber shin,2.0,1
+Vitamin A deficiency with Bitot's spot AND conjunctival xerosis,Bitot's spots,1.0,1
+Other and unspecified extrapyramidal diseases and abnormal movement disorders (disorder),Athetoid movement,8.0,1
+Other extrapyramidal disease and abnormal movement disorders (disorder),Athetoid movement,8.0,1
+Other and unspecified extrapyramidal diseases and abnormal movement disorders (disorder),Paroxysmal dystonia,4.0,1
+Other extrapyramidal disease and abnormal movement disorders (disorder),Paroxysmal dystonia,4.0,1
+Vascular myelopathy,Edema of spinal cord,3.0,1
+Monoplegia of upper limb,Monoparesis - arm,1.0,1
+[X]Other specified paralytic syndromes,Flaccid paralysis,1.0,1
+[X]Other specified paralytic syndromes,Drummers' palsy,1.0,1
+[X]Other specified paralytic syndromes,Post-hemiplegic chorea,2.0,1
+[X]Other specified paralytic syndromes,Todd's paresis,1.0,1
+Migraine with aura,Headache (finding),59.0,1
+Disorder of meninges,Meningeal irritation,1.0,1
+Glossopharyngeal neuralgia,Pain (finding),136.0,1
+Other nerve root or plexus disorder,Intercostal neuralgia,4.0,1
+[X]Other nerve root and plexus disorders,Intercostal neuralgia,4.0,1
+Other nerve root or plexus disorder,Ilioinguinal nerve neuralgia,7.0,1
+[X]Other nerve root and plexus disorders,Ilioinguinal nerve neuralgia,7.0,1
+Other mononeuritis lower limb,Cruralgia,4.0,1
+Proliferative diabetic retinopathy (disorder),O/E - right eye proliferative diabetic retinopathy,2.0,1
+Proliferative diabetic retinopathy (disorder),O/E - left eye proliferative diabetic retinopathy,2.0,1
+Other intraretinal microvascular abnormality (disorder),Retinal arteries silverwire,1.0,1
+Transient arterial retinal occlusion,Amaurosis fugax,4.0,1
+Psychophysical visual disturbance,Visual hallucinations,1.0,1
+Psychophysical visual disturbance,Unformed visual hallucinations,1.0,1
+Psychophysical visual disturbance,Formed visual hallucinations,1.0,1
+Psychophysical visual disturbance,Visual alteration,9.0,1
+Psychophysical visual disturbance,Formed hallucinations of people,1.0,1
+Diffuse interstitial keratitis,Diffuse inflammation,11.0,1
+Localized vascularization of cornea,Vascularization of cornea,2.0,1
+Anterior corneal pigmentation,Stahli's line,2.0,1
+Conjunctival cyst,Mass of eye structure,7.0,1
+Conjunctival cyst,Swelling of structure of eye,7.0,1
+Other conjunctival disorders,Mucus conjunctival discharge,1.0,1
+Other conjunctival disorders,Mucopurulent conjunctival discharge,1.0,1
+Other eyelid disorder NOS,Rosenbach's sign,1.0,1
+Other eyelid disorders,Rosenbach's sign,1.0,1
+Other eyelid disorder NOS,Swelling of eyelid (finding),1.0,1
+Other eyelid disorders,Swelling of eyelid (finding),1.0,1
+[X]Other disorders of sclera,Scleral discoloration,3.0,1
+Other scleral disorders NOS,Scleral discoloration,3.0,1
+[X]Other disorders of sclera,Sclerotomal pain,1.0,1
+Other scleral disorders NOS,Sclerotomal pain,1.0,1
+Scleral staphyloma,Total scleral ectasia,1.0,1
+Disorder of pinna,Generalized tenderness in pinna,1.0,1
+Benign paroxysmal positional vertigo (disorder),Benign paroxysmal positional vertigo nystagmus,3.0,1
+Vertigo of central origin,Subjective vertigo,12.0,1
+Vertigo of central origin,Brain stem vertigo,1.0,1
+[X]Other disorders of ear,Ear pressure sensation,1.0,1
+Other ear disorders,Ear pressure sensation,1.0,1
+[X]Other disorders of ear,Sensation of pressure in ear,1.0,1
+Other ear disorders,Sensation of pressure in ear,1.0,1
+[X]Other disorders of ear,Sensation of blocked ears,1.0,1
+Other ear disorders,Sensation of blocked ears,1.0,1
+[X]Other disorders of ear,Mass of ear structure,8.0,1
+Other ear disorders,Mass of ear structure,8.0,1
+[X]Other disorders of ear,Swelling of ear structure,1.0,1
+Other ear disorders,Swelling of ear structure,1.0,1
+Vulval varices,Vulval varices in pregnancy,3.0,1
+Vulval varices,Genital varices in the puerperium,2.0,1
+Other specified diseases of circulatory system,Prominent leg veins - symptom,1.0,1
+Sore throat - chronic,Pain in throat,4.0,1
+Sore throat - chronic,Sore throat symptom,4.0,1
+Simple chronic bronchitis,Bronchorrhea,1.0,1
+Simple chronic bronchitis,Smokers' cough,3.0,1
+Acute pulmonary edema due to fumes AND/OR vapors,Acute edema,11.0,1
+Acute pulmonary edema,Acute edema,11.0,1
+Gingival and periodontal disease,Sore gums,2.0,1
+Cyst of oral soft tissue,Mass of oral cavity,7.0,1
+Other specified tongue conditions NOS,Hypoesthesia of tongue,2.0,1
+Other specified tongue conditions,Hypoesthesia of tongue,2.0,1
+Disorder of function of stomach,Gastrointestinal symptom,2.0,1
+Other appendix diseases NOS,Appendiceal colic,2.0,1
+Other diseases of appendix NOS,Appendiceal colic,2.0,1
+Other appendix diseases NOS,Appendicular colic,2.0,1
+Other diseases of appendix NOS,Appendicular colic,2.0,1
+Functional diarrhea,Diarrhea due to ingestion of unabsorbable substances,2.0,1
+[X]Other specified disorders of prostate,Prostatorrhea,2.0,1
+[X]Other specified disorders of breast,Subinvolution of breast,1.0,1
+[X]Other specified disorders of breast,"Breast subinvolution, postpartum",2.0,1
+[X]Other specified disorders of breast,Postpartum subinvolution of breast,2.0,1
+[X]Other specified disorders of breast,Peau d'orange surface of breast,2.0,1
+[X]Other specified disorders of breast,Generalized tenderness of breast,1.0,1
+[X]Other specified disorders of breast,Localized tenderness of breast,1.0,1
+Endometriosis of ovary,Pain (finding),136.0,1
+Endometriosis of pelvic peritoneum,Pain (finding),136.0,1
+Endometriosis of rectovaginal septum and vagina,Pain (finding),136.0,1
+Endometriosis of intestine,Pain (finding),136.0,1
+Endometriosis in scar of skin,Pain (finding),136.0,1
+Noninflammatory disorder of the vagina,Abnormal vaginal odor,1.0,1
+Menopausal and postmenopausal disorders,Menopausal problem,1.0,1
+Eclampsia in puerperium,Seizure,169.0,1
+Hyperemesis gravidarum with metabolic disturbance - delivered,Finding of vomiting,16.0,1
+Hyperemesis gravidarum with metabolic disturbance - delivered,Vomiting symptom,16.0,1
+Other disorder of lactation unspecified,Breastfeeding painful,1.0,1
+[X]Other and unspecified disorders of lactation,Breastfeeding painful,1.0,1
+Other disorder of lactation NOS,Breastfeeding painful,1.0,1
+Other abnormal granulation tissue NOS,Abnormal granulation tissue,3.0,1
+Other specified nail disease NOS,Subungual hyperkeratosis,3.0,1
+Other specified nail disease,Subungual hyperkeratosis,3.0,1
+Other specified nail disease NOS,Koilonychia,5.0,1
+Other specified nail disease,Koilonychia,5.0,1
+Other specified nail disease NOS,Lamellar nail splitting,2.0,1
+Other specified nail disease,Lamellar nail splitting,2.0,1
+Other specified nail disease NOS,Beau's lines,2.0,1
+Other specified nail disease,Beau's lines,2.0,1
+Other specified nail disease NOS,Clubbing of nail (disorder),4.0,1
+Other specified nail disease,Clubbing of nail (disorder),4.0,1
+Other specified nail disease NOS,Onychomadesis,2.0,1
+Other specified nail disease,Onychomadesis,2.0,1
+Other specified nail disease NOS,Change in nail appearance,1.0,1
+Other specified nail disease,Change in nail appearance,1.0,1
+Other specified nail disease NOS,Nail shedding,1.0,1
+Other specified nail disease,Nail shedding,1.0,1
+Other specified nail disease NOS,Splits in nails,1.0,1
+Other specified nail disease,Splits in nails,1.0,1
+Other specified nail disease NOS,Grooving of nail,1.0,1
+Other specified nail disease,Grooving of nail,1.0,1
+Other specified nail disease NOS,Thin nails,1.0,1
+Other specified nail disease,Thin nails,1.0,1
+Other specified nail disease NOS,Transverse split nail,1.0,1
+Other specified nail disease,Transverse split nail,1.0,1
+Other specified nail disease NOS,Splitting toenail,1.0,1
+Other specified nail disease,Splitting toenail,1.0,1
+Other specified sweat gland disorders,Unpleasant odor of axilla,1.0,1
+Other specified sweat gland disorders,Unpleasant odor of genitalia,1.0,1
+Derangement of knee (disorder),Knee locking,1.0,1
+Other specified joint disorders of the hand,Finger joint laxity,1.0,1
+Other specified joint disorders of the lower leg,Infrapatellar tenderness,1.0,1
+Other specified joint disorders of the ankle and foot,Metatarsophalangeal joint laxity,1.0,1
+"Joint disorder NOS, of shoulder region",Popeye sign,1.0,1
+"Joint disorder NOS, of shoulder region",Shoulder joint laxity,1.0,1
+"Joint disorder NOS, of the upper arm",Elbow joint laxity,1.0,1
+"Joint disorder NOS, of the forearm",Wrist joint laxity,1.0,1
+Arthropathy of joint of hand,Thumb joint laxity,1.0,1
+Diffuse cervicobrachial syndrome,Cervicobrachialgia,1.0,1
+Disorder of sacrum,Sacrocoxalgia,1.0,1
+Disorder of sacrum,Sacral back pain,1.0,1
+Disorder of sacrum,Sacroiliac joint pain,1.0,1
+Disorder of sacrum,Sacroiliac joint laxity,1.0,1
+Disorder of sacrum,Sacroiliac joint stiff,1.0,1
+Other disorder of coccyx -RETIRED-,Pain in the coccyx,2.0,1
+Back disorders - other,Lumbar ache - renal,1.0,1
+Back disorders - other,Cervical spine stiff,1.0,1
+Enthesopathy of ankle AND/OR tarsus,Metatarsalgia (finding),2.0,1
+"Other synovial, tendon and bursa disorders",Tendon sheath effusion,1.0,1
+"Other disorders of the synovium, tendon and bursa",Tendon sheath effusion,1.0,1
+"Other synovial, tendon and bursa disorders",Nodule on tendon,1.0,1
+"Other disorders of the synovium, tendon and bursa",Nodule on tendon,1.0,1
+"Other synovial, tendon and bursa disorders",Thickening of tendon sheath,1.0,1
+"Other disorders of the synovium, tendon and bursa",Thickening of tendon sheath,1.0,1
+Ganglion of joint,Mass of musculoskeletal structure,10.0,1
+"Muscle, ligament and fascia disorders",Spastic paraparesis,1.0,1
+"Muscle, ligament and fascia disorders",Musculoskeletal hypomobility,1.0,1
+"Muscle, ligament and fascia disorders",Musculoskeletal immobility,1.0,1
+"Muscle, ligament and fascia disorders",Cerebral paraparesis,1.0,1
+"Muscle, ligament and fascia disorders",Weakness of face muscles,1.0,1
+"Muscle, ligament and fascia disorders",Floppy muscles,1.0,1
+"Muscle, ligament and fascia disorders",Muscle tone atonic,1.0,1
+"Muscle, ligament and fascia disorders",Upper facial weakness,1.0,1
+"Muscle, ligament and fascia disorders",Quadriceps weakness,1.0,1
+"Muscle, ligament and fascia disorders",Calf muscle weakness,1.0,1
+[X]Other soft tissue disorders,Polyalgia,3.0,1
+[X]Other soft tissue disorders,Mass of body region,3.0,1
+[X]Other soft tissue disorders,Mass of trunk,4.0,1
+Transitory tachypnea of newborn (disorder),Tachypnea (finding),2.0,1
+Perinatal jaundice due to hepatocellular damage,Hepatocellular jaundice,4.0,1
+Convulsions in the newborn,Seizure,169.0,1
+[X]Other specified conditions originating in the perinatal period,Fetal souffle,1.0,1
+[X]Other specified conditions originating in the perinatal period,Excessive crying of newborn,1.0,1
+[X]Other specified conditions originating in the perinatal period,Disorder of umbilicus,12.0,1
+Corneal deposit,Corneal pigmentations and deposits,4.0,1
+Corneal deposit,Melanin pigmentation of cornea,2.0,1
+Corneal deposit,Blood pigmentation of cornea,2.0,1
+External ophthalmoplegia,Ophthalmoplegia (disorder),11.0,1
+Multiple joint pain,Joint pain,2.0,1
+Deficiency state,Starvation (disorder),5.0,1
+Undernourished,Starvation (disorder),5.0,1
+Nutritional deficiency,Starvation (disorder),5.0,1
+Deficiency state,Inanition (disorder),1.0,1
+Undernourished,Inanition (disorder),1.0,1
+Nutritional deficiency,Inanition (disorder),1.0,1
+Bacterial infection of skin,Meningococcal rash,3.0,1
+Fukuhara syndrome,Seizure,169.0,1
+Myoclonus epilepsy AND ragged red fibers,Seizure,169.0,1
+Myoclonic epilepsy - ragged red fibers,Seizure,169.0,1
+Hypogonadism with anosmia,Loss of sense of smell,2.0,1
+Vascular disease of the skin,Face goes red,3.0,1
+Vascular disease of the skin,Stellate pseudoscar,5.0,1
+Skin hypopigmented,Achromia of skin (disorder),4.0,1
+Depigmentation,Achromia of skin (disorder),4.0,1
+Disorder of skin AND/OR subcutaneous tissue,Blanching of skin (finding),1.0,1
+Disorder of skin AND/OR subcutaneous tissue,Scaly scalp,1.0,1
+Disorder of skin AND/OR subcutaneous tissue,Perineal irritation,1.0,1
+Disorder of skin AND/OR subcutaneous tissue,Abnormal complexion,1.0,1
+Disorder of skin AND/OR subcutaneous tissue,Stinging of skin,1.0,1
+Disorder of skin AND/OR subcutaneous tissue,Sore skin (finding),2.0,1
+Disorder of reproductive system,Pruritus of genital organs,1.0,1
+Algoneurodystrophy (disorder),Pain (finding),136.0,1
+Fatal familial insomnia,Insomnia (disorder),7.0,1
+Cardiac syndrome X,Chest pain,4.0,1
+Cardiac syndrome X,[X]Other chest pain,1.0,1
+Endolymphatic hydrops,Secondary endolymphatic hydrops,2.0,1
+Familial neonatal seizures,Seizure,169.0,1
+Benign neonatal familial convulsions,Seizure,169.0,1
+Mauriac's syndrome,Large liver,2.0,1
+Myxedema heart disease,Hard edema,5.0,1
+Ophthalmoplegic migraine,Headache (finding),59.0,1
+Ophthalmoplegic migraine,Ophthalmoplegia (disorder),11.0,1
+Abortive cerebellar ataxia,Cerebellar ataxia,11.0,1
+Obstipation (disorder),Constipation (disorder),12.0,1
+Urticaria due to cold,Cold reflex urticaria,2.0,1
+Urticaria due to cold,Delayed cold sensitivity,2.0,1
+Angular cheilitis,(Sore lip) or (angular stomatitis &/or cheilitis),1.0,1
+Perleche,(Sore lip) or (angular stomatitis &/or cheilitis),1.0,1
+Necrolytic migratory erythema,Erythema of skin,89.0,1
+Necrolytic migratory erythema,Erythematous condition,89.0,1
+Dystrophia unguium,Koilonychia,5.0,1
+Dystrophia unguium,Lamellar nail splitting,2.0,1
+Dystrophia unguium,Beau's lines,2.0,1
+Retraction of nipple (disorder),[X]Other signs and symptoms in breast,2.0,1
+Syphilitic gumma (disorder),Gummatous inflammation (morphologic abnormality),8.0,1
+Joint function disorder,Range of joint movement increased,1.0,1
+Joint function disorder,Joint laxity,1.0,1
+Xiphodynia,Chest pain,4.0,1
+Xiphodynia,Bone pain (finding),2.0,1
+Achillodynia,Pain in lower limb (finding),2.0,1
+Achillodynia,Tenalgia,1.0,1
+Ventilatory defect,Abnormal breathing,1.0,1
+Ether apnea,Drug-induced apnea,1.0,1
+Continuous murmur,"[D]Heart murmur, undiagnosed",1.0,1
+Chronic constipation with overflow,Diarrhea symptom,39.0,1
+Chronic constipation with overflow,Loose stool,39.0,1
+Nervous diarrhea,Diarrhea symptom,39.0,1
+Nervous diarrhea,Loose stool,39.0,1
+Hydrorrhea gravidarum,Clinical sign related to pregnancy,1.0,1
+Exhaustion delirium,Exhaustion,2.0,1
+Physiological disturbance associated with mood,Mood hypersomnia,1.0,1
+General areflexia,Abnormal reflex,3.0,1
+Acroparesthesia (finding),Paresthesia (finding),1.0,1
+Allergic headache,Headache (finding),59.0,1
+Atypical neuralgia,Neuropathic pain,16.0,1
+Atypical neuralgia,Pain (finding),136.0,1
+Stump neuralgia,Pain (finding),136.0,1
+Athetoid paralysis,Athetoid movement,8.0,1
+Athetoid paralysis,Involuntary movement,5.0,1
+Athetoid paralysis,Involuntary movement symptom,5.0,1
+Hypotensive syncope,Syncope symptom,12.0,1
+Hypotensive syncope,Syncope and collapse,12.0,1
+Tussive syncope,C/O - cough,2.0,1
+Amusia,[X]Other and unspecified symbolic dysfunctions,6.0,1
+Amusia,[D]Other symbolic dysfunction,6.0,1
+Anosognosia,[D]Other general symptoms NOS,3.0,1
+Anosognosia,[D]Other general symptoms,3.0,1
+Anarthria,[D]Other speech disturbance NOS,13.0,1
+Anarthria,[D]Other speech disturbance,13.0,1
+Motor apraxia,[X]Other and unspecified symbolic dysfunctions,6.0,1
+Motor apraxia,[D]Other symbolic dysfunction,6.0,1
+Generalized seizure,Seizure,169.0,1
+Generalized seizure,Tonic-clonic seizure,2.0,1
+Generalized seizure,Grand mal seizure,2.0,1
+Central convulsion,Seizure,169.0,1
+Puerperal convulsion,Seizure,169.0,1
+Tetanic convulsion,Seizure,169.0,1
+Epileptic cry,Seizure,169.0,1
+Postseizure delirium,Seizure,169.0,1
+Stress seizure,Seizure,169.0,1
+Cortical vertigo,Subjective vertigo,12.0,1
+Ocular vertigo,Subjective vertigo,12.0,1
+Ocular vertigo,Dizziness and giddiness,3.0,1
+Cerebellar vertigo,Subjective vertigo,12.0,1
+Annular erythema,Erythema of skin,89.0,1
+Annular erythema,Erythematous condition,89.0,1
+Annular erythema,Familial annular erythema,3.0,1
+"Simple partial seizure, consciousness not impaired",Seizure,169.0,1
+"Simple partial seizure, consciousness not impaired",Partial seizure,22.0,1
+Motor cortex epilepsy,Seizure,169.0,1
+Cycloplegia,Internal ophthalmoplegia,3.0,1
+Disorder of vein,Distended umbilical veins,1.0,1
+Respiratory tract hemorrhage (disorder),Blood streaked sputum,2.0,1
+Neonatal diarrhea,Diarrhea symptom,39.0,1
+Neonatal diarrhea,Loose stool,39.0,1
+Ocular-mucous membrane syndrome,Erythema of skin,89.0,1
+Ocular-mucous membrane syndrome,Erythematous condition,89.0,1
+Gastric polyp,Mass of digestive structure,22.0,1
+Gastric polyposis,Mass of digestive structure,22.0,1
+Application site disorder,Application site anesthesia,1.0,1
+Lennox-Gastaut syndrome (disorder),Seizure,169.0,1
+Juvenile myxedema,Hard edema,5.0,1
+Polyp of larynx,Mass of respiratory structure,11.0,1
+Spasm of back muscles,Spasm (finding),10.0,1
+Autonomic facial cephalgia,Headache (finding),59.0,1
+Carotidynia,Headache (finding),59.0,1
+Autonomic facial cephalgia,Pain (finding),136.0,1
+Carotidynia,Pain (finding),136.0,1
+Liver mass,Mass of digestive structure,22.0,1
+Induration of skin,Changes in skin texture,2.0,1
+Endometriosis of pelvis,Pain (finding),136.0,1
+Angiomatosis of retina,Mass of eye structure,7.0,1
+Angiomatosis of retina,Swelling of structure of eye,7.0,1
+Color vision deficiency,Visual alteration,9.0,1
+Congenital disease,"Extensive congenital erosions, vesicles and reticulate scarring",3.0,1
+Retinal edema,Localized retinal edema,1.0,1
+Retinal edema,Peripheral retinal edema,1.0,1
+Disorder of auditory system,Leudet's tinnitus,2.0,1
+Auditory dysfunction,Leudet's tinnitus,2.0,1
+Hearing disorder,Leudet's tinnitus,2.0,1
+Histologic type of inflammatory skin disorder,Trypanosomal chancre,4.0,1
+Diffuse dermatitis,Diffuse inflammation,11.0,1
+Abscess of umbilicus,Disorder of umbilicus,12.0,1
+Cellulitis of umbilicus,Disorder of umbilicus,12.0,1
+Acute lymphangitis of umbilicus,Disorder of umbilicus,12.0,1
+Juvenile pyoderma,Pustular rash (morphologic abnormality),7.0,1
+Bacterid,Pustular rash (morphologic abnormality),7.0,1
+Pustular bacterid,Pustular rash (morphologic abnormality),7.0,1
+"Erythema multiforme, dermal type",Erythema of skin,89.0,1
+"Erythema multiforme, dermal type",Erythematous condition,89.0,1
+"Erythema multiforme, mixed dermal-epidermal type",Erythema of skin,89.0,1
+"Erythema multiforme, mixed dermal-epidermal type",Erythematous condition,89.0,1
+"Erythema multiforme, epidermal type",Erythema of skin,89.0,1
+"Erythema multiforme, epidermal type",Erythematous condition,89.0,1
+Erythema iris,Erythema of skin,89.0,1
+Erythema iris,Erythematous condition,89.0,1
+Herpes iris,Erythema of skin,89.0,1
+Herpes iris,Erythematous condition,89.0,1
+Immunologic urticaria,Immune complex urticaria,7.0,1
+"Urticaria pigmentosa, maculopapular type",Macule (morphologic abnormality),5.0,1
+Pruritus senilis,Pruritus of skin,26.0,1
+Pruritus senilis,Itching of skin,26.0,1
+Pruritus senilis,Itch of skin,26.0,1
+Pruritus senilis,Other specified pruritic conditions (disorder),6.0,1
+Prurigo simplex,Pruritus of skin,26.0,1
+Prurigo simplex,Itching of skin,26.0,1
+Prurigo simplex,Itch of skin,26.0,1
+Prurigo nodularis (disorder),Pruritus of skin,26.0,1
+Prurigo nodularis (disorder),Itching of skin,26.0,1
+Prurigo nodularis (disorder),Itch of skin,26.0,1
+Erythema gyratum repens,Erythema of skin,89.0,1
+Erythema gyratum repens,Erythematous condition,89.0,1
+Erythema annulare centrifugum,Erythema of skin,89.0,1
+Erythema annulare centrifugum,Erythematous condition,89.0,1
+Erythema annulare centrifugum,Familial annular erythema,3.0,1
+Erythema dyschromicum perstans,Erythema of skin,89.0,1
+Erythema dyschromicum perstans,Erythematous condition,89.0,1
+"Other specified erythematous condition, NEC",Erythema of skin,89.0,1
+"Other specified erythematous condition, NEC",Erythematous condition,89.0,1
+Erythema elevatum diutinum (disorder),Erythema of skin,89.0,1
+Erythema elevatum diutinum (disorder),Erythematous condition,89.0,1
+Ulerythema,Erythema of skin,89.0,1
+Ulerythema,Erythematous condition,89.0,1
+Ulerythema of cheeks,Erythema of skin,89.0,1
+Ulerythema of cheeks,Erythematous condition,89.0,1
+Granulosis rubra nasi,Erythema of skin,89.0,1
+Granulosis rubra nasi,Erythematous condition,89.0,1
+Erythromelanosis follicularis of face AND/OR neck,Erythema of skin,89.0,1
+Erythromelanosis follicularis of face AND/OR neck,Erythematous condition,89.0,1
+Chlorpromazine pigmentation,Drug pigmentation,7.0,1
+Chrysoderma,Drug pigmentation,7.0,1
+Hypertrophic condition of skin,Abnormal granulation tissue,3.0,1
+Painful piezogenic pedal papules,Pain (finding),136.0,1
+Painful pigmented pressure papules,Pain (finding),136.0,1
+Surfer's nodules,"[D]Local superficial swelling, mass or lump NOS",3.0,1
+Surfer's nodules,"[D]Local superficial swelling, mass or lump",3.0,1
+Slap nodules of wrist,"[D]Local superficial swelling, mass or lump NOS",3.0,1
+Slap nodules of wrist,"[D]Local superficial swelling, mass or lump",3.0,1
+Picker's nodules,"[D]Local superficial swelling, mass or lump NOS",3.0,1
+Picker's nodules,"[D]Local superficial swelling, mass or lump",3.0,1
+Musculoskeletal and connective tissue disorder,Polyalgia,3.0,1
+"Effusion of joint of other site, NEC",Painful swelling of joint,2.0,1
+Snapping hip (disorder),(Other joint symptoms of the pelvic region and thigh) or (hip snapping) or (irritable hip),1.0,1
+Lumbago-sciatica due to displacement of lumbar intervertebral disc,Pain (finding),136.0,1
+Lumbago-sciatica due to displacement of lumbar intervertebral disc,Sciatica (disorder),7.0,1
+Grisel's syndrome,Wry neck/torticollis,5.0,1
+Disorder of back,Ilioinguinal nerve neuralgia,7.0,1
+Disorder of back,Genitofemoral nerve neuralgia,6.0,1
+Putti-Chavany syndrome,Pain (finding),136.0,1
+Putti-Chavany syndrome,Sciatica (disorder),7.0,1
+Ganglion of aponeurosis,Mass of musculoskeletal structure,10.0,1
+Disorder of soft tissue,Arm claudication,1.0,1
+Primary fibrositis,Pain (finding),136.0,1
+Secondary fibrositis,Pain (finding),136.0,1
+Xiphoidalgia syndrome,Pain (finding),136.0,1
+Segmental dysfunction,Pain finding at anatomical site,1.0,1
+Edema of nasopharynx,Edema of uvula,3.0,1
+Cyst of pharynx,Mass of respiratory structure,11.0,1
+Cyst of pharynx,Mass of digestive structure,22.0,1
+Laryngeal hemiplegia,Hemiplegia (disorder),11.0,1
+Disorder of vocal cord,Aphonia paralytica,1.0,1
+Grain-handlers' disease,Diffuse inflammation,11.0,1
+Diaphragmatic cyst,Mass of musculoskeletal structure,10.0,1
+Adductor spastic dysphonia,Spastic dysphonia,4.0,1
+Adductor spastic dysphonia of organic voice tremor,Dysphonia of organic tremor,2.0,1
+Abductor spastic dysphonia,Spastic dysphonia,4.0,1
+Neurologic voice disorder,Flaccid dysphonia,2.0,1
+Neurologic voice disorder,Spastic pseudobulbar dysphonia,2.0,1
+Neurologic voice disorder,Dysphonia of organic tremor,2.0,1
+Mixed flaccid-spastic pseudobulbar dysphonia,Flaccid dysphonia,2.0,1
+Mixed flaccid-spastic pseudobulbar dysphonia,Spastic pseudobulbar dysphonia,2.0,1
+Dysphonia of palatopharyngolaryngeal myoclonus,Myoclonic disorder,29.0,1
+Apraxic aphonia,Loss of voice,5.0,1
+Apraxic aphonia,[X]Other and unspecified symbolic dysfunctions,6.0,1
+Apraxic aphonia,[D]Other symbolic dysfunction,6.0,1
+Dysprosody of 'pseudoforeign dialect',[D]Other speech disturbance NOS,13.0,1
+Dysprosody of 'pseudoforeign dialect',[D]Other speech disturbance,13.0,1
+Vocal nodules in children,Mass of respiratory structure,11.0,1
+Vocal nodules in adults,Mass of respiratory structure,11.0,1
+"Angina, class I",Angina,23.0,1
+"Angina, class I",Ischemic chest pain,23.0,1
+"Angina, class I",Pain (finding),136.0,1
+"Angina, class I",[X]Other forms of angina pectoris,14.0,1
+"Angina, class II",Angina,23.0,1
+"Angina, class II",Ischemic chest pain,23.0,1
+"Angina, class II",Pain (finding),136.0,1
+"Angina, class II",[X]Other forms of angina pectoris,14.0,1
+"Angina, class III",Angina,23.0,1
+"Angina, class III",Ischemic chest pain,23.0,1
+"Angina, class III",Pain (finding),136.0,1
+"Angina, class III",[X]Other forms of angina pectoris,14.0,1
+"Angina, class IV",Angina,23.0,1
+"Angina, class IV",Ischemic chest pain,23.0,1
+"Angina, class IV",Pain (finding),136.0,1
+"Angina, class IV",[X]Other forms of angina pectoris,14.0,1
+Nocturnal angina,Angina,23.0,1
+Nocturnal angina,Ischemic chest pain,23.0,1
+Nocturnal angina,Pain (finding),136.0,1
+Status anginosus,Angina,23.0,1
+Status anginosus,Ischemic chest pain,23.0,1
+Status anginosus,Pain (finding),136.0,1
+Status anginosus,[X]Other forms of angina pectoris,14.0,1
+Syncope anginosa,Angina,23.0,1
+Syncope anginosa,Ischemic chest pain,23.0,1
+Syncope anginosa,Pain (finding),136.0,1
+Syncope anginosa,[X]Other forms of angina pectoris,14.0,1
+Acute coronary insufficiency,Pain (finding),136.0,1
+Conduction disorder of the heart (disorder),Tic-tac rhythm,1.0,1
+Cyanotic congenital heart disease (disorder),Cyanosis of skin,6.0,1
+Cyanotic congenital heart disease (disorder),Central cyanosis (disorder),2.0,1
+Congenital aneurysm of aorta,Mass of trunk,4.0,1
+Congenital koilonychia,Koilonychia,5.0,1
+Globulo-maxillary cyst,Mass of digestive structure,22.0,1
+Median palatal cyst,Mass of oral cavity,7.0,1
+Naso-labial cyst,Mass of digestive structure,22.0,1
+Endemic colic,Colicky pain,2.0,1
+Gingival polyp,Mass of oral cavity,7.0,1
+Disorder of oral soft tissues,Palatal myoclonus,5.0,1
+Disorder of oral soft tissues,Edema of oral soft tissues,4.0,1
+Disorder of oral soft tissues,Sublingual sialectasia,1.0,1
+Lymphoepithelial cyst of mouth,Mass of digestive structure,22.0,1
+Granuloma of lip,Mass of oral cavity,7.0,1
+Nonulcer dyspepsia (disorder),Indigestion symptoms,1.0,1
+Nonulcer dyspepsia (disorder),Indigestion symptom NOS,1.0,1
+Habit vomiting (disorder),Finding of vomiting,16.0,1
+Habit vomiting (disorder),Vomiting symptom,16.0,1
+Habit vomiting (disorder),Uncontrollable vomiting,3.0,1
+Vomiting in infants AND/OR children,Finding of vomiting,16.0,1
+Vomiting in infants AND/OR children,Vomiting symptom,16.0,1
+Vomiting in infants AND/OR children,Vomiting in newborn,2.0,1
+Drug-induced nausea and vomiting,Nausea and vomiting (disorder),2.0,1
+Drug-induced nausea and vomiting,Finding of vomiting,16.0,1
+Drug-induced nausea and vomiting,Vomiting symptom,16.0,1
+Drug-induced nausea and vomiting,[D]Drug-induced vomiting,1.0,1
+Isolated idiopathic granuloma of stomach,Mass of digestive structure,22.0,1
+Alimentary tract pain due to vascular insufficiency,Pain (finding),136.0,1
+Non-infective diarrhea,Diarrhea symptom,39.0,1
+Non-infective diarrhea,Loose stool,39.0,1
+Allergic diarrhea,Diarrhea symptom,39.0,1
+Allergic diarrhea,Loose stool,39.0,1
+Dietetic diarrhea,Diarrhea symptom,39.0,1
+Dietetic diarrhea,Loose stool,39.0,1
+Granuloma of intestine,Mass of digestive structure,22.0,1
+Chronic idiopathic constipation,Constipation (disorder),12.0,1
+Chronic idiopathic constipation,Chronic constipation,1.0,1
+Constipation by outlet obstruction,Constipation (disorder),12.0,1
+Drug-induced constipation,Constipation (disorder),12.0,1
+Chronic idiopathic anal pain,Anal pain (finding),2.0,1
+Enterospasm,Bowel spasm,4.0,1
+Colonospasm (disorder),Bowel spasm,4.0,1
+Bilious vomiting following gastrointestinal surgery,Finding of vomiting,16.0,1
+Bilious vomiting following gastrointestinal surgery,Vomiting symptom,16.0,1
+Bilious vomiting following gastrointestinal surgery,Postoperative vomiting,1.0,1
+Tympanites of cecum,"Flatulence, eructation and gas pain",1.0,1
+Osmotic diarrhea,Diarrhea symptom,39.0,1
+Osmotic diarrhea,Loose stool,39.0,1
+Osmotic diarrhea,Diarrhea due to ingestion of unabsorbable substances,2.0,1
+Secretory diarrhea,Diarrhea symptom,39.0,1
+Secretory diarrhea,Loose stool,39.0,1
+Drug AND/OR toxin-induced diarrhea,Diarrhea symptom,39.0,1
+Drug AND/OR toxin-induced diarrhea,Loose stool,39.0,1
+Disorder of appendix,Appendiceal colic,2.0,1
+Disorder of appendix,Appendicular colic,2.0,1
+Idiopathic diffuse ulcerative nongranulomatous enteritis,Diffuse inflammation,11.0,1
+Postcholecystectomy diarrhea,Diarrhea symptom,39.0,1
+Postcholecystectomy diarrhea,Loose stool,39.0,1
+Diarrhea due to alcohol intake,Diarrhea symptom,39.0,1
+Diarrhea due to alcohol intake,Loose stool,39.0,1
+Raw-milk associated diarrhea,Diarrhea symptom,39.0,1
+Raw-milk associated diarrhea,Loose stool,39.0,1
+Chronic diarrhea of infants AND/OR young children,Diarrhea symptom,39.0,1
+Chronic diarrhea of infants AND/OR young children,Loose stool,39.0,1
+Congenital secretory diarrhea,Diarrhea symptom,39.0,1
+Congenital secretory diarrhea,Loose stool,39.0,1
+"Congenital secretory diarrhea, chloride type",Diarrhea symptom,39.0,1
+"Congenital secretory diarrhea, chloride type",Loose stool,39.0,1
+"Congenital secretory diarrhea, sodium type",Diarrhea symptom,39.0,1
+"Congenital secretory diarrhea, sodium type",Loose stool,39.0,1
+Parasitic fibroid,Mass of body region,3.0,1
+Liver cyst,Mass of digestive structure,22.0,1
+Recurrent biliary colic,Recurrent abdominal pain,1.0,1
+Semi-starvation,Starvation (disorder),5.0,1
+Hyposmolality,Coordination problem,12.0,1
+Hypotonic disorder,Coordination problem,12.0,1
+Disorder of acid-base balance,Hypercapnia (disorder),5.0,1
+Disorder of acid-base balance,Hypocapnia (disorder),2.0,1
+Starvation ketoacidosis,Starvation (disorder),5.0,1
+Hypercapnia with mixed acid-base disorder,Hypercapnia (disorder),5.0,1
+Normosomatic sialidosis,Myoclonic disorder,29.0,1
+Disorder of bilirubin metabolism,Hepatocellular jaundice,4.0,1
+Acute cholestatic jaundice syndrome,[D]Jaundice (not of newborn),5.0,1
+Acute cholestatic jaundice syndrome,[D]Jaundice (not of newborn) NOS,5.0,1
+Chronic cholestatic jaundice syndrome,[D]Jaundice (not of newborn),5.0,1
+Chronic cholestatic jaundice syndrome,[D]Jaundice (not of newborn) NOS,5.0,1
+Cholestasis of pregnancy (disorder),Pruritus of pregnancy,2.0,1
+"Corneal fragility keratoglobus, blue sclerae AND joint hypermobility",Scleral discoloration,3.0,1
+Dipsogenic diabetes insipidus,Polyuric state,3.0,1
+Urethral cyst,Mass of urinary system structure,3.0,1
+Disorder of scrotum,Burning scrotum,4.0,1
+Disorder of scrotum,Scrotal pruritus,3.0,1
+Infertility due to complete spermatogenic arrest,Complete spermatogenic arrest,2.0,1
+Infertility due to incomplete spermatogenic arrest,Incomplete spermatogenic arrest,2.0,1
+Essential vulvodynia,Pain (finding),136.0,1
+Idiopathic vulvodynia,Pain (finding),136.0,1
+Endometriotic cyst,Pain (finding),136.0,1
+Endometrial cyst of ovary,Pain (finding),136.0,1
+Implanted endometriosis,Pain (finding),136.0,1
+Deciduomatosis,Pain (finding),136.0,1
+Endosalpingiosis,Pain (finding),136.0,1
+Endometriosis of cervix,Pain (finding),136.0,1
+Endometriosis of parametrium,Pain (finding),136.0,1
+Endometriosis of broad ligament,Pain (finding),136.0,1
+Endometriosis of round ligament,Pain (finding),136.0,1
+Endometriosis of the cul-de-sac,Pain (finding),136.0,1
+Endometriosis of rectovaginal septum,Pain (finding),136.0,1
+Endometriosis of vagina,Pain (finding),136.0,1
+Endometriosis of vulva,Pain (finding),136.0,1
+Endometriosis of appendix,Pain (finding),136.0,1
+Endometriosis of colon,Pain (finding),136.0,1
+Endometriosis of rectum,Pain (finding),136.0,1
+Endometriosis of bladder,Pain (finding),136.0,1
+Endometriosis of lung,Pain (finding),136.0,1
+Endometriosis of umbilicus,Pain (finding),136.0,1
+Endometriosis of umbilicus,Disorder of umbilicus,12.0,1
+Noninflammatory disorder of the female genital organs,Vulvovaginal dryness,1.0,1
+Cyst of fallopian tube,Mass of uterine adnexa,3.0,1
+Cyst of broad ligament,Mass of uterine adnexa,3.0,1
+Cyst of uterus,Mass of female genital structure,7.0,1
+Cyst of vulva,Perineal lump (finding),6.0,1
+Cyst of vulva,Mass of female genital structure,7.0,1
+Induration of breast,[X]Other signs and symptoms in breast,2.0,1
+Oliguria following molar AND/OR ectopic pregnancy,Oliguria (finding),2.0,1
+Eclampsia added to pre-existing hypertension,Seizure,169.0,1
+Hyperemesis gravidarum before end of 22 week gestation with carbohydrate depletion,Hyperemesis gravidarum,6.0,1
+Hyperemesis gravidarum before end of 22 week gestation with carbohydrate depletion,Finding of vomiting,16.0,1
+Hyperemesis gravidarum before end of 22 week gestation with carbohydrate depletion,Vomiting symptom,16.0,1
+Hyperemesis gravidarum before end of 22 week gestation with dehydration,Hyperemesis gravidarum,6.0,1
+Hyperemesis gravidarum before end of 22 week gestation with dehydration,Finding of vomiting,16.0,1
+Hyperemesis gravidarum before end of 22 week gestation with dehydration,Vomiting symptom,16.0,1
+Hyperemesis gravidarum before end of 22 week gestation with electrolyte imbalance,Hyperemesis gravidarum,6.0,1
+Hyperemesis gravidarum before end of 22 week gestation with electrolyte imbalance,Finding of vomiting,16.0,1
+Hyperemesis gravidarum before end of 22 week gestation with electrolyte imbalance,Vomiting symptom,16.0,1
+Vomiting due to organic disease during pregnancy,Finding of vomiting,16.0,1
+Vomiting due to organic disease during pregnancy,Vomiting symptom,16.0,1
+Dyscoordinate labor,"Uterine incoordination, first degree",1.0,1
+Disorder of breast associated with childbirth,Vascular engorgement of breast,1.0,1
+Perinatal cyanotic attacks,Cyanosis of skin,6.0,1
+Perinatal cyanotic attacks,Neonatal cyanosis,2.0,1
+Perinatal respiratory distress,Respiratory distress (finding),3.0,1
+"Fetal and neonatal jaundice, unspecified",Newborn physiological jaundice (disorder),8.0,1
+Fetal AND/OR neonatal jaundice,Newborn physiological jaundice (disorder),8.0,1
+Unspecified fetal or neonatal jaundice NOS,Newborn physiological jaundice (disorder),8.0,1
+Lucey-Driscoll syndrome,Newborn physiological jaundice (disorder),8.0,1
+Perinatal jaundice from causes classified elsewhere,Newborn physiological jaundice (disorder),8.0,1
+Diurnal only enuresis,[D]Enuresis NOS,3.0,1
+Diurnal only enuresis,Enuresis (& [bedwetting]),3.0,1
+Diurnal only enuresis,[D]Enuresis,3.0,1
+Diurnal only enuresis,Enuresis [D],3.0,1
+Hypothermia-sweating syndrome,[D]Other general symptoms NOS,3.0,1
+Hypothermia-sweating syndrome,[D]Other general symptoms,3.0,1
+Aphasia-left parietal lobe syndrome,[X]Other and unspecified symbolic dysfunctions,6.0,1
+Aphasia-left parietal lobe syndrome,[D]Other symbolic dysfunction,6.0,1
+Essential tremor,Static tremor,2.0,1
+Familial essential myoclonus,Myoclonic disorder,29.0,1
+Double athetosis,Athetoid movement,8.0,1
+Sanger-Brown cerebellar ataxia,Cerebellar ataxia,11.0,1
+Nothnagel's syndrome,Cerebellar ataxia,11.0,1
+Posthemiplegic athetosis,Athetoid movement,8.0,1
+Athetosis with rigidity,Athetoid movement,8.0,1
+Athetosis with spastic paraplegia,Athetoid movement,8.0,1
+Paralytic syndrome,Paraparesis (disorder),2.0,1
+Paralytic syndromes,Paraparesis (disorder),2.0,1
+Facial hemiplegia,Hemiplegia (disorder),11.0,1
+Facial hemiparesis,Unilateral facial paresis,1.0,1
+Hemiplegic cerebral palsy (disorder),Hemiplegia (disorder),11.0,1
+Lethal neonatal spasticity,Spasticity,2.0,1
+Spastic syndrome (disorder),Spastic dysphonia,4.0,1
+Cursive seizure,Seizure,169.0,1
+Cursive (running) epilepsy,Seizure,169.0,1
+Cursive seizure,Partial seizure,22.0,1
+Cursive (running) epilepsy,Partial seizure,22.0,1
+Gelastic seizure,Seizure,169.0,1
+Gelastic seizure,Partial seizure,22.0,1
+Retropulsion petit mal,Seizure,169.0,1
+Centrencephalic epilepsy,Seizure,169.0,1
+Centrencephalic epilepsy,Partial seizure,22.0,1
+Petit mal status (disorder),Seizure,169.0,1
+Visual epilepsy,Seizure,169.0,1
+Visceral epilepsy,Seizure,169.0,1
+Visceral epilepsy,Partial seizure,22.0,1
+Unclassified epileptic seizures,Seizure,169.0,1
+Simple partial seizure with somatosensory or special sensory dysfunction,Seizure,169.0,1
+Simple partial seizure with special sensory symptoms,Seizure,169.0,1
+Epileptic automatism,Seizure,169.0,1
+Secondarily generalized seizures,Tonic-clonic seizure,2.0,1
+Secondarily generalized seizures,Grand mal seizure,2.0,1
+Atonic seizure,Seizure,169.0,1
+Epileptic drop attack,Seizure,169.0,1
+Benign focal epilepsy of childhood,Seizure,169.0,1
+Benign focal epilepsy of childhood,Partial seizure,22.0,1
+Extratemporal epilepsy,Seizure,169.0,1
+Extratemporal epilepsy,Partial seizure,22.0,1
+Idiopathic generalized epilepsy (disorder),Seizure,169.0,1
+Benign neonatal convulsions,Seizure,169.0,1
+Juvenile myoclonic epilepsy,Seizure,169.0,1
+Symptomatic generalized epilepsy,Seizure,169.0,1
+Early myoclonic encephalopathy (disorder),Myoclonic disorder,29.0,1
+Reflex epilepsy,Seizure,169.0,1
+Abdominal migraine,Abdominal migraine - symptom,1.0,1
+Lower half migraine,Headache (finding),59.0,1
+Basilar migraine,Headache (finding),59.0,1
+Basilar migraine,Subjective vertigo,12.0,1
+Retinal migraine,Headache (finding),59.0,1
+Hemiplegic migraine,Headache (finding),59.0,1
+Facial myokymia,Myokymia (finding),1.0,1
+Alternating hypoglossal hemiplegia,Hemiplegia (disorder),11.0,1
+Hypoglossal-pyramid syndrome,Hemiplegia (disorder),11.0,1
+Myotonia acquisita,Spasm (finding),10.0,1
+Juvenile cerebellar degeneration AND myoclonus,Myoclonic disorder,29.0,1
+Ill-defined disorder of eye,Red eye,2.0,1
+Pseudocyst of retina,Mass of eye structure,7.0,1
+Pseudocyst of retina,Swelling of structure of eye,7.0,1
+Concentric fading of visual field,Subjective visual disturbance,7.0,1
+Refractive polyopia,Monocular diplopia,2.0,1
+Impairment level of both eyes,Impairment level: low vision of both eyes,5.0,1
+Impairment level of both eyes,"Low vision, both eyes",5.0,1
+Blindness of one eye,Painful blind eye,2.0,1
+Corneal anesthesia (finding),Absence of sensation (finding),2.0,1
+Acquired blepharophimosis,Narrowing of palpebral fissure,1.0,1
+Pendular nystagmus,Oculopalatal myoclonus,2.0,1
+Vitreous liquifaction (disorder),Vitreous cavitation,1.0,1
+Diffuse otitis externa,Diffuse inflammation,11.0,1
+Vertiginous syndrome,Subjective vertigo,12.0,1
+Vertiginous syndrome,Multisensory dizziness,2.0,1
+Vertiginous syndrome,Vertigo preceded by head injury,1.0,1
+Vertiginous syndrome,Drug-induced vertigo,1.0,1
+Diffuse labyrinthitis,Diffuse inflammation,11.0,1
+Disharmonic diplacusis,Diplacusis,2.0,1
+Echo diplacusis,Diplacusis,2.0,1
+Recruitment,Loudness recruitment,2.0,1
+Isosexual virilization,Virilization (finding),5.0,1
+Adult myxedema,Hard edema,5.0,1
+Anemia due to starvation,Starvation (disorder),5.0,1
+Hemoglobinopathy with cyanosis,Cyanosis of skin,6.0,1
+Hemoglobinopathy with cyanosis,Central cyanosis (disorder),2.0,1
+Stokvis' disease,Cyanosis of skin,6.0,1
+Cold erythema associated with cryoglobulin,Erythema of skin,89.0,1
+Cold erythema associated with cryoglobulin,Erythematous condition,89.0,1
+Cold erythema associated with cold agglutinins,Erythema of skin,89.0,1
+Cold erythema associated with cold agglutinins,Erythematous condition,89.0,1
+Cold erythema associated with hemolysins,Erythema of skin,89.0,1
+Cold erythema associated with hemolysins,Erythematous condition,89.0,1
+Tonsillar tag,Mass of respiratory structure,11.0,1
+Tonsillar tag,Mass of digestive structure,22.0,1
+Splenic cyst,Mass of lymphoreticular structure,5.0,1
+Urticarial reaction to blood product,Immune complex urticaria,7.0,1
+Urticarial transfusion reaction,Immune complex urticaria,7.0,1
+Enanthematous infectious disease,Mucous membrane eruption,1.0,1
+Pintid,Macule (morphologic abnormality),5.0,1
+Erythematous plaques of pinta,Erythema of skin,89.0,1
+Erythematous pinta plaque,Erythema of skin,89.0,1
+Erythematous plaques of pinta,Erythematous condition,89.0,1
+Erythematous pinta plaque,Erythematous condition,89.0,1
+Vitiligo of pinta,Achromia of skin (disorder),4.0,1
+Syphilitic gumma of central nervous system,Gummatous inflammation (morphologic abnormality),8.0,1
+Bovine winter dysentery,Diarrhea symptom,39.0,1
+Bovine coronoviral diarrhea,Diarrhea symptom,39.0,1
+Bovine winter dysentery,Loose stool,39.0,1
+Bovine coronoviral diarrhea,Loose stool,39.0,1
+Yaws gumma of bone,Gummatous inflammation (morphologic abnormality),8.0,1
+Gummatous osteitis of yaws,Gummatous inflammation (morphologic abnormality),8.0,1
+Gummatous periostitis of yaws,Gummatous inflammation (morphologic abnormality),8.0,1
+Juxta-articular yaws nodules,Mass of musculoskeletal structure,10.0,1
+Neonatal calf diarrhea,Diarrhea symptom,39.0,1
+Neonatal calf diarrhea,Loose stool,39.0,1
+Epidemic diarrheal disease of infant mouse (disorder),Diarrhea symptom,39.0,1
+Epidemic diarrheal disease of infant mouse (disorder),Loose stool,39.0,1
+Coronaviral calf diarrhea,Diarrhea symptom,39.0,1
+Coronaviral calf diarrhea,Loose stool,39.0,1
+Dyspnea associated with AIDS,Difficulty breathing,2.0,1
+AIDS with fatigue,Fatigue associated with AIDS,2.0,1
+AIDS with hepatomegaly,Hepatomegaly associated with AIDS,2.0,1
+AIDS with malaise,Malaise associated with AIDS,2.0,1
+Coccidioidomycosis with erythema multiforme,Erythema of skin,89.0,1
+Coccidioidomycosis with erythema multiforme,Erythematous condition,89.0,1
+Cutaneous sporotrichosis,Sporotrichotic chancre,3.0,1
+Epidemic cervical myalgia,Pain (finding),136.0,1
+Dysenteric diarrhea,Diarrhea symptom,39.0,1
+Dysenteric diarrhea,Loose stool,39.0,1
+Epidemic diarrhea,Diarrhea symptom,39.0,1
+Epidemic diarrhea,Loose stool,39.0,1
+Traveler's diarrhea,Diarrhea symptom,39.0,1
+Traveler's diarrhea,Loose stool,39.0,1
+Bradylalia,[D]Other speech disturbance NOS,13.0,1
+Bradylalia,[D]Other speech disturbance,13.0,1
+Crossed hemiplegia,Hemiplegia (disorder),11.0,1
+Alternating hemiplegia,Hemiplegia (disorder),11.0,1
+Cerebral hemiplegia,Hemiplegia (disorder),11.0,1
+Spinal hemiplegia,Hemiplegia (disorder),11.0,1
+Crossed reflex,Crossed extensor reflex,1.0,1
+Static ataxia,Ataxia (finding),3.0,1
+Static ataxia,Coordination problem,12.0,1
+Long atonic seizure,Seizure,169.0,1
+Akinetic seizure without atonia,Seizure,169.0,1
+Visual seizure,Seizure,169.0,1
+Visual seizure,Partial seizure,22.0,1
+Pattern sensitive seizure,Seizure,169.0,1
+Gustatory seizure,Seizure,169.0,1
+Gustatory seizure,Partial seizure,22.0,1
+Reading seizure,Seizure,169.0,1
+Movement partial seizure,Seizure,169.0,1
+Startle partial seizure,Seizure,169.0,1
+Abdominal seizure,Seizure,169.0,1
+Musicogenic seizure,Seizure,169.0,1
+Partial seizure with impaired consciousness,Seizure,169.0,1
+Partial seizure with impaired consciousness,Partial seizure,22.0,1
+Ideational partial seizure,Seizure,169.0,1
+Partial seizure with illusions and hallucinations,Seizure,169.0,1
+Partial seizure with illusions and hallucinations,Partial seizure,22.0,1
+Partial seizure with multiple symptoms,Seizure,169.0,1
+Partial seizure with multiple symptoms,Partial seizure,22.0,1
+Muscular asthenopia,Visual discomfort,3.0,1
+Nervous asthenopia,Visual discomfort,3.0,1
+Swelling of skeletal muscle,Swelling of limb (finding),1.0,1
+Swelling of skeletal muscle,Swelling of musculoskeletal structure,1.0,1
+Actinic reticuloid (disorder),Persistent light reaction,3.0,1
+Idiopathic livedo reticularis with systemic involvement,Pale complexion,8.0,1
+Hypersensitivity reaction mediated by immune complex,Immune complex urticaria,7.0,1
+Hypersensitivity reaction mediated by immune complex,Urticarial vasculitis (disorder),7.0,1
+Alcohol hallucinosis,Alcohol induced hallucinations,1.0,1
+Alcohol withdrawal hallucinosis,Alcohol induced hallucinations,1.0,1
+Chronic vascular insufficiency of intestine,Abdominal angina,3.0,1
+Chronic vascular insufficiency of intestine,Intestinal angina,3.0,1
+Hill diarrhea,Diarrhea symptom,39.0,1
+Hill diarrhea,Loose stool,39.0,1
+Post-vagotomy syndrome,Diarrhea symptom,39.0,1
+Post-vagotomy diarrhea,Diarrhea symptom,39.0,1
+Post-vagotomy syndrome,Loose stool,39.0,1
+Post-vagotomy diarrhea,Loose stool,39.0,1
+External endometriosis (disorder),Pain (finding),136.0,1
+Generalized-onset seizures,Seizure,169.0,1
+Generalized-onset seizures,Tonic seizure,1.0,1
+Grand mal status,Seizure,169.0,1
+Lymphoid hyperplasia,Persistent light reaction,3.0,1
+Acute cerebellar ataxia due to varicella,Cerebellar ataxia,11.0,1
+Non-Alzheimer's progressive dysphasia,[D]Other speech disturbance NOS,13.0,1
+Non-Alzheimer's progressive dysphasia,[D]Other speech disturbance,13.0,1
+Sandifer syndrome (disorder),Wry neck/torticollis,5.0,1
+Idiopathic myoclonic epilepsy,Seizure,169.0,1
+Cryptogenic myoclonic epilepsy,Seizure,169.0,1
+Symptomatic myoclonic epilepsy,Seizure,169.0,1
+Migraine without aura,Headache (finding),59.0,1
+Ophthalmic migraine,Headache (finding),59.0,1
+Migraine with prolonged aura,Headache (finding),59.0,1
+Complicated migraine,Headache (finding),59.0,1
+Familial hemiplegic migraine,Headache (finding),59.0,1
+Non-familial hemiplegic migraine,Headache (finding),59.0,1
+Migraine aura without headache,Headache (finding),59.0,1
+Status migrainosus,Headache (finding),59.0,1
+Migraine with ischemic complication,Headache (finding),59.0,1
+Congenital nuclear ophthalmoplegia,Ophthalmoplegia (disorder),11.0,1
+Superior laryngeal neuralgia,Pain (finding),136.0,1
+Intercostal post-herpetic neuralgia,Pain (finding),136.0,1
+Psychogenic genitourinary tract symptoms,Psychic dysuria,1.0,1
+Diffuse stromal keratoconjunctivitis,Diffuse inflammation,11.0,1
+Diabetic maculopathy,O/E - right eye diabetic maculopathy,2.0,1
+Diabetic maculopathy,O/E - left eye diabetic maculopathy,2.0,1
+Preproliferative diabetic retinopathy (disorder),O/E - right eye preproliferative diabetic retinopathy,3.0,1
+Preproliferative diabetic retinopathy (disorder),O/E - left eye preproliferative diabetic retinopathy,2.0,1
+Anomaly of vergence system,Anomaly of divergence,2.0,1
+Relative afferent pupil defect (finding),Abnormal reflex,3.0,1
+Partial sight - both eyes,Impairment level: low vision of both eyes,5.0,1
+Partial sight - both eyes,"Low vision, both eyes",5.0,1
+"Better eye: severe visual impairment, Lesser eye: low vision unspecified",Impairment level: low vision of both eyes,5.0,1
+"Better eye: severe visual impairment, Lesser eye: low vision unspecified","Low vision, both eyes",5.0,1
+Cyst of nasal cavity,Mass of respiratory structure,11.0,1
+Nasal septal hematoma,Mass of respiratory structure,11.0,1
+Endometriosis of pleura,Pain (finding),136.0,1
+Drug-induced acute pulmonary edema,Acute edema,11.0,1
+Toxic pulmonary edema,Acute edema,11.0,1
+Chemical-induced pulmonary edema,Acute edema,11.0,1
+Oxygen-induced pulmonary edema,Acute edema,11.0,1
+Lofgrens syndrome,Mass of lymphoreticular structure,5.0,1
+Bilateral hilar adenopathy syndrome,Mass of lymphoreticular structure,5.0,1
+Lofgrens syndrome,Mass of trunk,4.0,1
+Bilateral hilar adenopathy syndrome,Mass of trunk,4.0,1
+Infected bronchogenic cyst,Mass of respiratory structure,11.0,1
+Stable angina (disorder),Angina,23.0,1
+Stable angina (disorder),Ischemic chest pain,23.0,1
+Stable angina (disorder),Pain (finding),136.0,1
+Stable angina (disorder),[X]Other forms of angina pectoris,14.0,1
+New onset angina,Angina,23.0,1
+New onset angina,Ischemic chest pain,23.0,1
+New onset angina,Pain (finding),136.0,1
+New onset angina,[X]Other forms of angina pectoris,14.0,1
+Pulmonary capillary hemangiomatosis,Mass of respiratory structure,11.0,1
+Pulmonary capillary hemangiomatosis,Mass of cardiovascular structure,4.0,1
+Simple faint,Syncope symptom,12.0,1
+Simple faint,Syncope and collapse,12.0,1
+Neurally-mediated syncope,Syncope symptom,12.0,1
+Neurally-mediated syncope,Syncope and collapse,12.0,1
+Malignant vasovagal syndrome,Syncope symptom,12.0,1
+Malignant vasovagal syndrome,Syncope and collapse,12.0,1
+Elderly vasovagal syndrome,Syncope symptom,12.0,1
+Elderly vasovagal syndrome,Syncope and collapse,12.0,1
+Situational syncope,Syncope symptom,12.0,1
+Situational syncope,Syncope and collapse,12.0,1
+Situational syncope,Effort syncope,1.0,1
+Defecation syncope,Syncope symptom,12.0,1
+Defecation syncope,Syncope and collapse,12.0,1
+Deglutition syncope,Syncope symptom,12.0,1
+Deglutition syncope,Syncope and collapse,12.0,1
+Syphilitic gumma of oral cavity,Gummatous inflammation (morphologic abnormality),8.0,1
+Oral erythematous candidiasis,Erythema of skin,89.0,1
+Oral erythematous candidiasis,Erythematous condition,89.0,1
+Other functional disorder of the intestine NOS,Absent peristalsis,1.0,1
+Other functional disorders of the intestine,Absent peristalsis,1.0,1
+Hamartoma of stomach,Mass of digestive structure,22.0,1
+Food intolerance NEC,Food intolerance,3.0,1
+Appendix mass,Mass of digestive structure,22.0,1
+Irritable bowel syndrome variant of childhood with constipation,Constipation (disorder),12.0,1
+Vulval warts,Mass of female genital structure,7.0,1
+Endometriosis of myometrium,Pain (finding),136.0,1
+Endometriosis interna,Pain (finding),136.0,1
+Eclampsia in labor,Seizure,169.0,1
+Nipple infection,Purulent nipple discharge,1.0,1
+Drug-induced virilization,Virilization (finding),5.0,1
+Severe systemic illness tissue wasting,Cachexia (finding),4.0,1
+Severe systemic illness-induced skeletal muscle wasting,Cachexia (finding),4.0,1
+Disorder of blood gas,Hypercapnia (disorder),5.0,1
+Disorder of blood gas,Hypocapnia (disorder),2.0,1
+Disorder of blood gas,Hyperoxia (disorder),1.0,1
+Macula cerulea,Macular eruption,4.0,1
+Maculae ceruleae,Macular eruption,4.0,1
+Macula cerulea,Macule (morphologic abnormality),5.0,1
+Maculae ceruleae,Macule (morphologic abnormality),5.0,1
+Symptomatic dermographism,Urticaria geographica,2.0,1
+Physical urticaria,Urticaria geographica,2.0,1
+Dermatographic urticaria,Urticaria geographica,2.0,1
+Symptomatic dermographism,Delayed dermographism,2.0,1
+Physical urticaria,Delayed dermographism,2.0,1
+Dermatographic urticaria,Delayed dermographism,2.0,1
+Symptomatic dermographism,Reflex urticaria,2.0,1
+Physical urticaria,Reflex urticaria,2.0,1
+Dermatographic urticaria,Reflex urticaria,2.0,1
+Giant cell arteritis with polymyalgia rheumatica,Pain (finding),136.0,1
+Painful arc syndrome,Pain (finding),136.0,1
+Ganglion of ankle,Mass of lower limb,2.0,1
+Algodystrophy of foot,Pain (finding),136.0,1
+Algodystrophy of knee,Pain (finding),136.0,1
+Algodystrophy of hand,Pain (finding),136.0,1
+Erythema nodosum leprosum,Erythema of skin,89.0,1
+Erythema nodosum leprosum,Erythematous condition,89.0,1
+Macular syphilide,Macular eruption,4.0,1
+Pustular syphilide,Pustular rash (morphologic abnormality),7.0,1
+Gummatous neurosyphilis,Gummatous inflammation (morphologic abnormality),8.0,1
+Anal warts,Mass of digestive structure,22.0,1
+Perianal warts,Perianal lump,2.0,1
+Donovanosis - inguinal lesion,Groin mass,2.0,1
+Cachexia associated with AIDS,Cachexia (finding),4.0,1
+Achromic skin lesions of pinta,Achromia of skin (disorder),4.0,1
+Pheohyphomycotic subcutaneous cyst,Mass of body region,3.0,1
+Hepatic schistosomal granuloma,Mass of digestive structure,22.0,1
+Horizontal spasm of gaze,Spasm of conjugate gaze,3.0,1
+Pleuropericardial cyst,Mass of cardiovascular structure,4.0,1
+Liver hematoma,Mass of digestive structure,22.0,1
+Spastic foot,(Spastic hemiplegia) or (spastic foot),1.0,1
+Psychosensory epilepsy,Seizure,169.0,1
+Somatosensory epilepsy,Seizure,169.0,1
+"Neuralgia, neuritis and radiculitis unspecified",Neuropathic pain,16.0,1
+"Neuralgia, neuritis and radiculitis unspecified",Femoral neuralgia,3.0,1
+"Neuralgia, neuritis and radiculitis unspecified",Reminiscent neuralgia,1.0,1
+"Neuralgia, neuritis and radiculitis unspecified",Radicular pain,2.0,1
+"Neuralgia, neuritis and radiculitis unspecified",Sympathetically maintained pain,1.0,1
+"Neuralgia, neuritis and radiculitis unspecified",Obturator neuralgia,4.0,1
+"Neuralgia, neuritis and radiculitis unspecified",Segmental peripheral neuralgia,3.0,1
+"Neuralgia, neuritis and radiculitis unspecified",Neurogenic pain,2.0,1
+"Neuralgia, neuritis and radiculitis unspecified",Sympathetically independent pain,1.0,1
+"Neuralgia, neuritis and radiculitis unspecified",Unilateral shortlasting neuralgiform pain with conjunctival injection and tearing syndrome,1.0,1
+"Neuralgia, neuritis and radiculitis unspecified",Peripheral neurogenic pain,1.0,1
+"Neuralgia, neuritis and radiculitis unspecified",Peripheral neuropathic pain,1.0,1
+"Neuralgia, neuritis or radiculitis NOS",Neuropathic pain,16.0,1
+Other psychophysical visual disturbance,Subjective visual disturbance,7.0,1
+[X]Other specified cardiac arrhythmias,Pulsus trigeminus (finding),1.0,1
+[X]Other specified cardiac arrhythmias,Labile pulse,1.0,1
+[X]Other specified cardiac arrhythmias,Bigeminal pulse (finding),1.0,1
+[X]Other specified diseases of oesophagus,Pain in esophagus,1.0,1
+[X]Other specified diseases of esophagus,Pain in esophagus,1.0,1
+[X]Other specified diseases of oesophagus,Absent deglutition (finding),1.0,1
+[X]Other specified diseases of esophagus,Absent deglutition (finding),1.0,1
+[X]Other specified diseases of anus and rectum,Anal twitching,1.0,1
+[X]Other specified diseases of liver,Liver pain (finding),1.0,1
+Other specified liver disorder,Liver pain (finding),1.0,1
+Other specified liver disorder NOS,Liver pain (finding),1.0,1
+[X]Other specified diseases of liver,Hepatocellular jaundice,4.0,1
+Other specified liver disorder,Hepatocellular jaundice,4.0,1
+Other specified liver disorder NOS,Hepatocellular jaundice,4.0,1
+Nonorganic insomnia,Insomnia (disorder),7.0,1
+Umbilical sepsis,Disorder of umbilicus,12.0,1
+Hypoglossal neuralgia,Pain (finding),136.0,1
+Amaurosis (disorder),Amaurosis fugax,4.0,1
+Premenstrual tension syndrome,Symptom occurs premenstrually,1.0,1
+Premenstrual tension syndrome,Premenstrual symptom,1.0,1
+Premenstrual tension syndrome,Premenstrual swelling,1.0,1
+Premenstrual tension syndrome,Premenstrual breast tenderness,1.0,1
+Painful ophthalmoplegia,Ophthalmoplegia (disorder),11.0,1
+Painful ophthalmoplegia,Pain (finding),136.0,1
+Acrodermatitis continua,Pustular rash (morphologic abnormality),7.0,1
+Infantile hemiplegia,Hemiplegia (disorder),11.0,1
+Impairment level: better eye: moderate impairment: lesser eye: not further specified,Impairment level: low vision of both eyes,5.0,1
+Impairment level: better eye: moderate impairment: lesser eye: not further specified,"Low vision, both eyes",5.0,1
+Abnormal involuntary movement,Athetoid movement,8.0,1
+Abnormal involuntary movement,Clonus,1.0,1
+Abnormal involuntary movement,Muscle fasciculation,1.0,1
+Abnormal involuntary movement,Spasticity,2.0,1
+Abnormal involuntary movement,Spasm (finding),10.0,1
+Abnormal involuntary movement,Tremor (finding),1.0,1
+Abnormal involuntary movement,Opisthotonus (finding),1.0,1
+Abnormal involuntary movement,Local spasm,1.0,1
+Abnormal involuntary movement,Muscle twitch (finding),1.0,1
+Abnormal involuntary movement,Synkinesis (finding),1.0,1
+Abnormal involuntary movement,Trembles,1.0,1
+Abnormal involuntary movement,Persistent tremor,1.0,1
+Abnormal involuntary movement,Continuous tremor,1.0,1
+Abnormal involuntary movement,Intermittent tremor,1.0,1
+Abnormal involuntary movement,Fine tremor,1.0,1
+Abnormal involuntary movement,Coarse tremor,1.0,1
+Abnormal involuntary movement,Massive tremor,1.0,1
+Abnormal involuntary movement,Passive tremor,1.0,1
+Abnormal involuntary movement,Static tremor,2.0,1
+Abnormal involuntary movement,Resting tremor,1.0,1
+Abnormal involuntary movement,Grimaces,2.0,1
+Abnormal involuntary movement,Clasp knife like increase in tone,1.0,1
+Abnormal involuntary movement,Risus sardonicus,1.0,1
+Abnormal involuntary movement,Involuntary movement,5.0,1
+Abnormal involuntary movement,Involuntary movement symptom,5.0,1
+Abnormal involuntary movement,Head movements abnormal,1.0,1
+Abnormal involuntary movement,Pleurothotonus,1.0,1
+Abnormal involuntary movement,Wrist clonus,1.0,1
+Abnormal involuntary movement,Pseudoathetosis,1.0,1
+Abnormal involuntary movement,Thyrotoxic tremor,1.0,1
+Abnormal involuntary movement,Pill rolling,1.0,1
+Abnormal involuntary movement,Involuntary truncal rocking,1.0,1
+Abnormal involuntary movement,Orthostatic tremor,1.0,1
+Abnormal involuntary movement,Chronic tremor,1.0,1
+Rasmussen syndrome,Seizure,169.0,1
+Early onset cerebellar ataxia,Cerebellar ataxia,11.0,1
+Late onset cerebellar ataxia,Cerebellar ataxia,11.0,1
+Disorder presenting primarily with chorea,Post-hemiplegic chorea,2.0,1
+Kinesiogenic choreoathetosis,Paroxysmal dystonia,4.0,1
+Dystonia,Dystonia (finding),1.0,1
+Dystonia,Paroxysmal dystonia,4.0,1
+Dystonia,Diurnal dystonia,2.0,1
+Isolated cervical dystonia,Spasmodic torticollis (disorder),4.0,1
+Isolated blepharospasm,Blepharospasm (disorder),7.0,1
+Other specified myoclonus,Myoclonic disorder,29.0,1
+Symptomatic myoclonus,Myoclonic disorder,29.0,1
+Post-anoxic myoclonus,Myoclonic disorder,29.0,1
+Segmental cord myoclonus,Myoclonic disorder,29.0,1
+Palatal-tympanic myoclonus,Myoclonic disorder,29.0,1
+Hyoid myoclonus,Myoclonic disorder,29.0,1
+Opsoclonus-myoclonus syndrome,Myoclonic disorder,29.0,1
+Partial epilepsy with autonomic symptoms,Seizure,169.0,1
+Benign frontal epilepsy of childhood,Seizure,169.0,1
+Benign psychomotor epilepsy of childhood,Seizure,169.0,1
+Benign atypical partial epilepsy in childhood,Seizure,169.0,1
+Epilepsy with recurrent unilateral seizures in children,Seizure,169.0,1
+Childhood epilepsy with occipital paroxysms,Seizure,169.0,1
+Benign occipital epilepsy of childhood - early onset variant,Seizure,169.0,1
+Benign occipital epilepsy of childhood - late onset variant,Seizure,169.0,1
+Primary inherited reading epilepsy,Seizure,169.0,1
+Amygdalo-hippocampal epilepsy,Seizure,169.0,1
+Mesiobasal limbic epilepsy,Seizure,169.0,1
+Rhinencephalic epilepsy,Seizure,169.0,1
+Lateral temporal epilepsy,Seizure,169.0,1
+Supplementary motor epilepsy,Seizure,169.0,1
+Cingulate epilepsy,Seizure,169.0,1
+Dorsolateral epilepsy,Seizure,169.0,1
+Opercular epilepsy,Seizure,169.0,1
+Non-progressive Kozhevnikow syndrome,Seizure,169.0,1
+Parietal lobe epilepsy,Seizure,169.0,1
+Occipital lobe epilepsy,Seizure,169.0,1
+Chronic progressive epilepsia partialis continua,Seizure,169.0,1
+Benign non-familial neonatal convulsions,Seizure,169.0,1
+Myoclonic epilepsy of early childhood,Seizure,169.0,1
+Epilepsy with grand mal seizures on awakening,Seizure,169.0,1
+Cryptogenic West syndrome,Seizure,169.0,1
+Symptomatic West syndrome,Seizure,169.0,1
+Cryptogenic Lennox-Gastaut syndrome,Seizure,169.0,1
+Symptomatic Lennox-Gastaut syndrome,Seizure,169.0,1
+Myoclonic astatic epilepsy,Seizure,169.0,1
+Myoclonic absence epilepsy,Seizure,169.0,1
+Early infantile epileptic encephalopathy with suppression bursts,Seizure,169.0,1
+Epilepsy with continuous spike wave during slow-wave sleep,Seizure,169.0,1
+Secondary reading epilepsy,Seizure,169.0,1
+Drug-induced epilepsy,Seizure,169.0,1
+Narcotic withdrawal epilepsy,Seizure,169.0,1
+Menstrual epilepsy,Seizure,169.0,1
+Nocturnal epilepsy,Seizure,169.0,1
+Photogenic epilepsy,Seizure,169.0,1
+Photogenic epilepsy,Partial seizure,22.0,1
+Eyelid myoclonus with absences,Seizure,169.0,1
+Writing epilepsy,Seizure,169.0,1
+Tactile epilepsy,Seizure,169.0,1
+Eating epilepsy,Seizure,169.0,1
+Tapping epilepsy,Seizure,169.0,1
+Toothbrushing epilepsy,Seizure,169.0,1
+Decision-making epilepsy,Seizure,169.0,1
+Aquagenic epilepsy,Seizure,169.0,1
+Non-convulsive status epilepticus with three per second spike wave,Seizure,169.0,1
+Non-convulsive status epilepticus without three per second spike wave,Seizure,169.0,1
+Non-convulsive simple partial status epilepticus,Seizure,169.0,1
+Non-convulsive simple partial status epilepticus,Partial seizure,22.0,1
+Complex partial status epilepticus,Seizure,169.0,1
+Complex partial status epilepticus,Partial seizure,22.0,1
+Headache disorder,Headache (finding),59.0,1
+Headache disorder,Menopausal headache,3.0,1
+Headache disorder,Idiopathic stabbing headache,1.0,1
+Muscular headache,Headache (finding),59.0,1
+Episodic tension-type headache,Headache (finding),59.0,1
+Chronic tension-type headache,Headache (finding),59.0,1
+Episodic cluster headache,Headache (finding),59.0,1
+Chronic cluster headache unremitting from onset,Headache (finding),59.0,1
+Chronic cluster headache evolved from episodic cluster headache,Headache (finding),59.0,1
+Chronic paroxysmal hemicrania,Headache (finding),59.0,1
+Atypical cluster headache,Headache (finding),59.0,1
+Chronic post-traumatic headache (disorder),Headache (finding),59.0,1
+Low pressure headache,Headache (finding),59.0,1
+Low pressure headache,Post dural puncture headache,3.0,1
+Headache due to cold exposure,Headache (finding),59.0,1
+Headache associated with substance abuse or withdrawal,Headache (finding),59.0,1
+Persistent insomnia,Insomnia (disorder),7.0,1
+Persistent hypersomnia,Hypersomnia (disorder),7.0,1
+Irregular sleep-wake pattern,[D]Sleep rhythm irregular,1.0,1
+Sleep-related bruxism,Sleep automatism,4.0,1
+Sleep-related painful erections,Pain (finding),136.0,1
+Sleep-related painful erections,Painful penile erection,2.0,1
+Idiopathic trigeminal neuralgia,Pain (finding),136.0,1
+Secondary trigeminal neuralgia,Pain (finding),136.0,1
+Cluster tic syndrome,Pain (finding),136.0,1
+Acute painful diabetic neuropathy,Pain (finding),136.0,1
+Diabetic acute painful polyneuropathy,Pain (finding),136.0,1
+Disorders of spinal neurones manifest by hyperactivity,Painful legs and moving toes,4.0,1
+Disorders of spinal neurones manifest by hyperactivity,Painful arms and moving fingers,3.0,1
+Congenital non-progressive ataxia,Ataxia (finding),3.0,1
+Dysequilibrium syndrome (disorder),Dizziness and giddiness,3.0,1
+Congenital receptive dysphasia,[D]Other speech disturbance NOS,13.0,1
+Congenital receptive dysphasia,[D]Other speech disturbance,13.0,1
+Acute sanguinous otitis media,Bleeding from ear,4.0,1
+Otitis media with effusion - sanguinous,Bleeding from ear,4.0,1
+Migrainous vertigo,Subjective vertigo,12.0,1
+Benign recurrent vertigo,Subjective vertigo,12.0,1
+Episodic recurrent vertigo,Subjective vertigo,12.0,1
+Recurrent vestibulopathy,Subjective vertigo,12.0,1
+Episodic recurrent vertigo,Dizziness and giddiness,3.0,1
+Recurrent vestibulopathy,Dizziness and giddiness,3.0,1
+Pharyngeal spasm,Spasm (finding),10.0,1
+Acute cardiac pulmonary edema,Acute edema,11.0,1
+Posteruptive tooth staining due to drug,Teeth staining due to drugs,2.0,1
+Amalgam tattoo,Macule (morphologic abnormality),5.0,1
+Diarrhea in diabetes,Diarrhea symptom,39.0,1
+Hollow visceral neuropathy,Diarrhea symptom,39.0,1
+Diarrhea in diabetes,Loose stool,39.0,1
+Hollow visceral neuropathy,Loose stool,39.0,1
+Hyperbilirubinemia - conjugated - type III,[D]Jaundice (not of newborn),5.0,1
+Hyperbilirubinemia - conjugated - type III,[D]Jaundice (not of newborn) NOS,5.0,1
+Vomiting - infective,Finding of vomiting,16.0,1
+Vomiting - infective,Vomiting symptom,16.0,1
+Constipation - functional,Constipation (disorder),12.0,1
+Constipation - functional,(Functional constipation) or (impacted faeces),1.0,1
+Constipation - functional,(Functional constipation) or (impacted feces),1.0,1
+Disorder of ureter (disorder),Ureteric neuromuscular incoordination,2.0,1
+Non-organic primary enuresis,[D]Enuresis NOS,3.0,1
+Non-organic primary enuresis,Enuresis (& [bedwetting]),3.0,1
+Non-organic primary enuresis,[D]Enuresis,3.0,1
+Non-organic primary enuresis,Enuresis [D],3.0,1
+Non-organic secondary enuresis,[D]Enuresis NOS,3.0,1
+Non-organic secondary enuresis,Enuresis (& [bedwetting]),3.0,1
+Non-organic secondary enuresis,[D]Enuresis,3.0,1
+Non-organic secondary enuresis,Enuresis [D],3.0,1
+Symptomatic disorders of the urinary tract,[D]Urinary system symptoms NOS,1.0,1
+Symptomatic disorders of the urinary tract,[D]Urinary system symptoms,1.0,1
+Endometriosis outside pelvis,Pain (finding),136.0,1
+Perimenopausal disorder,Menopausal symptom,1.0,1
+Perimenopausal disorder,Menopausal headache,3.0,1
+Perimenopausal disorder,Menopausal sleeplessness,1.0,1
+Perimenopausal disorder,Menopausal concentration lack,1.0,1
+Peripheral neuritis in pregnancy,Symptomatic disorders in pregnancy,3.0,1
+Hyperemesis gravidarum with metabolic disturbance - not delivered,Finding of vomiting,16.0,1
+Hyperemesis gravidarum with metabolic disturbance - not delivered,Vomiting symptom,16.0,1
+Hyperemesis gravidarum with metabolic disturbance,Hyperemesis gravidarum,6.0,1
+Hyperemesis gravidarum with metabolic disturbance,Finding of vomiting,16.0,1
+Hyperemesis gravidarum with metabolic disturbance,Vomiting symptom,16.0,1
+Mild hyperemesis-not delivered,Finding of vomiting,16.0,1
+Mild hyperemesis-not delivered,Vomiting symptom,16.0,1
+Mild hyperemesis-delivered,Finding of vomiting,16.0,1
+Mild hyperemesis-delivered,Vomiting symptom,16.0,1
+"Breast engorgement in pregnancy, the puerperium or lactation with antenatal complication",Engorgement of breasts,2.0,1
+Disorder of nipple,Discharge from nipple,1.0,1
+Disorder of nipple,Nipple discharge symptom,1.0,1
+Other pruritic conditions NOS,Pruritus of skin,26.0,1
+Other pruritic conditions NOS,Itching of skin,26.0,1
+Other pruritic conditions NOS,Itch of skin,26.0,1
+Local infection skin/subcut tissue NOS (disorder),Skin irritation,3.0,1
+Staphylococcal intertrigo,Erythema of skin,89.0,1
+Staphylococcal intertrigo,Erythematous condition,89.0,1
+Streptococcal intertrigo,Erythema of skin,89.0,1
+Streptococcal intertrigo,Erythematous condition,89.0,1
+Pruriginous atopic dermatitis,Pruritus of skin,26.0,1
+Pruriginous atopic dermatitis,Itching of skin,26.0,1
+Pruriginous atopic dermatitis,Itch of skin,26.0,1
+Subacute prurigo,Pruritus of skin,26.0,1
+Subacute prurigo,Itching of skin,26.0,1
+Subacute prurigo,Itch of skin,26.0,1
+Chronic prurigo,Pruritus of skin,26.0,1
+Chronic prurigo,Itching of skin,26.0,1
+Chronic prurigo,Itch of skin,26.0,1
+Dermographic prurigo,Pruritus of skin,26.0,1
+Dermographic prurigo,Itching of skin,26.0,1
+Dermographic prurigo,Itch of skin,26.0,1
+Prurigo pigmentosa,Pruritus of skin,26.0,1
+Prurigo pigmentosa,Itching of skin,26.0,1
+Prurigo pigmentosa,Itch of skin,26.0,1
+Psoriasis palmaris,Pustular rash (morphologic abnormality),7.0,1
+Psoriasis plantaris,Pustular rash (morphologic abnormality),7.0,1
+Aquagenic pruritus,Pruritus of skin,26.0,1
+Aquagenic pruritus,Itching of skin,26.0,1
+Aquagenic pruritus,Itch of skin,26.0,1
+Aquagenic pruritus,Other specified pruritic conditions (disorder),6.0,1
+Pigmented peribuccal erythrosis of Brocq,Erythema of skin,89.0,1
+Pigmented peribuccal erythrosis of Brocq,Erythematous condition,89.0,1
+Idiopathic livedo reticularis,Pale complexion,8.0,1
+Idiopathic livedo reticularis with winter ulceration,Pale complexion,8.0,1
+Idiopathic livedo reticularis with summer ulceration,Pale complexion,8.0,1
+Erythema papulatum,Erythema of skin,89.0,1
+Erythema papulatum,Erythematous condition,89.0,1
+Erythema tuberculatum,Erythema of skin,89.0,1
+Erythema tuberculatum,Erythematous condition,89.0,1
+Erythema urticatum,Erythema of skin,89.0,1
+Erythema urticatum,Erythematous condition,89.0,1
+Erythema vesiculosum,Erythema of skin,89.0,1
+Erythema vesiculosum,Erythematous condition,89.0,1
+Other exfoliative erythema,Erythema of skin,89.0,1
+Other exfoliative erythema,Erythematous condition,89.0,1
+Other erythematous conditions NOS,Erythema of skin,89.0,1
+Other erythematous conditions NOS,Erythematous condition,89.0,1
+Toxic urticated erythema,Erythema of skin,89.0,1
+Toxic urticated erythema,Erythematous condition,89.0,1
+Non-bullous erythema multiforme,Erythema of skin,89.0,1
+Non-bullous erythema multiforme,Erythematous condition,89.0,1
+Erythema multiforme of pregnancy,Erythema of skin,89.0,1
+Erythema multiforme of pregnancy,Erythematous condition,89.0,1
+Collagen and elastic tissue disorders affecting skin,"Extensive congenital erosions, vesicles and reticulate scarring",3.0,1
+Lipogranulomatosis subcutanea of Rothmann and Makai,Erythema of skin,89.0,1
+Lipogranulomatosis subcutanea of Rothmann and Makai,Erythematous condition,89.0,1
+Skin disorder of umbilicus,Disorder of umbilicus,12.0,1
+Disorder of scalp,Scalp itchy,2.0,1
+Vulvodynia (disorder),Pain (finding),136.0,1
+Vulvodynia (disorder),Burning sensation of vulva,1.0,1
+Vulvodynia (disorder),Vulvovaginal pain,1.0,1
+Vulvodynia (disorder),Chronic vaginal pain,2.0,1
+Psoriasiform drug eruption,Psoriasiform rash,1.0,1
+Drug-induced erythroderma,Erythema of skin,89.0,1
+Drug-induced erythroderma,Erythematous condition,89.0,1
+Drug-induced pigmentation,Drug pigmentation,7.0,1
+Kohlschutter's syndrome,Seizure,169.0,1
+Dermatopathia pigmentosa reticularis (disorder),Pale complexion,8.0,1
+Prurigo of pregnancy,Pruritus of skin,26.0,1
+Prurigo of pregnancy,Itching of skin,26.0,1
+Prurigo of pregnancy,Itch of skin,26.0,1
+Post-thoracotomy pain syndrome,Chest wall pain (finding),1.0,1
+Post-thoracotomy pain syndrome,Postoperative pain,1.0,1
+Tissue expander disorder,Pain from tissue expander,2.0,1
+"Joint disorder NOS, of ankle and foot",Subtalar joint laxity,1.0,1
+"Joint disorder NOS, of ankle and foot",Subtalar joint stiff,1.0,1
+"Joint derangement NOS, of the ankle and foot",Foot joint laxity,1.0,1
+Villonodular synovitis of distal interphalangeal joint of finger,Lump on finger,4.0,1
+Villonodular synovitis of proximal interphalangeal joint of finger,Lump on finger,4.0,1
+Villonodular synovitis of metacarpophalangeal joint,Lump on finger,4.0,1
+Snapping thumb syndrome,[D]Clicking thumb (context-dependent category),1.0,1
+Snapping thumb syndrome,[D]Clicking thumb (situation),1.0,1
+Fibrositis and nodular fasciitis,Pain (finding),136.0,1
+Infective myositis-foot,Cramp in foot,2.0,1
+Viral myalgia,Pain (finding),136.0,1
+Grunting baby,Grunting respiration (finding),1.0,1
+Submammary intertrigo,Erythema of skin,89.0,1
+Submammary intertrigo,Erythematous condition,89.0,1
+Exhaustion - physiological,Exhaustion,2.0,1
+Versive seizure,Seizure,169.0,1
+Olfactory seizure (disorder),Seizure,169.0,1
+Olfactory seizure (disorder),Partial seizure,22.0,1
+Epileptic vertigo,Seizure,169.0,1
+Epileptic vertigo,Subjective vertigo,12.0,1
+Epileptic vertigo,Vertigo associated with seizures,1.0,1
+Dysmnesic seizure,Seizure,169.0,1
+Incomitant heterophoria,Incomitant esophoria (disorder),2.0,1
+Staring (finding),Postbasic stare,1.0,1
+Mechanical low back pain,Low back pain,4.0,1
+Facet joint pain,Joint pain,2.0,1
+Facet joint pain,(Other back symptoms) or (facet joint syndrome),1.0,1
+Neurological pain disorder,Neurogenic pain,2.0,1
+Perineal neuralgia,Pain (finding),136.0,1
+Iliohypogastric nerve neuralgia,Pain (finding),136.0,1
+Painful spasm of anus,Rectal pain (finding),1.0,1
+Painful spasm of anus,Anal pain (finding),2.0,1
+Diogenes syndrome,Self-neglect,1.0,1
+Liver palms,Erythema of skin,89.0,1
+Liver palms,Erythematous condition,89.0,1
+Rheumatic torticollis,Wry neck/torticollis,5.0,1
+Stiff metacarpophalangeal joint NEC,Joint stiffness,1.0,1
+Low level sensorimotor gait disorder,Abnormal gait,2.0,1
+High level sensorimotor gait disorder,Abnormal gait,2.0,1
+High level sensorimotor gait disorder,Staggering gait (finding),1.0,1
+Myoclonic encephalopathy,Seizure,169.0,1
+Visual reflex epilepsy,Seizure,169.0,1
+Neuropathy (disorder),Neuropathic pain,16.0,1
+Hepatic granulomas in berylliosis,Mass of digestive structure,22.0,1
+Erythema marginatum in acute rheumatic fever,Erythema of skin,89.0,1
+Erythema marginatum in acute rheumatic fever,Erythematous condition,89.0,1
+"Sensorineural hearing loss, bilateral",Bilateral central hearing loss,2.0,1
+Lumbago with sciatica,Low back pain,4.0,1
+Neonatal withdrawal symptoms from maternal use of drugs of addiction,Withdrawal sign or symptom,2.0,1
+Withdrawal symptoms from therapeutic use of drugs in newborn,Withdrawal sign or symptom,2.0,1
+Impairment of voice production,[D]Other speech disturbance NOS,13.0,1
+Impairment of voice production,[D]Other speech disturbance,13.0,1
+Impairment of speech form,[D]Other speech disturbance NOS,13.0,1
+Impairment of speech form,[D]Other speech disturbance,13.0,1
+Disorder of fluency,Acquired stammering,1.0,1
+Dysfluency,[D]Other speech disturbance NOS,13.0,1
+Dysfluency,[D]Other speech disturbance,13.0,1
+Hyperkinetic aphonia,Loss of voice,5.0,1
+Hypofunctional aphonia,Loss of voice,5.0,1
+Hyperfunctional aphonia,Loss of voice,5.0,1
+Language-related cognitive disorder,[X]Other and unspecified symbolic dysfunctions,6.0,1
+Language-related cognitive disorder,[D]Other symbolic dysfunction,6.0,1
+Deep dysgraphia,Coordination problem,12.0,1
+Phonological dysgraphia,Coordination problem,12.0,1
+Surface dysgraphia,Coordination problem,12.0,1
+Oral-verbal dyspraxia,[D]Other speech disturbance NOS,13.0,1
+Oral-verbal dyspraxia,[D]Other speech disturbance,13.0,1
+Acquired choreiform dyspraxia,Coordination problem,12.0,1
+Dyspraxia of velopharynx,[D]Other speech disturbance NOS,13.0,1
+Dyspraxia of velopharynx,[D]Other speech disturbance,13.0,1
+Velar dyspraxia,Coordination problem,12.0,1
+Restricted sound system,[D]Other speech disturbance NOS,13.0,1
+Restricted sound system,[D]Other speech disturbance,13.0,1
+Velopharyngeal mislearning,[D]Other speech disturbance NOS,13.0,1
+Velopharyngeal mislearning,[D]Other speech disturbance,13.0,1
+Benedikt's syndrome,Hemiplegia (disorder),11.0,1
+Snuffles in newborn,Snuffles (& neonatal snuffles),1.0,1
+Perinatal neurological disorder,Other newborn abnormal cerebral signs,1.0,1
+Fifth day fits,Seizure,169.0,1
+Disorder involving the integument of fetus OR newborn,Harlequin change,3.0,1
+Central positional nystagmus,Subjective vertigo,12.0,1
+Central positional vertigo,Subjective vertigo,12.0,1
+Neonatal annular erythema,Erythema of skin,89.0,1
+Neonatal annular erythema,Erythematous condition,89.0,1
+"Hyperhidrosis, premature cavities and premolar aplasia",Excessive sweating,1.0,1
+Chronic low back pain,Low back pain,4.0,1
+Cervicogenic headache,Headache (finding),59.0,1
+Internal mammary artery syndrome,Chest pain,4.0,1
+Internal mammary artery syndrome,Persistent pain following procedure,1.0,1
+Complex regional pain syndrome,Pain (finding),136.0,1
+Nervus intermedius neuralgia,Pain (finding),136.0,1
+Piriformis syndrome (disorder),Pain (finding),136.0,1
+Piriformis syndrome (disorder),Sciatica (disorder),7.0,1
+Lumbar facet joint pain,Abdominal pain,4.0,1
+Disorder of soft tissue of body cavity,Blepharospasm (disorder),7.0,1
+Disorder of soft tissue of body cavity,Pruritus of vagina,2.0,1
+Disorder of soft tissue of body cavity,Spasmodic torticollis (disorder),4.0,1
+Disorder of soft tissue of trunk,Pruritus of penis,3.0,1
+Disorder of soft tissue of trunk,Burning scrotum,4.0,1
+Disorder of soft tissue of trunk,Scrotal pruritus,3.0,1
+Drug-induced melasma,Drug pigmentation,7.0,1
+Localization-related idiopathic epilepsy,Seizure,169.0,1
+Localization-related symptomatic epilepsy,Seizure,169.0,1
+Localization-related symptomatic epilepsy with specific precipitant,Seizure,169.0,1
+Localization-related cryptogenic epilepsy,Seizure,169.0,1
+Cryptogenic generalized epilepsy,Seizure,169.0,1
+Epilepsy undetermined whether focal or generalized,Seizure,169.0,1
+Physiological hyperbilirubinemia,Newborn physiological jaundice (disorder),8.0,1
+Prototheca diarrhea,Diarrhea symptom,39.0,1
+Prototheca diarrhea,Loose stool,39.0,1
+Toddler diarrhea,Diarrhea symptom,39.0,1
+Toddler diarrhea,Loose stool,39.0,1
+Protracted diarrhea,Diarrhea symptom,39.0,1
+Protracted diarrhea,Loose stool,39.0,1
+Perineal hematoma,Perineal lump (finding),6.0,1
+Neonatal chloridorrhea,Diarrhea symptom,39.0,1
+Neonatal chloridorrhea,Loose stool,39.0,1
+Perinatal hemoptysis,Blood streaked sputum,2.0,1
+Chromatopsia,Chromatic aberration of vision,2.0,1
+Corneal edema due to wearing of contact lenses,Contact lens related red eye,1.0,1
+Localization-related(focal)(partial)idiopathic epilepsy and epileptic syndromes with seizures of localized onset,Seizure,169.0,1
+Obstetric spinal and epidural anesthesia-induced headache,Headache (finding),59.0,1
+Obstetric spinal and epidural anesthesia-induced headache,Reaction to spinal or lumbar puncture (disorder),3.0,1
+Obstetric spinal and epidural anesthesia-induced headache,Post dural puncture headache,3.0,1
+C/O - postviral syndrome,[D]Other general symptoms NOS,3.0,1
+C/O - postviral syndrome,[D]Other general symptoms,3.0,1
+C/O - postviral syndrome,Nervous system symptoms,1.0,1
+C/O - postviral syndrome,Neurological symptom,1.0,1
+[X]Other specified disorders of urinary system,Mass of urinary system structure,3.0,1
+Other specified diseases of urinary system,Mass of urinary system structure,3.0,1
+[X]Other specified disorders of urinary system,Swelling of urological structure,1.0,1
+Other specified diseases of urinary system,Swelling of urological structure,1.0,1
+[X]Other specified conditions of the integument specific to fetus and newborn,Traumatic neonatal facial cyanosis,3.0,1
+Disorder of inner ear,Multisensory dizziness,2.0,1
+Disorder of inner ear,Tinnitus of vascular origin,1.0,1
+Disorder of inner ear,Leudet's tinnitus,2.0,1
+(Hemiplegia) or (hemiparesis),Hemiplegia (disorder),11.0,1
+Erythema simplex,Erythema of skin,89.0,1
+Erythema simplex,Erythematous condition,89.0,1
+Clumsy child,Coordination problem,12.0,1
+Phosphene,Other specified visual disturbance NOS,3.0,1
+Accommodation phosphene,Other specified visual disturbance NOS,3.0,1
+Phosphene,Other specified visual disturbance,3.0,1
+Accommodation phosphene,Other specified visual disturbance,3.0,1
+Phosphene,Subjective visual disturbance,7.0,1
+Accommodation phosphene,Subjective visual disturbance,7.0,1
+Primary fibromyalgia syndrome,Pain (finding),136.0,1
+Acute confusional migraine,Headache (finding),59.0,1
+Chronic mixed headache syndrome,Headache (finding),59.0,1
+Hindbrain hernia headache,Headache (finding),59.0,1
+"Unilateral sensory loss of face and trunk, opposite sides",Skin sensation disturbance,6.0,1
+"Unilateral sensory loss of face and trunk, opposite sides",Absence of sensation (finding),2.0,1
+Berger's paresthesia,Skin sensation disturbance,6.0,1
+Pulmonary cyanosis,Cyanosis of skin,6.0,1
+Benign exertional headache,Headache (finding),59.0,1
+Analgesic overuse headache,Headache (finding),59.0,1
+Cervical nerve root pain,Radicular pain,2.0,1
+Cervical nerve root pain,Pain of head and neck region,3.0,1
+Secondary erythromelalgia,Pain (finding),136.0,1
+Secondary erythromelalgia,Erythema of skin,89.0,1
+Secondary erythromelalgia,Erythematous condition,89.0,1
+Solar pruritus of elbows,Pruritus of skin,26.0,1
+Brachioradial summer pruritus,Pruritus of skin,26.0,1
+Solar pruritus of elbows,Itching of skin,26.0,1
+Brachioradial summer pruritus,Itching of skin,26.0,1
+Solar pruritus of elbows,Itch of skin,26.0,1
+Brachioradial summer pruritus,Itch of skin,26.0,1
+Solar pruritus of elbows,Other specified pruritic conditions (disorder),6.0,1
+Brachioradial summer pruritus,Other specified pruritic conditions (disorder),6.0,1
+Sporotrichotic gumma,Gummatous inflammation (morphologic abnormality),8.0,1
+Macular cutaneous amyloidosis,Macule (morphologic abnormality),5.0,1
+Salaam spasm,Spasm (finding),10.0,1
+Salaam spasm,Motor dysfunction,4.0,1
+Hemiplegia-hemiconvulsion-epilepsy syndrome,Seizure,169.0,1
+Asteatotic eczema,Pruritus of skin,26.0,1
+Winter itch,Pruritus of skin,26.0,1
+Dry skin dermatitis,Pruritus of skin,26.0,1
+Asteatotic eczema,Itching of skin,26.0,1
+Winter itch,Itching of skin,26.0,1
+Dry skin dermatitis,Itching of skin,26.0,1
+Asteatotic eczema,Itch of skin,26.0,1
+Winter itch,Itch of skin,26.0,1
+Dry skin dermatitis,Itch of skin,26.0,1
+Asteatotic eczema,Other specified pruritic conditions (disorder),6.0,1
+Winter itch,Other specified pruritic conditions (disorder),6.0,1
+Dry skin dermatitis,Other specified pruritic conditions (disorder),6.0,1
+Pigment alteration,Schistosomal pigment deposition,4.0,1
+Disorder of pigmentation,Schistosomal pigment deposition,4.0,1
+Pigment alteration,Drug pigmentation,7.0,1
+Disorder of pigmentation,Drug pigmentation,7.0,1
+Pigment alteration,Cullen's sign,1.0,1
+Disorder of pigmentation,Cullen's sign,1.0,1
+Pigment alteration,Blood pigmentation of cornea,2.0,1
+Disorder of pigmentation,Blood pigmentation of cornea,2.0,1
+Pigment alteration,Malarial pigment deposition,5.0,1
+Disorder of pigmentation,Malarial pigment deposition,5.0,1
+Posteruptive color change of tooth,Extrinsic staining of teeth associated with inadequate oral hygiene,2.0,1
+Posteruptive teeth staining,Extrinsic staining of teeth associated with inadequate oral hygiene,2.0,1
+Posteruptive color change of tooth,Extrinsic staining of teeth associated with oral habits,2.0,1
+Posteruptive teeth staining,Extrinsic staining of teeth associated with oral habits,2.0,1
+Partial epilepsy with impairment of consciousness,Seizure,169.0,1
+Myotonic disorder,Spasm (finding),10.0,1
+Disorder of oropharynx,Palatal myoclonus,5.0,1
+Lumbosacral plexus neuropathy,Lateral femoral cutaneous neuralgia,4.0,1
+Lumbosacral plexus neuropathy,Obturator neuralgia,4.0,1
+Lumbosacral plexus neuropathy,Ilioinguinal nerve neuralgia,7.0,1
+Lumbosacral plexus neuropathy,Genitofemoral nerve neuralgia,6.0,1
+Lumbosacral plexus neuropathy,Testicular neuralgia,3.0,1
+Acute and subacute bacterial endocarditis,Osler's node,3.0,1
+Pruritus estivalis,Pruritus of skin,26.0,1
+Pruritus estivalis,Itching of skin,26.0,1
+Pruritus estivalis,Itch of skin,26.0,1
+Pruritus estivalis,Other specified pruritic conditions (disorder),6.0,1
+Nasal infection,Purulent nasal discharge,8.0,1
+Nasal infection,Purulent rhinitis,8.0,1
+Blind or low vision - one eye only,Unqualified visual loss of one eye,1.0,1
+Blind or low vision - one eye only,"Visual loss, one eye, unqualified",1.0,1
+Candidiasis of finger web,Erythema of skin,89.0,1
+Candidiasis of finger web,Erythematous condition,89.0,1
+Delayed visual maturation,Other specified visual disturbance NOS,3.0,1
+Delayed visual maturation,Other specified visual disturbance,3.0,1
+Dysmenorrhea - non-psychogenic,Pain (finding),136.0,1
+Myalgia/myositis - multiple,Muscle pain,2.0,1
+Blind or low vision - both eyes,Unqualified visual loss of both eyes,1.0,1
+Blind or low vision - both eyes,"Visual loss, both eyes unqualified",1.0,1
+Blind or low vision - both eyes,Impairment level: low vision of both eyes,5.0,1
+Blind or low vision - both eyes,"Low vision, both eyes",5.0,1
+Pregnancy and infectious disease,Symptomatic disorders in pregnancy,3.0,1
+Umbilical cord complication,Disorder of umbilicus,12.0,1
+Umbilical cord problem,Disorder of umbilicus,12.0,1
+Pain of uterus (finding),Abdominal pain,4.0,1
+Pain of uterus (finding),Pain in female genitalia,2.0,1
+Drug-induced erythema nodosum,Erythema of skin,89.0,1
+Drug-induced erythema nodosum,Erythematous condition,89.0,1
+Drug-induced toxic erythema,Erythema of skin,89.0,1
+Drug-induced toxic erythema,Erythematous condition,89.0,1
+Drug-induced erythema multiforme,Erythema of skin,89.0,1
+Drug-induced erythema multiforme,Erythematous condition,89.0,1
+Perineal wart,Perineal lump (finding),6.0,1
+Cervical facet joint pain,Pain of head and neck region,3.0,1
+Thoracic facet joint pain,Chest pain,4.0,1
+Thoracic facet joint pain,Pain in thoracic spine,1.0,1
+Horizontal doll's head reflex absent,Abnormal reflex,3.0,1
+Intertrigo of abdominal skin fold,Erythema of skin,89.0,1
+Intertrigo of abdominal skin fold,Erythematous condition,89.0,1
+Anterior mediastinum mass,"[D]Swelling, mass or lump of chest NOS",1.0,1
+Anterior mediastinum mass,"[D]Swelling, mass and lump of chest",1.0,1
+Antibiotic-associated diarrhea,Diarrhea symptom,39.0,1
+Antibiotic-associated diarrhea,Loose stool,39.0,1
+Erythema at injection site,Erythema of skin,89.0,1
+Erythema at injection site,Erythematous condition,89.0,1
+Infection of penis,Penile warts,4.0,1
+Cyst of embryonic remnant - female,Mass of female genital structure,7.0,1
+Acute sciatica,Pain (finding),136.0,1
+Acute sciatica,Sciatica (disorder),7.0,1
+Chronic sciatica,Pain (finding),136.0,1
+Chronic sciatica,Sciatica (disorder),7.0,1
+Peripheral vestibular nystagmus,Benign paroxysmal positional vertigo nystagmus,3.0,1
+Central vestibular nystagmus,Bruns nystagmus,3.0,1
+Vertical myoclonus,Myoclonic disorder,29.0,1
+Alcohol-induced epilepsy,Seizure,169.0,1
+Alcohol withdrawal-induced convulsion,Seizure,169.0,1
+Alcohol-related fit,Seizure,169.0,1
+Acquired hyperbilirubinemia (disorder),[D]Jaundice (not of newborn),5.0,1
+Acquired hyperbilirubinemia (disorder),[D]Jaundice (not of newborn) NOS,5.0,1
+Atypical absence seizure,Seizure,169.0,1
+Drug exanthem,Erythema of skin,89.0,1
+Drug exanthem,Erythematous condition,89.0,1
+Nodular lymphoma of extranodal AND/OR solid organ site,Mass of lymphoreticular structure,5.0,1
+Transient neonatal hyperbilirubinemia,Newborn physiological jaundice (disorder),8.0,1
+Intestinal disaccharidase deficiency,Sucrose intolerance,1.0,1
+Disaccharidase deficiency,Sucrose intolerance,1.0,1
+Dyssomnia,Disturbance in sleep behavior,4.0,1
+Dyssomnia,Hypersomnia (disorder),7.0,1
+Dyssomnia,Insomnia (disorder),7.0,1
+Dyssomnia,[D]Sleep disturbances (& [hypersomnia] or [insomnia]),1.0,1
+Sick headache,Headache (finding),59.0,1
+Adrenogenital disorder,Virilization (finding),5.0,1
+Dermatitis vegetans,Abnormal granulation tissue,3.0,1
+Palsy of conjugate gaze,Spasm of conjugate gaze,3.0,1
+Cap polyp,Mass of digestive structure,22.0,1
+Cyst of tendon sheath,Mass of musculoskeletal structure,10.0,1
+Infective pharyngitis (disorder),Pain in throat,4.0,1
+Infective pharyngitis (disorder),Sore throat symptom,4.0,1
+Cyst of iris and/or ciliary body,Mass of eye structure,7.0,1
+Cyst of iris and/or ciliary body,Swelling of structure of eye,7.0,1
+Acute diarrhea,Diarrhea symptom,39.0,1
+Acute diarrhea,Loose stool,39.0,1
+Atypical angina,Angina,23.0,1
+Atypical angina,Ischemic chest pain,23.0,1
+Atypical angina,Pain (finding),136.0,1
+Atypical angina,[X]Other forms of angina pectoris,14.0,1
+Refractory angina,Angina,23.0,1
+Refractory angina,Ischemic chest pain,23.0,1
+Refractory angina,Pain (finding),136.0,1
+Refractory angina,[X]Other forms of angina pectoris,14.0,1
+Focal dystonia,Blepharospasm (disorder),7.0,1
+Focal dystonia,Spastic dysphonia,4.0,1
+Eclamptic seizure,Seizure,169.0,1
+Migraine variant with headache,Headache (finding),59.0,1
+Reflex sympathetic dystrophy of lower extremity,Pain (finding),136.0,1
+Acute respiratory distress,Respiratory distress (finding),3.0,1
+Vertebrogenic pain syndrome,Dorsalgia,3.0,1
+Vertebrogenic pain syndrome,(Backache NOS) or (back pain [& low]),2.0,1
+Carotid territory transient ischemic attack,Amaurosis fugax,4.0,1
+Benign myoclonic epilepsy in infancy,Seizure,169.0,1
+Severe myoclonic epilepsy in infancy,Seizure,169.0,1
+Cough headache syndrome,Headache (finding),59.0,1
+Recurrent hypersomnia,Hypersomnia (disorder),7.0,1
+Cataplexy and narcolepsy,Hypersomnia (disorder),7.0,1
+Juvenile neuronal ceroid lipofuscinosis,Myoclonic disorder,29.0,1
+Posttraumatic osteoporosis,Pain (finding),136.0,1
+Sleep-related neurogenic tachypnea,Tachypnea (finding),2.0,1
+Nonconvulsive status epilepticus,Seizure,169.0,1
+Simple partial status epilepticus,Seizure,169.0,1
+Simple partial status epilepticus,Partial seizure,22.0,1
+Anterior frontopolar epilepsy,Seizure,169.0,1
+Orbitofrontal epilepsy,Seizure,169.0,1
+Periodic limb movement disorder,Involuntary movement,5.0,1
+Periodic limb movement disorder,Involuntary movement symptom,5.0,1
+Progressive myoclonic epilepsy,Myoclonic disorder,29.0,1
+Progressive myoclonic epilepsy,Seizure,169.0,1
+Lafora disease,Myoclonic disorder,29.0,1
+Lafora disease,Seizure,169.0,1
+Unverricht-Lundborg syndrome,Myoclonic disorder,29.0,1
+Unverricht-Lundborg syndrome,Seizure,169.0,1
+Femoral neuropathy,Femoral neuralgia,3.0,1
+Benign neonatal sleep myoclonus,Myoclonic disorder,29.0,1
+Ballism,Involuntary movement,5.0,1
+Ballism,Involuntary movement symptom,5.0,1
+Environmental sleep disorder,Disturbance in sleep behavior,4.0,1
+Sleep disorder,Disturbance in sleep behavior,4.0,1
+Sleep disorder,Other sleep stage or arousal dysfunction,1.0,1
+Sleep disorder,Sleep dysfunction with sleep stage disturbance,1.0,1
+Sleep disorder,Sleep dysfunction with arousal disturbance,1.0,1
+Neonatal gastrointestinal disorder,Vomiting in newborn,2.0,1
+Afebrile seizure,Seizure,169.0,1
+Hyperkeratosis (disorder),Subungual hyperkeratosis,3.0,1
+Hyperkeratosis (morphologic abnormality),Subungual hyperkeratosis,3.0,1
+Periorbital erythema,Erythema of skin,89.0,1
+Periorbital erythema,Erythematous condition,89.0,1
+Respiratory tract congestion,Congestion of nasal sinus,4.0,1
+Refractory epilepsy,Seizure,169.0,1
+Pseudocyst of ear,Mass of ear structure,8.0,1
+Purple glove syndrome,Cyanosis of skin,6.0,1
+Effusion of joint,Joint swelling,1.0,1
+Effusion of joint,Joint effusion of other specified site,1.0,1
+Effusion of joint,Painful swelling of joint,2.0,1
+Diffuse pyelonephritis,Diffuse inflammation,11.0,1
+Exfoliative erythema,Erythema of skin,89.0,1
+Exfoliative erythema,Erythematous condition,89.0,1
+Anterior ethmoidal nerve syndrome,Neuropathic pain,16.0,1
+Anterior ethmoidal nerve syndrome,Pain (finding),136.0,1
+Disorder of eye region,Periorbital edema,3.0,1
+Disorder of eye region,Spasm of conjugate gaze,3.0,1
+Disorder of eye region,Irregular nystagmus,2.0,1
+Disorder of eye region,Gaze paretic nystagmus,2.0,1
+Disorder of eye region,Postural nystagmus,2.0,1
+Disorder of eye region,Spontaneous nystagmus,2.0,1
+Disorder of eye region,Body positional nystagmus,2.0,1
+Disorder of eye region,Nystagmus produced by neck rotation,3.0,1
+Disorder of eye region,Nystagmus enhanced when fixation removed,3.0,1
+Disorder of eye region,Nystagmus signs,2.0,1
+Disorder of eye region,Elliptical nystagmus,3.0,1
+Functional amblyopia,(Visual disturbances NOS) or (amblyopia) or (blurred vision),2.0,1
+Visual perceptual weakness,Subjective visual disturbance,7.0,1
+Visual perceptual weakness,Visual alteration,9.0,1
+Scotopic sensitivity,Visual alteration,9.0,1
+Chondrodermatitis nodularis (disorder),Mass of ear structure,8.0,1
+Physiological cutis marmorata,Pale complexion,8.0,1
+Neonatal cutis marmorata,Pale complexion,8.0,1
+Normocomplementemic urticarial vasculitis,Urticarial vasculitis (disorder),7.0,1
+Diabetic wet gangrene of the foot,[D]Widespread diabetic foot gangrene,1.0,1
+Viral wart on lip,Mass of oral cavity,7.0,1
+Erythema nodosum due to streptococcal infection,Erythema of skin,89.0,1
+Erythema nodosum due to streptococcal infection,Erythematous condition,89.0,1
+Erythema nodosum due to Yersinia enterocolitica,Erythema of skin,89.0,1
+Erythema nodosum due to Yersinia enterocolitica,Erythematous condition,89.0,1
+Erythema multiforme due to mycoplasma infection,Erythema of skin,89.0,1
+Erythema multiforme due to mycoplasma infection,Erythematous condition,89.0,1
+Familial actinic prurigo,Erythema of skin,89.0,1
+Familial actinic prurigo,Erythematous condition,89.0,1
+Familial actinic prurigo of lip,Erythema of skin,89.0,1
+Familial actinic prurigo of lip,Erythematous condition,89.0,1
+Papular form erythema multiforme,Erythema of skin,89.0,1
+Papular form erythema multiforme,Erythematous condition,89.0,1
+Vesicobullous form erythema multiforme,Erythema of skin,89.0,1
+Vesicobullous form erythema multiforme,Erythematous condition,89.0,1
+Erythema multiforme due to malignancy,Erythema of skin,89.0,1
+Erythema multiforme due to malignancy,Erythematous condition,89.0,1
+Clubbing of nails associated with systemic disorder,Clubbing (morphologic abnormality),2.0,1
+Clubbing of nails associated with systemic disorder,Clubbing of nail (disorder),4.0,1
+Acquired koilonychia,Koilonychia,5.0,1
+Postmenopausal flushing,Face goes red,3.0,1
+Stellate pseudoscar in senile purpura,Stellate pseudoscar,5.0,1
+Penile sclerosing lipogranuloma,Perineal lump (finding),6.0,1
+Penile sclerosing lipogranuloma,Mass of male genital structure,3.0,1
+Lupus erythematosus-associated urticarial vasculitis,Urticarial vasculitis (disorder),7.0,1
+Postmenopausal pruritus,Pruritus of skin,26.0,1
+Postmenopausal pruritus,Itching of skin,26.0,1
+Postmenopausal pruritus,Itch of skin,26.0,1
+Postmenopausal pruritus,Other specified pruritic conditions (disorder),6.0,1
+Pruritus due to systemic disorder,Pruritus of skin,26.0,1
+Pruritus due to systemic disorder,Itching of skin,26.0,1
+Pruritus due to systemic disorder,Itch of skin,26.0,1
+Serum sickness due to drug,Immune complex urticaria,7.0,1
+Drug-induced Stevens-Johnson syndrome,Erythema of skin,89.0,1
+Drug-induced Stevens-Johnson syndrome,Erythematous condition,89.0,1
+Drug-induced erythema,Erythema of skin,89.0,1
+Drug-induced erythema,Erythematous condition,89.0,1
+Drug-induced flushing,Face goes red,3.0,1
+Erythroderma due to vancomycin,Erythema of skin,89.0,1
+Erythroderma due to vancomycin,Erythematous condition,89.0,1
+Non-melanin pigmentation due to drug,Drug pigmentation,7.0,1
+Acral erythema due to cytotoxic therapy,Erythema of skin,89.0,1
+Acral erythema due to cytotoxic therapy,Erythematous condition,89.0,1
+Stellate pseudoscars due to corticosteroids,Stellate pseudoscar,5.0,1
+Drug-induced mucositis,Rhinitis due to alpha-adrenergic blocking agent,2.0,1
+PUVA-induced pruritus,Pruritus of skin,26.0,1
+PUVA-induced pruritus,Itching of skin,26.0,1
+PUVA-induced pruritus,Itch of skin,26.0,1
+Eosinophilia-myalgia syndrome from tryptophan,Pain (finding),136.0,1
+Erythroderma of unknown etiology,Erythema of skin,89.0,1
+Erythroderma of unknown etiology,Erythematous condition,89.0,1
+Lymphedema of lower extremity,Edema of lower extremity,1.0,1
+Lymphedema of penis,Edema of penis,3.0,1
+Hemodialysis-associated pruritus,Pruritus of skin,26.0,1
+Hemodialysis-associated pruritus,Itching of skin,26.0,1
+Hemodialysis-associated pruritus,Itch of skin,26.0,1
+Scaling eczema,Erythema of skin,89.0,1
+Scaling eczema,Erythematous condition,89.0,1
+Senile asteatotic eczema,Pruritus of skin,26.0,1
+Senile asteatotic eczema,Itching of skin,26.0,1
+Senile asteatotic eczema,Itch of skin,26.0,1
+Splenic hamartoma,Mass of lymphoreticular structure,5.0,1
+Porphyria-induced scleroderma,Thickening of skin,3.0,1
+Pangastritis,Diffuse inflammation,11.0,1
+Exacerbation of backache,Dorsalgia,3.0,1
+Crusting of pigmented skin lesion,Changes in skin texture,2.0,1
+Post infarct angina,Angina,23.0,1
+Post infarct angina,Ischemic chest pain,23.0,1
+Post infarct angina,Pain (finding),136.0,1
+Post infarct angina,[X]Other forms of angina pectoris,14.0,1
+Exanthematous disorder,Erythema of skin,89.0,1
+Exanthematous disorder,Erythematous condition,89.0,1
+Endometriosis of uterosacral ligament,Pain (finding),136.0,1
+Contact lens related giant papillary conjunctivitis,Contact lens related disorder,3.0,1
+Diffuse episcleritis,Diffuse inflammation,11.0,1
+Divergence insufficiency,Anomaly of divergence,2.0,1
+Mild dietary indigestion,Indigestion (finding),1.0,1
+Neurologic unpleasant taste,Bad taste in mouth,1.0,1
+Neurologic unpleasant taste,Unpleasant taste in mouth,1.0,1
+Female Kallman's syndrome,Loss of sense of smell,2.0,1
+Degenerative disorder,Schistosomal pigment deposition,4.0,1
+Inflammation of specific body systems,Tuberculous chancre,3.0,1
+Hereditary disorder of the visual system,Visual alteration,9.0,1
+Neonatal cardiovascular disorder,Neonatal cyanosis,2.0,1
+Disorder of finger,Paroxysmal hematoma of the finger,2.0,1
+Urticaria perstans,Urticaria persistans,1.0,1
+Infectious disease of mucous membrane,Purulent nasal discharge,8.0,1
+Infectious disease of mucous membrane,Purulent rhinitis,8.0,1
+Melanocytic nevus of ear,Mass of ear structure,8.0,1
+Chronic disease of musculoskeletal system,Intermittent torticollis,2.0,1
+Musculoskeletal disorder of the neck,Wry neck/torticollis,5.0,1
+Musculoskeletal disorder of the neck,Spasmodic torticollis (disorder),4.0,1
+Disorder of cervical spine (disorder),Wry neck/torticollis,5.0,1
+Disorder of cervical spine (disorder),Intermittent torticollis,2.0,1
+Acute disease of cardiovascular system,Paroxysmal hypertension,3.0,1
+Chronic digestive system disorder,Intermittent vomiting,2.0,1
+Disorder of upper gastrointestinal tract,Nausea and vomiting (disorder),2.0,1
+Disorder of upper gastrointestinal tract,Uncontrollable vomiting,3.0,1
+Disorder of upper gastrointestinal tract,Intermittent vomiting,2.0,1
+Disorder of upper gastrointestinal tract,Vomiting after gastrointestinal tract surgery,1.0,1
+Disorder of upper gastrointestinal tract,Postoperative nausea,1.0,1
+Disorder of palate,Palatal myoclonus,5.0,1
+Disorder of uvula of palate,Edema of uvula,3.0,1
+Diarrheal disorder,Diarrhea symptom,39.0,1
+Diarrheal disorder,Loose stool,39.0,1
+Diarrheal disorder,"Nausea, vomiting and diarrhea",1.0,1
+Diarrheal disorder,Diarrhea after gastrointestinal tract surgery,1.0,1
+Acute nervous system disorder,Paroxysmal dystonia,4.0,1
+Neurologic disorder of eye movements,Ophthalmoplegia (disorder),11.0,1
+Neurologic disorder of eye movements,Smooth pursuit movement deficiency,1.0,1
+Neurologic disorder of eye movements,Deficiency of smooth pursuit movements,1.0,1
+Disorder characterized by edema,Periorbital edema,3.0,1
+Disorder characterized by edema,Edema of oral soft tissues,4.0,1
+Disorder characterized by edema,Gestational edema without hypertension,1.0,1
+Disorder characterized by edema,Edema of newborn,2.0,1
+Disorder characterized by edema,Edema of spinal cord,3.0,1
+Disorder characterized by edema,Edema of oral vestibule,4.0,1
+Disorder of face,Periorbital edema,3.0,1
+Disorder of face,Neonatal facial petechiae,3.0,1
+Disorder of face,Traumatic neonatal facial cyanosis,3.0,1
+Disorder of abdomen,Acute abdomen,1.0,1
+Disorder of abdomen,Intra-abdominal collection,3.0,1
+Disorder of abdomen,Pain during inflow of dialysate,2.0,1
+Disorder of abdomen,Pain during outflow of dialysate,2.0,1
+Disorder of abdomen,Disorder of umbilicus,12.0,1
+Disorder of abdominal wall,Scaphoid abdomen,1.0,1
+Disorder of abdominal wall,Ilioinguinal nerve neuralgia,7.0,1
+Disorder of abdominal wall,Genitofemoral nerve neuralgia,6.0,1
+Disorder of pelvis,Ilioinguinal nerve neuralgia,7.0,1
+Disorder of pelvis,Genitofemoral nerve neuralgia,6.0,1
+Disorder of lower extremity,Paraparesis (disorder),2.0,1
+Disorder of lower extremity,Cruralgia,4.0,1
+Disorder of lower extremity,Ilioinguinal nerve neuralgia,7.0,1
+Disorder of extremity,Flaccid tetraplegia,2.0,1
+Disorder of thigh,Lateral femoral cutaneous neuralgia,4.0,1
+Disorder of thigh,Obturator neuralgia,4.0,1
+Disorder of thigh,Genitofemoral nerve neuralgia,6.0,1
+Disorder of lower leg (disorder),Saber shin,2.0,1
+Chronic nervous system disorder,Chronic progressive paraparesis,1.0,1
+Inflammatory disorder,Sporotrichotic chancre,3.0,1
+Chronic pain syndrome,Generalized aches and pains (finding),2.0,1
+Seizures complicating infection in the newborn,Seizure,169.0,1
+Progressive Angina (disorder),Angina,23.0,1
+Progressive Angina (disorder),Ischemic chest pain,23.0,1
+Progressive Angina (disorder),Pain (finding),136.0,1
+Recurrent angina after percutaneous transluminal coronary angioplasty,Angina,23.0,1
+Recurrent angina after percutaneous transluminal coronary angioplasty,Ischemic chest pain,23.0,1
+Recurrent angina after percutaneous transluminal coronary angioplasty,Pain (finding),136.0,1
+Recurrent angina after coronary stent placement,Angina,23.0,1
+Recurrent angina after coronary stent placement,Ischemic chest pain,23.0,1
+Recurrent angina after coronary stent placement,Pain (finding),136.0,1
+Recurrent angina after coronary artery bypass graft,Angina,23.0,1
+Recurrent angina after coronary artery bypass graft,Ischemic chest pain,23.0,1
+Recurrent angina after coronary artery bypass graft,Pain (finding),136.0,1
+Recurrent angina post rotational atherectomy,Angina,23.0,1
+Recurrent angina post rotational atherectomy,Ischemic chest pain,23.0,1
+Recurrent angina post rotational atherectomy,Pain (finding),136.0,1
+Recurrent angina post rotational atherectomy,[X]Other forms of angina pectoris,14.0,1
+Recurrent angina after directional coronary atherectomy,Angina,23.0,1
+Recurrent angina after directional coronary atherectomy,Ischemic chest pain,23.0,1
+Recurrent angina after directional coronary atherectomy,Pain (finding),136.0,1
+Recurrent angina after directional coronary atherectomy,[X]Other forms of angina pectoris,14.0,1
+Seizures due to metabolic disorder,Seizure,169.0,1
+Transient respiratory distress with sepsis,Respiratory distress (finding),3.0,1
+Exudative diathesis,Subepidermal edema,1.0,1
+Disorder characterized by pain,Angina,23.0,1
+Disorder characterized by pain,Ischemic chest pain,23.0,1
+Disorder characterized by pain,Glossodynia (disorder),4.0,1
+Disorder characterized by pain,Neuropathic pain,16.0,1
+Disorder characterized by pain,Pain (finding),136.0,1
+Disorder characterized by pain,Injection site pain,1.0,1
+Disorder characterized by pain,Cheilodynia (disorder),2.0,1
+Disorder characterized by pain,"Pain due to any device, implant AND/OR graft",1.0,1
+Disorder characterized by pain,Generalized aches and pains (finding),2.0,1
+Disorder characterized by pain,Painful legs and moving toes,4.0,1
+Disorder characterized by pain,Pain during inflow of dialysate,2.0,1
+Disorder characterized by pain,Pain during outflow of dialysate,2.0,1
+Disorder characterized by pain,Pain from breast implant,1.0,1
+Disorder characterized by pain,Pain from tissue expander,2.0,1
+Disorder characterized by pain,Rubella arthralgia,2.0,1
+Disorder characterized by pain,Painful arms and moving fingers,3.0,1
+Disorder characterized by pain,Painful hematuria,1.0,1
+Disorder characterized by pain,Polymyalgia,3.0,1
+Disorder characterized by pain,Painful blind eye,2.0,1
+Disorder characterized by pain,Pain at rest due to peripheral vascular disease,2.0,1
+Extraovarian endometriosis,Pain (finding),136.0,1
+Disorder of neonatal umbilicus,Disorder of umbilicus,12.0,1
+Headache following myelography,Headache (finding),59.0,1
+Postmyelography headache,Headache (finding),59.0,1
+Headache following myelography,Headache following lumbar puncture,1.0,1
+Postmyelography headache,Headache following lumbar puncture,1.0,1
+Headache following myelography,Reaction to spinal or lumbar puncture (disorder),3.0,1
+Postmyelography headache,Reaction to spinal or lumbar puncture (disorder),3.0,1
+Headache following myelography,Post dural puncture headache,3.0,1
+Postmyelography headache,Post dural puncture headache,3.0,1
+Disorder characterized by back pain,Dorsalgia,3.0,1
+Disorder characterized by back pain,Pain (finding),136.0,1
+Disorder characterized by back pain,(Backache NOS) or (back pain [& low]),2.0,1
+Condyloma acuminata of vagina,Mass of female genital structure,7.0,1
+Disorder of body cavity,Edema of oral vestibule,4.0,1
+Disorder of perianal skin,Pruritus ani,1.0,1
+Disorder of skin of head,Scalp itchy,2.0,1
+Disorder of skin of head,Neonatal facial petechiae,3.0,1
+Disorder of skin of head,Traumatic neonatal facial cyanosis,3.0,1
+Disorder of skin of trunk,Pruritus of penis,3.0,1
+Disorder of skin of trunk,Burning scrotum,4.0,1
+Disorder of skin of trunk,Scrotal pruritus,3.0,1
+Disorder of skin of upper limb,Paroxysmal hematoma of the finger,2.0,1
+Brachioradial pruritus,Pruritus of skin,26.0,1
+Brachioradial pruritus,Itching of skin,26.0,1
+Brachioradial pruritus,Itch of skin,26.0,1
+Angry back syndrome,Low back pain,4.0,1
+"Urticarial vasculitis with monoclonal IgM component, Schnitzler",Urticarial vasculitis (disorder),7.0,1
+Diffuse inflammatory erythema,Erythema of skin,89.0,1
+Diffuse inflammatory erythema,Erythematous condition,89.0,1
+Abnormality of nail shape,Koilonychia,5.0,1
+Necrotizing cutaneous vasculitis,Urticarial vasculitis (disorder),7.0,1
+Serum sickness type vasculitis,Immune complex urticaria,7.0,1
+Acute edema - cutaneous distension syndrome,Acute edema,11.0,1
+Acute edema blisters,Acute edema,11.0,1
+Lymphedema of lip,Edema of oral soft tissues,4.0,1
+Penile venereal edema,Edema of penis,3.0,1
+Generalized pruritus of unknown etiology,Pruritus of skin,26.0,1
+Generalized pruritus of unknown etiology,Itching of skin,26.0,1
+Generalized pruritus of unknown etiology,Itch of skin,26.0,1
+Urine induced contact dermatitis,Erythema of skin,89.0,1
+Urine induced contact dermatitis,Erythematous condition,89.0,1
+Diarrhea due to staphylococcus,Diarrhea symptom,39.0,1
+Diarrhea due to staphylococcus,Loose stool,39.0,1
+Nocturnal sleep-related eating disorder,Sleep automatism,4.0,1
+Eczema craquelé due to acute edema,Acute edema,11.0,1
+Simple partial seizure with focal motor signs with march,Seizure,169.0,1
+Postpartum fever,Pattern of fever - finding,1.0,1
+Constipation due to neurogenic bowel,Constipation (disorder),12.0,1
+Paroxysmal hemicrania,Headache (finding),59.0,1
+Stress-induced epilepsy,Seizure,169.0,1
+"Equilibration disorder, vestibular nerve",Problem with balance,1.0,1
+"Equilibration disorder, vestibular nerve",Impairment of balance,1.0,1
+"Complex regional pain syndrome, type II, lower limb",Pain (finding),136.0,1
+"Complex regional pain syndrome, type II, upper limb",Pain (finding),136.0,1
+Breast engorgement in newborn,Engorgement of breasts,2.0,1
+Claudication,Pain in lower limb (finding),2.0,1
+Corneal iron deposits,Stahli's line,2.0,1
+Gait apraxia,[X]Other and unspecified symbolic dysfunctions,6.0,1
+Gait apraxia,[D]Other symbolic dysfunction,6.0,1
+Nerve root disorder,Painful legs and moving toes,4.0,1
+Nerve root disorder,Segmental peripheral neuralgia,3.0,1
+Nerve root disorder,Painful arms and moving fingers,3.0,1
+Algodystrophy (disorder),Pain (finding),136.0,1
+Perinatal jaundice NOS,Newborn physiological jaundice (disorder),8.0,1
+Primary acquired melanosis of conjunctiva without atypia,Mass of eye structure,7.0,1
+Primary acquired melanosis of conjunctiva without atypia,Swelling of structure of eye,7.0,1
+Disorder of skeletal muscle,Blepharospasm (disorder),7.0,1
+Disorder of skeletal muscle,Increased muscle tone,1.0,1
+Disorder of skeletal muscle,Muscular hypertonicity,1.0,1
+Disorder of skeletal muscle,Polymyalgia,3.0,1
+(Plasma protein metabolism disorder: & [hyperproteinaemia] or [hypoproteinaemia]) or (Waldenstrom's macroglobulinaemia),Hypoproteinemia (disorder),3.0,1
+(Plasma protein metabolism disorder: & [hyperproteinemia] or [hypoproteinemia]) or (Waldenstrom's macroglobulinemia),Hypoproteinemia (disorder),3.0,1
+Dysmenorrhoea (& [non psychogenic] or [congestive] or [spasmodic]),Spasmodic dysmenorrhea,3.0,1
+Dysmenorrhea (& [non psychogenic] or [congestive] or [spasmodic]),Spasmodic dysmenorrhea,3.0,1
+([D]Hypersomnia with sleep apnea) or (sleep apnea syndrome),Hypersomnia with sleep apnea,2.0,1
+([D]Hypersomnia with sleep apnoea) or (sleep apnoea syndrome),Hypersomnia with sleep apnea,2.0,1
+(Neuralgia/neuritis - NOS) or (nerve root pain NEC),Neuropathic pain,16.0,1
+(Disturbance of consciousness) or (faint/syncope/vasovagal symptom),Syncope symptom,12.0,1
+(Disturbance of consciousness) or (faint/syncope/vasovagal symptom),Syncope and collapse,12.0,1
+(Disturbance of consciousness) or (faint/syncope/vasovagal symptom),Disturbance of consciousness,1.0,1
+(Disturbance of consciousness) or (faint/syncope/vasovagal symptom),Vasovagal symptom,1.0,1
+(Acute mucopurulent conjunctivitis) or (sticky eye),Discharge of eye,3.0,1
+(Chronic pharyngitis/nasopharyngitis) or (catarrh) or (congested nose),Nasal congestion,2.0,1
+(Chronic pharyngitis/nasopharyngitis) or (catarrh) or (congested nose),Catarrhal nasal discharge,2.0,1
+(Simple chronic bronchitis) or (smoker's cough) or (senile tracheobronchitis),Smokers' cough,3.0,1
+(Tendinitis: [ankle/tarsus] or [achilles] or [ankle]) or (calcaneal spur) or (metatarsalgia),Metatarsalgia (finding),2.0,1
+Temporomandibular joint: [ankylosis] or [stiff],Temporomandibular joint stiff,1.0,1
+Morning sickness (& [mild hyperemesis gravidarum]),Morning sickness,2.0,1
+(Tongue disease NOS) or (coated tongue) or (geographic tongue) or (glossodynia),Glossodynia (disorder),4.0,1
+(Tongue disease NOS) or (coated tongue) or (geographic tongue) or (glossodynia),Glossopyrosis (disorder),3.0,1
+(Coccygeal disorder NOS) or (coccydynia),Pain in the coccyx,2.0,1
+Central pain syndrome,Pain (finding),136.0,1
+Central pain syndrome,Pseudothalamic pain,1.0,1
+(Urticaria NOS) or (hives) or (pachydermia),Weal,6.0,1
+Genital varices in pregnancy (& [vaginal] or [vulval]),Vulval varices in pregnancy,3.0,1
+(Intolerance NEC: [fat] or [food] or [milk]) or (malabsorption NOS: [syndrome] or [other gastrointestinal tract]),Food intolerance,3.0,1
+(Retinal vascular occlusion) or (amaurosis fugax) or (retinal thrombosis),Amaurosis fugax,4.0,1
+(Warts: [genital] or [penile] or [venereal]) or (condylomata acuminatum),Penile warts,4.0,1
+Sleep disorders (& [insomnia] or [nightmares] or [sleepwalking (& somnambulism)]),Insomnia (disorder),7.0,1
+Dysmenorrhea (& spasmodic),Spasmodic dysmenorrhea,3.0,1
+Dysmenorrhoea (& spasmodic),Spasmodic dysmenorrhea,3.0,1
+Myoclonus: [other] or [paramyoclonus multiplex],Myoclonic disorder,29.0,1
+Physiological jaundice (& [NOS]),Newborn physiological jaundice (disorder),8.0,1
+(Transient ischaemic attacks) or (vertebro-basilar insufficiency) or (drop attacks),Drop attack,3.0,1
+(Transient ischemic attacks) or (vertebro-basilar insufficiency) or (drop attacks),Drop attack,3.0,1
+Idiopathic hypersomnia without long sleep time,Hypersomnia (disorder),7.0,1
+High altitude periodic breathing,Respiration intermittent,1.0,1
+Organic sleep disorder,Disturbance in sleep behavior,4.0,1
+(Skin and subcutaneous tissue disease NOS) or (sore skin),Sore skin (finding),2.0,1
+Mouth: [mucocele] or [discomfort] or [soft tissue diseases NOS],Discomfort in mouth,2.0,1
+Trigeminal autonomic cephalalgia,Headache (finding),59.0,1
+(Virilism) or (adrenogenital virilization) or (pseudohermaphrodite female with adrenocortical disorder),Virilization (finding),5.0,1
+(Virilism) or (adrenogenital virilisation) or (pseudohermaphrodite female with adrenocortical disorder),Virilization (finding),5.0,1
+(Sialectasia) or (stenosis of salivary duct) or (other salivary gland diseases),Sialectasia,2.0,1
+(Extrapyramidal disease NOS) or (blepharospasm) or (choreo-athetosis) or (writer's cramp - organic) or (myoclonic jerks) or (spasmodic torticollis),Blepharospasm (disorder),7.0,1
+(Extrapyramidal disease NOS) or (blepharospasm) or (choreo-athetosis) or (writer's cramp - organic) or (myoclonic jerks) or (spasmodic torticollis),Myoclonic disorder,29.0,1
+(Extrapyramidal disease NOS) or (blepharospasm) or (choreo-athetosis) or (writer's cramp - organic) or (myoclonic jerks) or (spasmodic torticollis),Spasmodic torticollis (disorder),4.0,1
+(Lid lag) or (xanthelasma) or (eyelid disorders NOS),Lid lag,1.0,1
+(Spinocerebellar disease) or (cerebellar ataxia) or (cerebellar disease),Cerebellar ataxia,11.0,1
+Nasal: [obstruction] or [congestion (& sinus)] or [infection] or [sore nostril] or [cavity and sinus disease NOS],Congestion of nasal sinus,4.0,1
+(Erythematous conditions NOS) or (granulome annulare),Erythema of skin,89.0,1
+(Other erythematous conditions NOS) or (granuloma annulare),Erythema of skin,89.0,1
+(Erythematous conditions NOS) or (granulome annulare),Erythematous condition,89.0,1
+(Other erythematous conditions NOS) or (granuloma annulare),Erythematous condition,89.0,1
+(Acute conjunctivitis) or (Newcastle's disease) or (viral pharyngoconjunctivitis) or (pink eye) or (sticky eye),Red eye,2.0,1
+(Acute conjunctivitis) or (Newcastle's disease) or (viral pharyngoconjunctivitis) or (pink eye) or (sticky eye),Discharge of eye,3.0,1
+(Skin disorders NOS) or (foreign body granuloma) or (pimple) or (wheal),Weal,6.0,1
+(Chronic intestinal vascular insufficiency) or (abdominal angina) or (chronic ischaemic colitis &/or enteritis),Abdominal angina,3.0,1
+(Chronic intestinal vascular insufficiency) or (abdominal angina) or (chronic ischemic colitis &/or enteritis),Abdominal angina,3.0,1
+(Chronic intestinal vascular insufficiency) or (abdominal angina) or (chronic ischaemic colitis &/or enteritis),Intestinal angina,3.0,1
+(Chronic intestinal vascular insufficiency) or (abdominal angina) or (chronic ischemic colitis &/or enteritis),Intestinal angina,3.0,1
+(Other specified urticaria) or (nettle rash),Weal,6.0,1
+(Drop attack) or (transient cerebral ischaemia) or (vertebro-basilar insufficiency),Drop attack,3.0,1
+(Drop attack) or (transient cerebral ischemia) or (vertebro-basilar insufficiency),Drop attack,3.0,1
+"(Neuralgia, neuritis or radiculitis NOS) or (policeman's disease)",Neuropathic pain,16.0,1
+Cheiro-oral syndrome,Skin sensation disturbance,6.0,1
+Temporal crescent syndrome,Other specified visual disturbance NOS,3.0,1
+Temporal crescent syndrome,Other specified visual disturbance,3.0,1
+Propensity to adverse reactions to food,Food intolerance,3.0,1
+Corneal argyriasis,Corneal pigmentations and deposits,4.0,1
+T-cell pseudolymphomatous lesion,Persistent light reaction,3.0,1
+Respiratory tract congestion and cough,C/O - cough,2.0,1
+Cerebellar ataxia associated with another disorder,Cerebellar ataxia,11.0,1
+Drug-induced corneal epithlelial deposit,Corneal pigmentations and deposits,4.0,1
+Dysphotopsia,Visual alteration,9.0,1
+Disorder of teeth AND/OR supporting structures,Toothache (finding),2.0,1
+Disorder of teeth AND/OR supporting structures,Painful tooth socket,1.0,1
+Disorder of skin pigmentation,Drug pigmentation,7.0,1
+Disorder of skin pigmentation,Achromia of skin (disorder),4.0,1
+Disorder of skin pigmentation,Malarial pigment deposition,5.0,1
+Episodic ataxia type 1 (disorder),Coordination problem,12.0,1
+Hypersensitivity disorder,Injection site hypersensitivity,1.0,1
+Subjective visual disturbance of image size,Subjective visual disturbance,7.0,1
+Subjective visual disturbance of image size,Visual distortions of shape AND/OR size,3.0,1
+Subjective visual disturbance of image size,Micropsia (disorder),3.0,1
+Micropsia due to organic disease,Visual distortions of shape AND/OR size,3.0,1
+Micropsia due to organic disease,Micropsia (disorder),3.0,1
+Neuralgia associated with AIDS,Neuropathic pain,16.0,1
+Neuralgia associated with AIDS,Pain (finding),136.0,1
+Episodic ataxia,Cerebellar ataxia,11.0,1
+Episodic ataxia,Coordination problem,12.0,1
+Episodic ataxia type 2,Coordination problem,12.0,1
+Melanin pigmentation of eye,Melanin pigmentation of cornea,2.0,1
+Migraine with typical aura,Headache (finding),59.0,1
+Refractory migraine with aura,Headache (finding),59.0,1
+"Migraine without aura, not refractory",Headache (finding),59.0,1
+Reflex blepharospasm,Blepharospasm (disorder),7.0,1
+Refractory occipital lobe epilepsy,Seizure,169.0,1
+"Epilepsy, not refractory",Seizure,169.0,1
+Refractory infantile spasms,Seizure,169.0,1
+Refractory infantile spasms,Spasm (finding),10.0,1
+Refractory migraine without aura,Headache (finding),59.0,1
+Refractory migraine,Headache (finding),59.0,1
+Refractory frontal lobe epilepsy,Seizure,169.0,1
+Refractory localization-related epilepsy,Seizure,169.0,1
+"Migraine variants, not intractable",Headache (finding),59.0,1
+Refractory parietal lobe epilepsy,Seizure,169.0,1
+Refractory migraine variants,Headache (finding),59.0,1
+Refractory epilepsia partialis continua,Seizure,169.0,1
+Myoclonic dystonia (disorder),Myoclonic disorder,29.0,1
+Numb chin syndrome,Skin sensation disturbance,6.0,1
+Irritable bowel syndrome characterized by constipation,Constipation (disorder),12.0,1
+Tendinitis of flexor hallucis longus,Cramp in foot,2.0,1
+Hypersomnia disorder related to menstruation,Hypersomnia (disorder),7.0,1
+Chronic hypercapnic respiratory failure,Hypercapnia (disorder),5.0,1
+Maxillary cyst,Mass of musculoskeletal structure,10.0,1
+Headache due to high altitude,Headache (finding),59.0,1
+Brainerd diarrhea,Diarrhea symptom,39.0,1
+Brainerd diarrhea,Loose stool,39.0,1
+Urethral wart,Mass of urinary system structure,3.0,1
+Non-epileptic myoclonus,Myoclonic disorder,29.0,1
+Intractable ophthalmic migraine,Headache (finding),59.0,1
+Vertigo as late effect of stroke,Subjective vertigo,12.0,1
+Transformed migraine,Headache (finding),59.0,1
+Stapedial myoclonus,Myoclonic disorder,29.0,1
+Loss of appetite,Anorexia symptom (finding),2.0,1
+Loss of appetite,Appetite loss - anorexia,1.0,1
+Vomiting in pregnancy (& [excess] or [hyperemesis gravidarum] or [morning sickness]),Hyperemesis gravidarum,6.0,1
+Vomiting in pregnancy (& [excess] or [hyperemesis gravidarum] or [morning sickness]),Morning sickness,2.0,1
+Diarrhea due to drug,Diarrhea symptom,39.0,1
+Diarrhea due to drug,Loose stool,39.0,1
+Pudendal neuralgia,Pain (finding),136.0,1
+Arthropathy of knee joint (disorder),Pain due to knee joint prosthesis,1.0,1
+Chronic hypercapnia,Hypercapnia (disorder),5.0,1
+Complex cyst of uterine adnexa,Mass of uterine adnexa,3.0,1
+Myoclonus of tensor tympani muscle,Myoclonic disorder,29.0,1
+(Soft tissue disorders NOS) or (polyalgia),Polyalgia,3.0,1
+Other specified dental disorder &/or toothache,Toothache (finding),2.0,1
+Vascular insufficiency of intestine (disorder),Abdominal angina,3.0,1
+Vascular insufficiency of intestine (disorder),Intestinal angina,3.0,1
+Vaginospasm (finding),Spasm (finding),10.0,1
+"Jacksonian, focal or motor epilepsy",Seizure,169.0,1
+Cyst of finger,Lump on finger,4.0,1
+(Acute nasopharyngitis) or (common cold) or (acute coryza) or (acute rhinitis) or (sniffles) or (snuffles),Snuffles,3.0,1
+(Acute nasopharyngitis) or (common cold) or (acute coryza) or (acute rhinitis) or (sniffles) or (snuffles),Nasal discharge,3.0,1
+(Acute nasopharyngitis) or (common cold) or (acute coryza) or (acute rhinitis) or (sniffles) or (snuffles),Nasal discharge present,3.0,1
+Hysterical micropsia,Visual distortions of shape AND/OR size,3.0,1
+Hysterical micropsia,Micropsia (disorder),3.0,1
+Neonatal hypotonia,Decreased muscle tone,1.0,1
+Neonatal hypotonia,Poor muscle tone,1.0,1
+Neonatal hypotonia,Benign congenital hypotonia (disorder),3.0,1
+Constipation due to spasm of colon,Constipation (disorder),12.0,1
+Acute renal failure with oliguria,Oliguria (finding),2.0,1
+Disorder of glenohumeral joint,Pain due to shoulder joint prosthesis,1.0,1
+Chronic headache disorder,Headache (finding),59.0,1
+Atonic constipation,Constipation (disorder),12.0,1
+Organic amnesia of language,Loss of memory,1.0,1
+Organic amnesia of language,Memory loss symptom,1.0,1
+Hemicrania continua,Headache (finding),59.0,1
+Benign Rolandic epilepsy,Seizure,169.0,1
+Other specific myoneural disorder (& [amyotonia congenita] or [Oppenheim's amyotonia] or [congenital benign hypotonia] or [floppy infant syndrome]),Benign congenital hypotonia (disorder),3.0,1
+Myxedematous form of cretinism,Hard edema,5.0,1
+Inflammation of skin due to parasite (disorder),Trypanosomal chancre,4.0,1
+Tension hydrothorax,Fluid disturbance,1.0,1
+Epilepsy characterized by intractable complex partial seizures,Seizure,169.0,1
+Refractory generalized nonconvulsive epilepsy,Seizure,169.0,1
+Myoclonus associated with fever,Myoclonic disorder,29.0,1
+Disorder of cornea associated with contact lens,Contact lens related disorder,3.0,1
+Remitting seronegative symmetrical synovitis with pitting edema,Pitting edema,1.0,1
+Bleeding Meckel's diverticulum,Umbilical hemorrhage,1.0,1
+Bleeding Meckel's diverticulum,Umbilical bleeding,1.0,1
+Accumulation of bile in abdominal cavity,Intra-abdominal collection,3.0,1
+Cholesterin granuloma of middle ear and mastoid,Mass of ear structure,8.0,1
+Cholesterin granuloma of middle ear and mastoid,Mass of musculoskeletal structure,10.0,1
+Uremia due to inadequate renal perfusion,[D]Extrarenal uraemia,1.0,1
+Uremia due to inadequate renal perfusion,[D]Extrarenal uremia,1.0,1
+Cyst of nasal sinus (disorder),Mass of respiratory structure,11.0,1
+Hypertensive lower esophageal sphincter (disorder),Hypertensive spasm of cardiac sphincter,1.0,1
+Epidermoid cyst of skin of thigh,Lump on thigh,1.0,1
+Epidermoid cyst of skin of ear,Mass of ear structure,8.0,1
+Verruca vulgaris of skin of lower extremity,Mass of lower limb,2.0,1
+Foreign body granuloma of penis,Perineal lump (finding),6.0,1
+Foreign body granuloma of penis,Mass of male genital structure,3.0,1
+Epidermoid cyst of skin of back,Mass of trunk,4.0,1
+Epidermoid cyst of skin of groin,Groin mass,2.0,1
+Epidermoid cyst of skin of cheek,Mass of digestive structure,22.0,1
+Verruca vulgaris of skin of pinna,Mass of ear structure,8.0,1
+Verruca vulgaris of skin of cheek,Mass of digestive structure,22.0,1
+Cyst of pinna,Mass of ear structure,8.0,1
+Cholesterin granuloma of mastoid,Mass of musculoskeletal structure,10.0,1
+Prurigo mitis,Pruritus of skin,26.0,1
+Prurigo mitis,Itching of skin,26.0,1
+Prurigo mitis,Itch of skin,26.0,1
+Hebra's prurigo,Pruritus of skin,26.0,1
+Hebra's prurigo,Itching of skin,26.0,1
+Hebra's prurigo,Itch of skin,26.0,1
+Chronic progressive epilepsia partialis continua of childhood,Seizure,169.0,1
+Mass associated with atrioventricular valve leaflet in atrioventricular septal defect,Mass of cardiovascular structure,4.0,1
+Congenital mass of mitral leaflet,Mass of cardiovascular structure,4.0,1
+Hydroa estivale,Erythema of skin,89.0,1
+Hydroa estivale,Erythematous condition,89.0,1
+Infection - suppurative,Purulent nasal discharge,8.0,1
+Infection - suppurative,Purulent rhinitis,8.0,1
+Primary acquired melanosis (disorder),Mass of eye structure,7.0,1
+Primary acquired melanosis (disorder),Swelling of structure of eye,7.0,1
+Hematoma of perianal region,Perianal lump,2.0,1
+Functional abdominal pain syndrome,Abdominal pain,4.0,1
+Functional abdominal pain syndrome,Pain (finding),136.0,1

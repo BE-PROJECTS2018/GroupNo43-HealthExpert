@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:app="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:padding="8dp"
+            card_view:cardElevation="5dp">
+
+
+            <LinearLayout
+                android:id="@+id/llItem"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:clickable="true"
+                android:orientation="horizontal"
+                android:padding="4dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_weight="3.2"
+                    android:padding="8dp">
+
+                    <de.hdodenhof.circleimageview.CircleImageView
+                        android:id="@+id/ivImage"
+                        android:layout_width="match_parent"
+                        android:layout_height="72dp"
+                        android:src="@drawable/avatar"
+                        app:border_color="@color/colorPrimary"
+                        app:border_width="1dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <com.healthexpert.ui.widgets.BaseTextView
+                            android:id="@+id/tvName"
+                            style="@style/PrimaryText"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:ellipsize="end"
+                            android:maxLines="1" />
+
+                    </LinearLayout>
+
+                    <com.healthexpert.ui.widgets.BaseTextView
+                        android:id="@+id/tvSpeciality"
+                        style="@style/SecondaryText"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+
+                    <com.healthexpert.ui.widgets.BaseTextView
+                        android:id="@+id/tvTime"
+                        style="@style/TertiaryText"
+                        android:layout_width="wrap_content"
+                        android:layout_height="26sp"
+                        android:layout_gravity="end|center"
+                        android:layout_margin="4dp"
+                        android:padding="4dp"
+                        android:textSize="14sp" />
+                </LinearLayout>
+            </LinearLayout>
+
+        </android.support.v7.widget.CardView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="8dp">
+
+
+            <com.healthexpert.ui.widgets.BaseTextView
+                style="@style/PrimaryText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/prescription_title" />
+
+            <com.healthexpert.ui.widgets.BaseTextView
+                android:id="@+id/tvPTitle"
+                style="@style/SecondaryText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="" />
+
+            <com.healthexpert.ui.widgets.BaseTextView
+                style="@style/PrimaryText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/prescription" />
+
+            <com.healthexpert.ui.widgets.BaseTextView
+                android:id="@+id/tvPrescription"
+                style="@style/SecondaryText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

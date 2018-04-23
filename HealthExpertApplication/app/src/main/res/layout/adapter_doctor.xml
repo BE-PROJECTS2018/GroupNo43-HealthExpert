@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/tools"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:padding="8dp"
+        card_view:cardElevation="5dp">
+
+
+        <LinearLayout
+            android:id="@+id/llItem"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:orientation="horizontal"
+            android:padding="4dp">
+
+            <LinearLayout
+                android:layout_gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="3.2"
+                android:padding="8dp">
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:id="@+id/ivImage"
+                    app:border_color="@color/colorPrimary"
+                    app:border_width="1dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="72dp"
+                    android:src="@drawable/avatar" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <com.healthexpert.ui.widgets.BaseTextView
+                        android:id="@+id/tvName"
+                        style="@style/PrimaryText"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:ellipsize="end"
+                        android:maxLines="1"
+                        android:text="Dr Sample" />
+
+                    <ImageView
+                        android:layout_width="26dp"
+                        android:layout_height="match_parent"
+                        android:padding="4dp"
+                        android:src="@drawable/like" />
+
+                    <com.healthexpert.ui.widgets.BaseTextView
+                        style="@style/TertiaryText"
+                        android:id="@+id/tvLikes"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_weight="2"
+                        android:gravity="center"
+                        android:text="263 votes" />
+                </LinearLayout>
+
+                <com.healthexpert.ui.widgets.BaseTextView
+                    android:id="@+id/tvSpeciality"
+                    style="@style/SecondaryText"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Nephrologist" />
+
+                <com.healthexpert.ui.widgets.BaseTextView
+                    android:id="@+id/tvExp"
+                    style="@style/SecondaryText"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="34 yrs experience" />
+
+                <LinearLayout android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <ImageView
+                        android:layout_gravity="center"
+                        android:src="@drawable/rate"
+                        android:layout_width="26dp"
+                        android:layout_height="26dp" />
+
+                    <com.healthexpert.ui.widgets.BaseTextView
+                        android:text="4.4"
+                        android:id="@+id/tvRating"
+                        style="@style/SecondaryText"
+                        android:padding="4dp"
+                        android:layout_gravity="center"
+                        android:gravity="center|start"
+                        android:layout_weight="1"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content" />
+
+                    <com.healthexpert.ui.widgets.BaseButton
+                        android:id="@+id/bCall"
+                        style="@style/SecondaryButton"
+                        android:layout_width="wrap_content"
+                        android:layout_height="26sp"
+                        android:layout_gravity="end|center"
+                        android:layout_margin="4dp"
+                        android:padding="4dp"
+                        android:text="@string/call"
+                        android:textSize="14sp" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+
+    </android.support.v7.widget.CardView>
+</LinearLayout>

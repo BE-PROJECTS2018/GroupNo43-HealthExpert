@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/clLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#ee212121"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/viewA"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1.95"
+            android:orientation="vertical">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/ivProfile"
+                android:layout_width="128dp"
+                android:layout_height="128dp"
+                android:layout_gravity="center"
+                android:padding="16dp"
+                android:src="@drawable/avatar"
+                android:textColor="@color/colorPrimary" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@android:color/white"
+            android:orientation="vertical"
+            android:padding="20dp">
+
+
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+
+                <com.healthexpert.ui.widgets.BaseTextView
+                    android:id="@+id/tvFullName"
+                    style="@style/PrimaryText"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:textSize="18sp" />
+            </android.support.design.widget.TextInputLayout>
+
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <com.healthexpert.ui.widgets.BaseTextView
+                    android:id="@+id/tvSpeciality"
+                    style="@style/PrimaryText"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center" />
+
+            </android.support.design.widget.TextInputLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <com.healthexpert.ui.widgets.BaseTextView
+                    android:id="@+id/tvExp"
+                    style="@style/PrimaryText"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:drawableLeft="@drawable/briefcase"
+                    android:drawablePadding="8dp"
+                    android:drawableStart="@drawable/briefcase"
+                    android:gravity="center_vertical"
+                    android:padding="8dp" />
+
+                <com.healthexpert.ui.widgets.BaseTextView
+                    android:id="@+id/tvLikes"
+                    style="@style/PrimaryText"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_weight="2"
+                    android:drawableLeft="@drawable/like_small"
+                    android:drawablePadding="8dp"
+                    android:drawableStart="@drawable/like_small"
+                    android:gravity="center_vertical"
+                    android:padding="8dp" />
+
+            </LinearLayout>
+
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+
+                <com.healthexpert.ui.widgets.BaseTextView
+                    android:id="@+id/tvEmailId"
+                    style="@style/PrimaryText"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:drawableLeft="@drawable/email"
+                    android:drawablePadding="8dp"
+                    android:drawableStart="@drawable/email"
+                    android:gravity="center_vertical"
+                    android:padding="8dp" />
+            </android.support.design.widget.TextInputLayout>
+
+
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+
+                <com.healthexpert.ui.widgets.BaseTextView
+                    android:id="@+id/tvAddress"
+                    style="@style/PrimaryText"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:drawableLeft="@drawable/address"
+                    android:drawablePadding="8dp"
+                    android:drawableStart="@drawable/address"
+                    android:gravity="center_vertical"
+                    android:padding="8dp" />
+
+            </android.support.design.widget.TextInputLayout>
+
+
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="8dp">
+
+                <com.healthexpert.ui.widgets.BaseTextView
+                    style="@style/PrimaryText"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/overall_rating" />
+
+                <android.support.v7.widget.AppCompatRatingBar
+                    android:id="@+id/rbRate"
+                    style="?android:attr/ratingBarStyleIndicator"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:isIndicator="true"
+                    android:numStars="5"
+                    android:theme="@style/RatingBar" />
+            </android.support.design.widget.TextInputLayout>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="2.2"
+            android:background="@android:color/white"
+            android:orientation="horizontal"
+            android:padding="8dp">
+
+            <com.healthexpert.ui.widgets.BaseButton
+                android:id="@+id/bFeedback"
+                style="@style/BaseButton"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/give_feedback" />
+
+            <com.healthexpert.ui.widgets.BaseButton
+                android:id="@+id/bCall"
+                style="@style/BaseButton"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/call" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <com.getbase.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fabBookmark"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:src="@drawable/star_outline"
+        android:tag="99"
+        app:fab_colorNormal="@color/colorPrimary"
+        app:fab_colorPressed="@color/colorPrimaryDark"
+        app:layout_anchor="@id/viewA"
+        app:layout_anchorGravity="bottom|right|end" />
+
+</android.support.design.widget.CoordinatorLayout>

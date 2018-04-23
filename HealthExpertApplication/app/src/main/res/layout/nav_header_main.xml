@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:background="@color/colorPrimaryDark"
+    android:orientation="vertical">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/profile_image"
+        android:layout_width="84dp"
+        android:layout_height="84dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginStart="20dp"
+        android:src="@mipmap/ic_launcher"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <com.healthexpert.ui.widgets.BaseTextView
+        android:id="@+id/username"
+        style="@style/PrimaryText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/email"
+        android:layout_alignLeft="@+id/profile_image"
+        android:layout_alignStart="@+id/profile_image"
+        android:paddingBottom="4dp"
+        android:text="@string/app_name"
+        android:textColor="@android:color/white"
+        android:textStyle="bold" />
+
+    <com.healthexpert.ui.widgets.BaseTextView
+        android:id="@+id/email"
+        style="@style/SecondaryText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/username"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/username"
+        android:textColor="#fff" />
+
+</RelativeLayout>

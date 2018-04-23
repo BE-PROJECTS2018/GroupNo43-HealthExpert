@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.CardView
+        android:layout_margin="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.healthexpert.ui.widgets.BaseEditText
+            android:id="@+id/etSpeciality"
+            style="@style/BaseEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:drawableLeft="@drawable/search"
+            android:drawablePadding="8dp"
+            android:drawableStart="@drawable/search"
+            android:hint="@string/specialities" />
+    </android.support.v7.widget.CardView>
+
+    <com.healthexpert.ui.widgets.BaseTextView
+        style="@style/SecondaryText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:text="@string/select_speciality"
+        android:textSize="14sp" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rvSpeciality"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+         />
+    <ProgressBar
+        android:id="@+id/pgProgress"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent" />
+</LinearLayout>

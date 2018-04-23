@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/dragView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/white"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <com.healthexpert.ui.widgets.BaseEditText
+                android:id="@+id/etSymptom"
+                style="@style/BaseEditText"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:clickable="true"
+                android:focusable="false"
+                android:hint="@string/select_symptoms" />
+        </android.support.design.widget.TextInputLayout>
+
+        <LinearLayout
+            android:id="@+id/llParentStatus"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <com.healthexpert.ui.widgets.BaseCheckbox
+                android:id="@+id/cbParentStatus"
+                style="@style/PrimaryText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <com.healthexpert.ui.widgets.BaseTextView
+                style="@style/SecondaryText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/include_paternal_details" />
+        </LinearLayout>
+
+        <com.healthexpert.ui.widgets.BaseTextView
+            android:id="@+id/tvResults"
+            style="@style/PrimaryText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <com.healthexpert.ui.widgets.BaseButton
+            android:id="@+id/bSubmit"
+            style="@style/BaseButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/submit" />
+    </LinearLayout>
+</LinearLayout>

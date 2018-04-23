@@ -1,0 +1,88 @@
+Source,Target
+accident  cerebrovascular,asthenia
+anemia,asthenia
+arthritis,asthenia
+carcinoma of lung,asthenia
+carcinoma prostate,asthenia
+chronic  kidney failure,asthenia
+confusion,asthenia
+degenerative  polyarthritis,asthenia
+deglutition  disorder,asthenia
+dehydration,asthenia
+diabetes,asthenia
+gastroesophageal  reflux disease,asthenia
+hemiparesis,asthenia
+hernia,asthenia
+hypertensive  disease,asthenia
+hypothyroidism,asthenia
+incontinence,asthenia
+infection  urinary tract,asthenia
+insufficiency  renal,asthenia
+kidney  failure acute,asthenia
+malignant  neoplasm of lung,asthenia
+malignant  neoplasm of prostate,asthenia
+neuropathy,asthenia
+transient  ischemic attack,asthenia
+Alzheimer's  disease,nightmare
+anxiety  state,nightmare
+depression  mental,nightmare
+depressive disorder,nightmare
+hypothyroidism,nightmare
+personality  disorder,nightmare
+psychotic  disorder,nightmare
+degenerative  polyarthritis,drowsiness
+delirium,drowsiness
+encephalopathy,drowsiness
+epilepsy,drowsiness
+hemiparesis,drowsiness
+hypothyroidism,drowsiness
+ischemia,drowsiness
+overload  fluid,drowsiness
+parkinson  disease,drowsiness
+suicide  attempt,drowsiness
+tonic-clonic  epilepsy,drowsiness
+tonic-clonic seizures,drowsiness
+adenocarcinoma,pain
+adhesion,pain
+anemia,pain
+anxiety  state,pain
+arthritis,pain
+biliary  calculus,pain
+carcinoma,pain
+cellulitis,pain
+cholecystitis,pain
+cholelithiasis,pain
+colitis,pain
+deep  vein thrombosis,pain
+degenerative  polyarthritis,pain
+dementia,pain
+diverticulitis,pain
+diverticulosis,pain
+effusion  pericardial,pain
+exanthema,pain
+gastritis,pain
+gastroesophageal  reflux disease,pain
+gout,pain
+hemorrhoids,pain
+hernia,pain
+hypercholesterolemia,pain
+infection,pain
+lymphatic  diseases,pain
+malignant  neoplasms,pain
+melanoma,pain
+mitral  valve insufficiency,pain
+neoplasm,pain
+neoplasm  metastasis,pain
+neuropathy,pain
+obesity,pain
+osteomyelitis,pain
+osteoporosis,pain
+pancreatitis,pain
+pericardial effusion body substance,pain
+pneumonia  aspiration,pain
+primary malignant neoplasm,pain
+pyelonephritis,pain
+sickle  cell anemia,pain
+spasm  bronchial,pain
+stenosis  aortic valve,pain
+tricuspid  valve insufficiency,pain

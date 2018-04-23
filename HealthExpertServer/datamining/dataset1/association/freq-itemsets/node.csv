@@ -1,0 +1,92 @@
+Id,Label,Attribute
+asthenia,asthenia,Symptom
+nightmare,nightmare,Symptom
+drowsiness,drowsiness,Symptom
+pain,pain,Symptom
+accident  cerebrovascular,accident  cerebrovascular,Disease
+anemia,anemia,Disease
+arthritis,arthritis,Disease
+carcinoma of lung,carcinoma of lung,Disease
+carcinoma prostate,carcinoma prostate,Disease
+chronic  kidney failure,chronic  kidney failure,Disease
+confusion,confusion,Disease
+degenerative  polyarthritis,degenerative  polyarthritis,Disease
+deglutition  disorder,deglutition  disorder,Disease
+dehydration,dehydration,Disease
+diabetes,diabetes,Disease
+gastroesophageal  reflux disease,gastroesophageal  reflux disease,Disease
+hemiparesis,hemiparesis,Disease
+hernia,hernia,Disease
+hypertensive  disease,hypertensive  disease,Disease
+hypothyroidism,hypothyroidism,Disease
+incontinence,incontinence,Disease
+infection  urinary tract,infection  urinary tract,Disease
+insufficiency  renal,insufficiency  renal,Disease
+kidney  failure acute,kidney  failure acute,Disease
+malignant  neoplasm of lung,malignant  neoplasm of lung,Disease
+malignant  neoplasm of prostate,malignant  neoplasm of prostate,Disease
+neuropathy,neuropathy,Disease
+transient  ischemic attack,transient  ischemic attack,Disease
+Alzheimer's  disease,Alzheimer's  disease,Disease
+anxiety  state,anxiety  state,Disease
+depression  mental,depression  mental,Disease
+depressive disorder,depressive disorder,Disease
+hypothyroidism,hypothyroidism,Disease
+personality  disorder,personality  disorder,Disease
+psychotic  disorder,psychotic  disorder,Disease
+degenerative  polyarthritis,degenerative  polyarthritis,Disease
+delirium,delirium,Disease
+encephalopathy,encephalopathy,Disease
+epilepsy,epilepsy,Disease
+hemiparesis,hemiparesis,Disease
+hypothyroidism,hypothyroidism,Disease
+ischemia,ischemia,Disease
+overload  fluid,overload  fluid,Disease
+parkinson  disease,parkinson  disease,Disease
+suicide  attempt,suicide  attempt,Disease
+tonic-clonic  epilepsy,tonic-clonic  epilepsy,Disease
+tonic-clonic seizures,tonic-clonic seizures,Disease
+adenocarcinoma,adenocarcinoma,Disease
+adhesion,adhesion,Disease
+anemia,anemia,Disease
+anxiety  state,anxiety  state,Disease
+arthritis,arthritis,Disease
+biliary  calculus,biliary  calculus,Disease
+carcinoma,carcinoma,Disease
+cellulitis,cellulitis,Disease
+cholecystitis,cholecystitis,Disease
+cholelithiasis,cholelithiasis,Disease
+colitis,colitis,Disease
+deep  vein thrombosis,deep  vein thrombosis,Disease
+degenerative  polyarthritis,degenerative  polyarthritis,Disease
+dementia,dementia,Disease
+diverticulitis,diverticulitis,Disease
+diverticulosis,diverticulosis,Disease
+effusion  pericardial,effusion  pericardial,Disease
+exanthema,exanthema,Disease
+gastritis,gastritis,Disease
+gastroesophageal  reflux disease,gastroesophageal  reflux disease,Disease
+gout,gout,Disease
+hemorrhoids,hemorrhoids,Disease
+hernia,hernia,Disease
+hypercholesterolemia,hypercholesterolemia,Disease
+infection,infection,Disease
+lymphatic  diseases,lymphatic  diseases,Disease
+malignant  neoplasms,malignant  neoplasms,Disease
+melanoma,melanoma,Disease
+mitral  valve insufficiency,mitral  valve insufficiency,Disease
+neoplasm,neoplasm,Disease
+neoplasm  metastasis,neoplasm  metastasis,Disease
+neuropathy,neuropathy,Disease
+obesity,obesity,Disease
+osteomyelitis,osteomyelitis,Disease
+osteoporosis,osteoporosis,Disease
+pancreatitis,pancreatitis,Disease
+pericardial effusion body substance,pericardial effusion body substance,Disease
+pneumonia  aspiration,pneumonia  aspiration,Disease
+primary malignant neoplasm,primary malignant neoplasm,Disease
+pyelonephritis,pyelonephritis,Disease
+sickle  cell anemia,sickle  cell anemia,Disease
+spasm  bronchial,spasm  bronchial,Disease
+stenosis  aortic valve,stenosis  aortic valve,Disease
+tricuspid  valve insufficiency,tricuspid  valve insufficiency,Disease

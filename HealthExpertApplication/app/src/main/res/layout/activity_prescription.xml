@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/dragView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/white"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <com.healthexpert.ui.widgets.BaseEditText
+                android:id="@+id/etPtitle"
+                style="@style/BaseEditText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/prescription_title" />
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <com.healthexpert.ui.widgets.BaseMaterialEditText
+                android:id="@+id/etPrescription"
+                style="@style/BaseEditText"
+                android:layout_width="match_parent"
+                android:layout_height="356dp"
+                android:gravity="top|left"
+                android:hint="@string/prescription"
+                app:met_floatingLabelText="@string/prescription"
+                app:met_minCharacters="50"
+                app:met_validateOnFocusLost="true" />
+        </android.support.design.widget.TextInputLayout>
+    </LinearLayout>
+
+    <com.healthexpert.ui.widgets.BaseButton
+        android:id="@+id/bSubmit"
+        android:layout_margin="16dp"
+        style="@style/BaseButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="@string/submit" />
+</RelativeLayout>
